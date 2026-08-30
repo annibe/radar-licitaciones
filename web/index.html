@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar de licitaciones · Mercado Público</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>📡</text></svg>">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<header class="cabecera">
+  <div class="contenido">
+    <h1>Radar de licitaciones</h1>
+    <p class="bajada">Mercado Público · <span id="resumen">cargando…</span></p>
+  </div>
+</header>
+
+<main class="contenido">
+
+  <section class="filtros" aria-label="Filtros">
+    <div class="campo campo-ancho">
+      <label for="texto">Buscar</label>
+      <input id="texto" type="search" placeholder="palabra en el nombre, la descripción o el organismo" autocomplete="off">
+    </div>
+
+    <div class="campo">
+      <label for="estado">Estado</label>
+      <select id="estado"><option value="">Todos</option></select>
+    </div>
+
+    <div class="campo">
+      <label for="region">Región</label>
+      <select id="region"><option value="">Todas</option></select>
+    </div>
+
+    <div class="campo">
+      <label for="dias">Publicación</label>
+      <select id="dias">
+        <option value="0" selected>Cualquier fecha</option>
+        <option value="1">Publicadas hoy</option>
+        <option value="3">Últimos 3 días</option>
+        <option value="7">Última semana</option>
+        <option value="30">Último mes</option>
+      </select>
+    </div>
+
+    <div class="campo">
+      <label for="montoMin">Monto desde (CLP)</label>
+      <input id="montoMin" type="number" min="0" step="100000" placeholder="0">
+    </div>
+
+    <div class="campo">
+      <label for="montoMax">Monto hasta (CLP)</label>
+      <input id="montoMax" type="number" min="0" step="100000" placeholder="sin tope">
+    </div>
+
+    <div class="campo campo-acciones">
+      <label class="casilla" for="soloNuevas">
+        <input id="soloNuevas" type="checkbox"> Solo las nuevas de hoy
+      </label>
+      <button id="limpiar" type="button" class="boton-secundario">Limpiar filtros</button>
+    </div>
+  </section>
+
+  <section class="descargas" aria-label="Descargas">
+    <p>Llévate todo lo que ves aquí en un archivo:</p>
+    <a href="descargas/licitaciones.xlsx" download>⬇ Excel (3 hojas)</a>
+    <a href="descargas/licitaciones.csv" download>⬇ CSV</a>
+  </section>
+
+  <p class="conteo" id="conteo" role="status"></p>
+
+  <div id="lista" class="lista"></div>
+
+  <p id="vacio" class="vacio oculto">
+    Ninguna licitación calza con estos filtros. Prueba ampliando el rango de días o borrando el texto de búsqueda.
+  </p>
+
+</main>
+
+<footer class="pie contenido">
+  <p>
+    Datos obtenidos de la API pública de ChileCompra. El monto estimado es referencial:
+    manda siempre lo que dice la ficha oficial en mercadopublico.cl.
+  </p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
