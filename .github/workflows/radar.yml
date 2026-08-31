@@ -2,8 +2,11 @@ name: Radar diario de licitaciones
 
 on:
   schedule:
-    # 12:00 UTC = 08:00 en Chile (09:00 en horario de verano)
-    - cron: "0 12 * * *"
+    # 10:17 UTC = 06:17 en Chile (07:17 en horario de verano).
+    # Hora "rara" y temprana a proposito: GitHub encola las tareas gratuitas y las
+    # horas en punto son las mas congestionadas, asi el correo llega en la manana
+    # aunque se retrase un par de horas.
+    - cron: "17 10 * * *"
   workflow_dispatch:        # botón "Run workflow" para lanzarlo a mano
 
 permissions:
