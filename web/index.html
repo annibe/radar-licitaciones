@@ -59,6 +59,14 @@
       <label class="casilla" for="soloNuevas">
         <input id="soloNuevas" type="checkbox"> Solo las nuevas de hoy
       </label>
+      <label class="casilla" for="soloFavoritas">
+        <input id="soloFavoritas" type="checkbox">
+        Solo mis favoritas (<span id="cuentaFavoritas">0</span>)
+      </label>
+      <label class="casilla" for="verDescartadas">
+        <input id="verDescartadas" type="checkbox">
+        Ver las eliminadas (<span id="cuentaDescartadas">0</span>)
+      </label>
       <button id="limpiar" type="button" class="boton-secundario">Limpiar filtros</button>
     </div>
   </section>
@@ -70,6 +78,11 @@
   </section>
 
   <p class="conteo" id="conteo" role="status"></p>
+
+  <p id="avisoDescartadas" class="aviso-descartadas oculto">
+    Estás viendo las licitaciones que eliminaste. Puedes devolver cualquiera a la lista.
+    <button id="restaurarTodas" type="button" class="boton-secundario">Devolverlas todas</button>
+  </p>
 
   <div id="lista" class="lista"></div>
 

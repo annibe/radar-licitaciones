@@ -12,10 +12,74 @@ const controles = {
   montoMin: el("montoMin"),
   montoMax: el("montoMax"),
   soloNuevas: el("soloNuevas"),
+  verDescartadas: el("verDescartadas"),
+  soloFavoritas: el("soloFavoritas"),
 };
 
 let licitaciones = [];
 let codigosNuevas = new Set();
+let descartadas = new Set();
+
+const CLAVE_DESCARTADAS = "radar-licitaciones-descartadas";
+const CLAVE_FAVORITAS = "radar-licitaciones-favoritas";
+
+let favoritas = new Set();
+
+function leerFavoritas() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(CLAVE_FAVORITAS) || "[]"));
+  } catch (e) {
+    return new Set();
+  }
+}
+
+function guardarFavoritas() {
+  try {
+    localStorage.setItem(CLAVE_FAVORITAS, JSON.stringify([...favoritas]));
+  } catch (e) {
+    /* modo privado: no se puede guardar */
+  }
+  const cuenta = el("cuentaFavoritas");
+  if (cuenta) cuenta.textContent = favoritas.size;
+}
+
+function alternarFavorita(codigo) {
+  if (favoritas.has(codigo)) favoritas.delete(codigo);
+  else favoritas.add(codigo);
+  guardarFavoritas();
+  pintar();
+}
+
+function leerDescartadas() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(CLAVE_DESCARTADAS) || "[]"));
+  } catch (e) {
+    return new Set();
+  }
+}
+
+function guardarDescartadas() {
+  try {
+    localStorage.setItem(CLAVE_DESCARTADAS, JSON.stringify([...descartadas]));
+  } catch (e) {
+    /* modo privado: no se puede guardar */
+  }
+  const cuenta = el("cuentaDescartadas");
+  if (cuenta) cuenta.textContent = descartadas.size;
+}
+
+function descartar(codigo) {
+  descartadas.add(codigo);
+  if (favoritas.delete(codigo)) guardarFavoritas();
+  guardarDescartadas();
+  pintar();
+}
+
+function devolver(codigo) {
+  descartadas.delete(codigo);
+  guardarDescartadas();
+  pintar();
+}
 
 const sinTildes = (t) =>
   (t || "").toString().normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
@@ -74,6 +138,18 @@ async function cargarTodo() {
         momento.toLocaleTimeString("es-CL", { hour: "2-digit", minute: "2-digit" })
       : "?");
 
+  descartadas = leerDescartadas();
+  favoritas = leerFavoritas();
+  const vivos = new Set(licitaciones.map((l) => l.codigo));
+  for (const codigo of [...descartadas]) {
+    if (!vivos.has(codigo)) descartadas.delete(codigo);  // ya cerro: no ocupa espacio
+  }
+  for (const codigo of [...favoritas]) {
+    if (!vivos.has(codigo)) favoritas.delete(codigo);
+  }
+  guardarDescartadas();
+  guardarFavoritas();
+
   poblarSelect(controles.estado, licitaciones.map((l) => l.estado));
   poblarSelect(controles.region, licitaciones.map((l) => l.region));
 }
@@ -106,7 +182,12 @@ function filtrar() {
     desde.setDate(desde.getDate() - (dias - 1));
   }
 
+  const verDescartadas = controles.verDescartadas.checked;
+  const soloFavoritas = controles.soloFavoritas.checked;
+
   return licitaciones.filter((lic) => {
+    if (verDescartadas !== descartadas.has(lic.codigo)) return false;
+    if (soloFavoritas && !favoritas.has(lic.codigo)) return false;
     if (soloNuevas && !codigosNuevas.has(lic.codigo)) return false;
     if (estado && lic.estado !== estado) return false;
     if (region && lic.region !== region) return false;
@@ -133,6 +214,9 @@ function filtrar() {
 
 function ordenar(lista) {
   return lista.slice().sort((a, b) => {
+    const favA = favoritas.has(a.codigo) ? 0 : 1;
+    const favB = favoritas.has(b.codigo) ? 0 : 1;
+    if (favA !== favB) return favA - favB;   // las favoritas, arriba
     const fa = aFecha(a.cierre);
     const fb = aFecha(b.cierre);
     if (fa && fb) return fa - fb;
@@ -244,7 +328,9 @@ function tarjeta(lic) {
   const urgente = restan !== null && restan >= 0 && restan <= 3;
 
   const nodo = document.createElement("article");
-  nodo.className = "ficha" + (urgente ? " cierra-pronto" : "");
+  nodo.className = "ficha" + (urgente ? " cierra-pronto" : "") +
+    (descartadas.has(lic.codigo) ? " descartada" : "") +
+    (favoritas.has(lic.codigo) ? " favorita" : "");
 
   const titulo = document.createElement("h2");
   const enlace = document.createElement("a");
@@ -315,6 +401,34 @@ function tarjeta(lic) {
   bases.rel = "noopener";
   bases.textContent = "⬇ Bases administrativas y técnicas";
   acciones.appendChild(bases);
+
+  if (!descartadas.has(lic.codigo)) {
+    const estrella = document.createElement("button");
+    estrella.type = "button";
+    const esFavorita = favoritas.has(lic.codigo);
+    estrella.className = "boton-favorita" + (esFavorita ? " activa" : "");
+    estrella.textContent = esFavorita ? "★ Favorita" : "☆ Marcar favorita";
+    estrella.title = esFavorita
+      ? "Quitarla de favoritas"
+      : "Las favoritas quedan arriba del listado";
+    estrella.addEventListener("click", () => alternarFavorita(lic.codigo));
+    acciones.appendChild(estrella);
+  }
+
+  const boton = document.createElement("button");
+  boton.type = "button";
+  if (descartadas.has(lic.codigo)) {
+    boton.className = "boton-devolver";
+    boton.textContent = "↩ Devolver a la lista";
+    boton.addEventListener("click", () => devolver(lic.codigo));
+  } else {
+    boton.className = "boton-descartar";
+    boton.textContent = "✕ Eliminar";
+    boton.title = "La saca del listado en este navegador. Se puede devolver.";
+    boton.addEventListener("click", () => descartar(lic.codigo));
+  }
+  acciones.appendChild(boton);
+
   nodo.appendChild(acciones);
 
   return nodo;
@@ -325,10 +439,22 @@ function pintar() {
   const lista = el("lista");
   lista.replaceChildren(...resultado.map(tarjeta));
 
-  el("conteo").textContent =
-    resultado.length === licitaciones.length
-      ? resultado.length + " licitaciones"
-      : resultado.length + " de " + licitaciones.length + " licitaciones";
+  const viendoDescartadas = controles.verDescartadas.checked;
+  const universo = licitaciones.length - (viendoDescartadas ? 0 : descartadas.size);
+  if (viendoDescartadas) {
+    el("conteo").textContent =
+      resultado.length + (resultado.length === 1 ? " eliminada" : " eliminadas") +
+      (resultado.length === descartadas.size ? "" : " de " + descartadas.size);
+  } else {
+    el("conteo").textContent =
+      (resultado.length === universo
+        ? resultado.length + " licitaciones"
+        : resultado.length + " de " + universo + " licitaciones") +
+      (descartadas.size
+        ? " · " + descartadas.size + " eliminada" + (descartadas.size === 1 ? "" : "s")
+        : "");
+  }
+  el("avisoDescartadas").classList.toggle("oculto", !viendoDescartadas);
 
   el("vacio").classList.toggle("oculto", resultado.length > 0);
   guardarFiltros();
@@ -337,6 +463,8 @@ function pintar() {
 function guardarFiltros() {
   const estado = {};
   for (const [nombre, control] of Object.entries(controles)) {
+    // la vista de descartadas nunca se recuerda: al volver siempre se ve la lista normal
+    if (nombre === "verDescartadas") continue;
     estado[nombre] = control.type === "checkbox" ? control.checked : control.value;
   }
   try {
@@ -351,7 +479,7 @@ function recuperarFiltros() {
     const guardado = JSON.parse(localStorage.getItem(CLAVE_GUARDADO) || "{}");
     for (const [nombre, valor] of Object.entries(guardado)) {
       const control = controles[nombre];
-      if (!control || valor === undefined) continue;
+      if (!control || valor === undefined || nombre === "verDescartadas") continue;
       if (control.type === "checkbox") control.checked = Boolean(valor);
       else control.value = valor;
     }
@@ -370,6 +498,14 @@ function conectar() {
       temporizador = setTimeout(pintar, evento === "input" ? 180 : 0);
     });
   }
+  el("restaurarTodas").addEventListener("click", () => {
+    descartadas.clear();
+    guardarDescartadas();
+    controles.verDescartadas.checked = false;
+    controles.soloFavoritas.checked = false;
+    pintar();
+  });
+
   el("limpiar").addEventListener("click", () => {
     controles.texto.value = "";
     controles.estado.value = "";
@@ -378,6 +514,8 @@ function conectar() {
     controles.montoMin.value = "";
     controles.montoMax.value = "";
     controles.soloNuevas.checked = false;
+    controles.verDescartadas.checked = false;
+    controles.soloFavoritas.checked = false;
     pintar();
   });
 }

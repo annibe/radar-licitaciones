@@ -60,12 +60,13 @@
   "refrescar_detalle_cada_dias": 7,
   "correo": {
     "activo": true,
-    "para": "ana.gutierrezj@gmail.com",
+    "para": "",
     "asunto": "Radar de licitaciones - {cantidad} nuevas - {fecha}",
-    "url_web": "",
+    "url_web": "https://annibe.github.io/radar-licitaciones/",
     "servidor": "smtp.gmail.com",
     "puerto": 465,
     "maximo_en_el_correo": 15,
-    "enviar_aunque_no_haya_nada": false
+    "enviar_aunque_no_haya_nada": false,
+    "_nota_para": "Vacio a proposito: el destinatario viene del secreto CORREO_PARA en GitHub, para no dejar tu correo a la vista en un repositorio publico."
   }
 }
