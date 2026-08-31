@@ -18,8 +18,7 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 WEB = RAIZ / "web"
-PUERTO = 8766
-DIRECCION = "http://127.0.0.1:" + str(PUERTO) + "/"
+PUERTO_PREFERIDO = 8790
 
 
 class Silencioso(SimpleHTTPRequestHandler):
@@ -44,12 +43,25 @@ def actualizar():
     print("")
 
 
+def levantar():
+    """Busca un puerto libre: en este equipo conviven otras apps locales."""
+    for puerto in range(PUERTO_PREFERIDO, PUERTO_PREFERIDO + 20):
+        try:
+            return ThreadingHTTPServer(
+                ("127.0.0.1", puerto), partial(Silencioso, directory=str(WEB))
+            )
+        except OSError:
+            continue
+    print("No encontre ningun puerto libre entre " + str(PUERTO_PREFERIDO) +
+          " y " + str(PUERTO_PREFERIDO + 19) + ".")
+    sys.exit(1)
+
+
 def main():
     actualizar()
 
-    servidor = ThreadingHTTPServer(
-        ("127.0.0.1", PUERTO), partial(Silencioso, directory=str(WEB))
-    )
+    servidor = levantar()
+    DIRECCION = "http://127.0.0.1:" + str(servidor.server_address[1]) + "/"
     print("Radar abierto en " + DIRECCION)
     print("Deja esta ventana abierta mientras lo uses. Para cerrarlo: Ctrl+C.")
     threading.Timer(1.0, lambda: webbrowser.open(DIRECCION)).start()

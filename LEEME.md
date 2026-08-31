@@ -211,3 +211,93 @@ Se configura en el bloque `correo` de `config.json`:
   de aplicación está mal pegada (van las 16 letras juntas, sin espacios).
 - **Llegó pero sin licitaciones**: ese día no se publicó nada que calzara. Es normal;
   amplía las palabras clave si pasa varios días seguidos.
+
+## Guardar licitaciones en tu carpeta de OneDrive
+
+Cuando marcas una licitación con ♡, entre sus botones aparece **⬇ Guardar en mi
+carpeta**. Lo aprietas cuando quieras: la primera vez el navegador te pide elegir la
+carpeta (por ejemplo `OneDrive\Licitaciones`) y la recuerda para siempre.
+
+Arriba también hay un botón para guardar de una vez todas las que tengan corazón.
+
+Por cada licitación marcada crea una subcarpeta `folio - título`:
+
+| Archivo | Qué es |
+|---|---|
+| `ficha.html` | Todos los datos y los requerimientos técnicos. Para dejarla en PDF: `Ctrl+P` → Guardar como PDF |
+| `datos.json` | Lo mismo en crudo |
+| `bases.url` | Acceso directo a la ficha oficial, donde están las bases y los anexos |
+| `notas.txt` | Para escribir. **Nunca se sobrescribe**, ni aunque vuelvas a guardar |
+
+Al volver a guardar, la ficha y los datos se actualizan con lo último, y tus notas
+quedan intactas.
+
+Como la carpeta está en OneDrive, se sincroniza sola y puedes compartirla completa
+(clic derecho → Compartir) con quien trabaje contigo. La convención es simple: **que
+exista la subcarpeta significa que esa licitación está en juego**, y cada persona
+escribe en el `notas.txt` de la que le toca — como son archivos distintos, nadie pisa
+el trabajo de nadie.
+
+Requiere **Chrome o Edge de escritorio**: es la única forma de que una página web
+escriba en tu computador sin subir nada a ningún servidor. En el celular no funciona.
+
+## Los anexos: por que hay un paso manual
+
+La ventana de anexos de Mercado Publico esta protegida con **reCAPTCHA Enterprise de
+Google** — el invisible, que decide si eres humano por como te comportas. La grilla de
+archivos solo aparece si ese control te aprueba. Un programa no puede pasarlo, y
+saltarlo no es algo que vayamos a hacer.
+
+Por eso el flujo es asistido:
+
+1. Aprietas **⬇ Guardar y abrir anexos** en la licitacion que te interesa.
+2. Se crea su carpeta con la ficha y los datos, y se abre la ficha oficial.
+3. Pinchas el icono de adjuntos y despues la **lupa** de cada archivo. Tu navegador
+   pasa el control invisible sin que lo notes.
+4. Los archivos caen en tu carpeta de Descargas.
+5. El **Organizador de anexos** los mueve solo a la carpeta de esa licitacion.
+
+## El Organizador de anexos
+
+Doble clic en **`Organizador de anexos.cmd`**. La primera vez te pide elegir la carpeta
+compartida (la misma de la web) y la recuerda.
+
+Dejalo abierto mientras descargas. Cada archivo que baje va a
+`<licitacion>nexos\`, y queda anotado en `_organizador.log` de la carpeta madre.
+
+**Solo archiva lo que venga de Mercado Publico.** Windows marca cada descarga con su
+sitio de origen (un flujo alterno llamado Zone.Identifier, donde Chrome anota la
+direccion), y el organizador lo revisa antes de mover nada. Si mientras trabajas bajas
+una foto de WhatsApp o una factura, se queda donde esta y el organizador lo dice en
+pantalla. Un archivo sin marca de descarga tampoco se toca.
+
+No toca internet: solo mueve archivos de Descargas a OneDrive. Por eso no se rompe
+cuando ChileCompra cambie su web.
+
+Archiva durante los **25 minutos** siguientes a cada "Guardar y abrir anexos". Si
+descargas mas tarde, vuelve a apretar el boton en esa licitacion y sigue archivando
+ahi.
+
+## Favoritas y eliminadas
+
+Cada tarjeta de la web tiene dos botones, al lado del de las bases:
+
+- **☆ Marcar favorita** — la manda arriba del listado y le pone un borde dorado.
+  La casilla *"Solo mis favoritas"* deja ver nada más que esas.
+- **✕ Eliminar** — la saca del listado y no vuelve a aparecer, ni al día siguiente.
+
+Ambas cosas se guardan **en el navegador donde las haces**. Si entras desde el celular
+o desde otro computador, la lista sale completa. Cuando una licitación cierra y sale
+de las vigentes, su marca se borra sola.
+
+## Eliminar licitaciones de la lista
+
+Cada tarjeta tiene un botón **✕ Eliminar**. Al apretarlo, esa licitación
+desaparece del listado y no vuelve a aparecer, ni al día siguiente.
+
+Para revisarlas, marca la casilla **"Ver las eliminadas"** arriba: ahí cada una trae
+un botón **↩ Devolver a la lista**, y hay un botón para devolverlas todas de una vez.
+
+Las eliminaciones se guardan **en el navegador donde los haces**. Si entras desde el
+celular o desde otro computador, la lista sale completa. Y cuando una licitación
+eliminada cierra, se borra sola del registro.
