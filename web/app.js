@@ -422,22 +422,23 @@ function tarjeta(lic) {
     const guardar = document.createElement("button");
     guardar.type = "button";
     guardar.className = "boton-guardar-uno";
-    guardar.textContent = "⬇ Guardar en mi carpeta";
-    guardar.title = "Crea su carpeta con la ficha, los datos y el acceso a las bases";
+    guardar.textContent = "⬇ Guardar y abrir anexos";
+    guardar.title = "Crea su carpeta y abre la ficha para que descargues los anexos";
     guardar.addEventListener("click", async () => {
       guardar.disabled = true;
       guardar.textContent = "Guardando…";
       try {
         await guardarUna(lic.codigo);
+        if (typeof abrirBases === "function") abrirBases(lic.codigo);
         guardar.textContent = "✓ Guardada";
         guardar.classList.add("hecho");
         setTimeout(() => {
-          guardar.textContent = "⬇ Guardar en mi carpeta";
+          guardar.textContent = "⬇ Guardar y abrir anexos";
           guardar.classList.remove("hecho");
           guardar.disabled = false;
         }, 4000);
       } catch (e) {
-        guardar.textContent = "⬇ Guardar en mi carpeta";
+        guardar.textContent = "⬇ Guardar y abrir anexos";
         guardar.disabled = false;
       }
     });

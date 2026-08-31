@@ -256,12 +256,35 @@ async function guardarLicitaciones(marcadas) {
     if (actualizadas) {
       partes.push(actualizadas + (actualizadas === 1 ? " actualizada" : " actualizadas"));
     }
+    if (marcadas.length === 1) await dejarMarca(marcadas[0]);
     avisar("Listo: " + partes.join(" y ") + " en " + dondeEstoy() +
       ". Tus notas no se tocaron.", "ok");
   } catch (error) {
     avisar("No pude terminar de guardar: " + error.message, "error");
   }
 }
+
+async function dejarMarca(lic) {
+  /* Le dice al organizador local en que carpeta archivar lo que se descargue
+     ahora. Solo lo escribe el equipo que esta guardando, y se pisa cada vez:
+     es una nota adhesiva, no un registro compartido. */
+  try {
+    await escribir(carpeta, "_ultima-descarga.json", JSON.stringify({
+      codigo: lic.codigo,
+      carpeta: nombreCarpeta(lic),
+      nombre: lic.nombre,
+      momento: new Date().toISOString(),
+    }, null, 1));
+  } catch (e) {
+    /* si no se puede, el organizador simplemente no sabra donde archivar */
+  }
+}
+
+
+function abrirBases(codigo) {
+  window.open(FICHA_MP + encodeURIComponent(codigo), "_blank", "noopener");
+}
+
 
 function refrescarBoton() {
   const boton = el("guardarSeleccionadas");
