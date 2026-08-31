@@ -61,7 +61,7 @@
       </label>
       <label class="casilla" for="soloFavoritas">
         <input id="soloFavoritas" type="checkbox">
-        Solo mis favoritas (<span id="cuentaFavoritas">0</span>)
+        Solo mis likes (<span id="cuentaFavoritas">0</span>)
       </label>
       <label class="casilla" for="verDescartadas">
         <input id="verDescartadas" type="checkbox">
@@ -75,6 +75,20 @@
     <p>Llévate todo lo que ves aquí en un archivo:</p>
     <a href="descargas/licitaciones.xlsx" download>⬇ Excel (3 hojas)</a>
     <a href="descargas/licitaciones.csv" download>⬇ CSV</a>
+  </section>
+
+  <section class="zona-guardar" id="zonaGuardar" aria-label="Guardar en mi carpeta">
+    <div class="zona-guardar-botones">
+      <button id="guardarSeleccionadas" type="button" class="boton-guardar" disabled>
+        Guardar en mi carpeta
+      </button>
+      <button id="cambiarCarpeta" type="button" class="boton-secundario">Elegir carpeta</button>
+    </div>
+    <p id="avisoGuardar" class="aviso-guardar oculto"></p>
+    <p class="zona-guardar-ayuda">
+      Marca con &#9825; las licitaciones que te interesen y gu&aacute;rdalas: cada una queda
+      en su propia carpeta, con la ficha, los datos y el acceso a las bases.
+    </p>
   </section>
 
   <p class="conteo" id="conteo" role="status"></p>
@@ -100,5 +114,6 @@
 </footer>
 
 <script src="app.js"></script>
+<script src="guardar.js"></script>
 </body>
 </html>

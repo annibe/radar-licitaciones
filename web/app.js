@@ -44,8 +44,9 @@ function guardarFavoritas() {
 }
 
 function alternarFavorita(codigo) {
-  if (favoritas.has(codigo)) favoritas.delete(codigo);
-  else favoritas.add(codigo);
+  const ahoraGusta = !favoritas.has(codigo);
+  if (ahoraGusta) favoritas.add(codigo);
+  else favoritas.delete(codigo);
   guardarFavoritas();
   pintar();
 }
@@ -328,6 +329,7 @@ function tarjeta(lic) {
   const urgente = restan !== null && restan >= 0 && restan <= 3;
 
   const nodo = document.createElement("article");
+  nodo.dataset.codigo = lic.codigo;
   nodo.className = "ficha" + (urgente ? " cierra-pronto" : "") +
     (descartadas.has(lic.codigo) ? " descartada" : "") +
     (favoritas.has(lic.codigo) ? " favorita" : "");
@@ -407,12 +409,39 @@ function tarjeta(lic) {
     estrella.type = "button";
     const esFavorita = favoritas.has(lic.codigo);
     estrella.className = "boton-favorita" + (esFavorita ? " activa" : "");
-    estrella.textContent = esFavorita ? "★ Favorita" : "☆ Marcar favorita";
+    estrella.textContent = esFavorita ? "♥ Like" : "♡ Like";
     estrella.title = esFavorita
-      ? "Quitarla de favoritas"
-      : "Las favoritas quedan arriba del listado";
+      ? "Quitarle el like"
+      : "Las que te gustan quedan arriba del listado";
     estrella.addEventListener("click", () => alternarFavorita(lic.codigo));
     acciones.appendChild(estrella);
+  }
+
+  // el boton de guardar aparece solo en las que tienen corazon
+  if (favoritas.has(lic.codigo) && typeof guardarUna === "function" && HAY_SOPORTE) {
+    const guardar = document.createElement("button");
+    guardar.type = "button";
+    guardar.className = "boton-guardar-uno";
+    guardar.textContent = "⬇ Guardar en mi carpeta";
+    guardar.title = "Crea su carpeta con la ficha, los datos y el acceso a las bases";
+    guardar.addEventListener("click", async () => {
+      guardar.disabled = true;
+      guardar.textContent = "Guardando…";
+      try {
+        await guardarUna(lic.codigo);
+        guardar.textContent = "✓ Guardada";
+        guardar.classList.add("hecho");
+        setTimeout(() => {
+          guardar.textContent = "⬇ Guardar en mi carpeta";
+          guardar.classList.remove("hecho");
+          guardar.disabled = false;
+        }, 4000);
+      } catch (e) {
+        guardar.textContent = "⬇ Guardar en mi carpeta";
+        guardar.disabled = false;
+      }
+    });
+    acciones.appendChild(guardar);
   }
 
   const boton = document.createElement("button");
@@ -458,6 +487,7 @@ function pintar() {
 
   el("vacio").classList.toggle("oculto", resultado.length > 0);
   guardarFiltros();
+  if (typeof refrescarBoton === "function") refrescarBoton();
 }
 
 function guardarFiltros() {
@@ -523,6 +553,7 @@ function conectar() {
 (async function iniciar() {
   try {
     await cargarTodo();
+    if (typeof prepararGuardado === "function") await prepararGuardado();
     recuperarFiltros();
     conectar();
     pintar();
