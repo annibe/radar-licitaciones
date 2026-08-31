@@ -1,290 +1,5 @@
 [
  {
-  "codigo": "587-32-LE26",
-  "nombre": "SELICO  316-2026  LICENCIA DE SOFTWARE",
-  "descripcion": "Contratar la compra de uso de software para la renovación de una 01 licencia Google Maps API, o equivalente, por doce 12 meses o la duración de un millón 1.000.000 de créditos.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-08-05T10:38:19.55",
-  "cierre": "2026-08-31T15:10:00",
-  "monto": 12000.0,
-  "moneda": "USD",
-  "organismo": "SUBSECRETARIA DEL MINISTERIO DE LA VIVIENDA Y URBANISMO",
-  "unidad": "Ministerio de Vivienda y Urbanismo(766)",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "Compra de uso de software para la renovación de una (01) Licencia de Software Google Maps API (o equivalente), por el período de doce (12) meses o la duración de un millón (1.000.000) de créditos."
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-08-31T15:30:00",
-   "apertura_economica": "2026-08-31T15:30:00",
-   "respuestas": "2026-08-21T16:00:00",
-   "estimada_adjudicacion": "2026-09-29T19:00:00",
-   "duracion": "12 meses",
-   "renovable": false,
-   "prohibiciones": "NO PERMITE SUBCONTRATACIÓN VER PUNTO 1.13.5.7. “SUBCONTRATACIÓN” DE LAS BASES ADMINISTRATIVAS",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "El valor indicado en el literal a. es estimado e incluye impuestos y cualquier otro gasto asociado a la oferta, sin perjuicio de lo cual, las ofertas no podrán exceder en más de un 20% de dicho presupuesto, en caso contrario la oferta será declarada inad",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 110,
-   "contacto": "Adrian Muñoz Brevis",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-08-30"
- },
- {
-  "codigo": "2600-25-LE26",
-  "nombre": "Adq. e inst. de tótems de seguridad -AURA Parral",
-  "descripcion": "La Ilustre Municipalidad de Parral, en adelante la “Municipalidad”, llama a licitación pública para realizar la denominada “Adquisición e instalación de tótems de seguridad, AURA – ALERTA URBANA CON RESPUESTA Y ASISTENCIA, COMUNA DE PARRAL”.; suministro, instalación y puesta en marcha de 9 nueve tótems de seguridad, ubicados en diversos puntos de la ciudad. Estos serán empotrados adyacentes a postes con cámaras PTZ existentes indicados en el plano 01. El adjudicatario será responsable de la entrega e instalación completa del equipamiento, incluyendo la habilitación operativa y conexión del sistema con la central de monitoreo municipal, ubicada en la comisaria de la comuna de Parral Ubicada en calle Urrutia.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-08-05T15:51:11.28",
-  "cierre": "2026-08-31T15:30:00",
-  "monto": 49800000.0,
-  "moneda": "CLP",
-  "organismo": "I MUNICIPALIDAD DE PARRAL",
-  "unidad": "SECPLAN",
-  "region": "Región del Maule ",
-  "comuna": "Parral",
-  "categorias": [
-   "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Sistemas de control de acceso o de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 9.0,
-     "unidad": "Unidad",
-     "detalle": "Adquisición e instalación de Tótems de seguridad -. AURA"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-08-31T15:31:00",
-   "apertura_economica": "2026-08-31T15:31:00",
-   "respuestas": "2026-08-24T17:30:00",
-   "estimada_adjudicacion": "2026-09-16T17:30:00",
-   "duracion": "60 días",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 230,
-   "contacto": "Victor Valverde Romero",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-08-30"
- },
- {
-  "codigo": "2755-31-LE26",
-  "nombre": "ADQUISICIÓN SUSCRIPCIÓN DE SOFTWARE DE DISEÑO.",
-  "descripcion": "Ilustre Municipalidad de San Antonio, requiere contratacion de licencias software, para el diseño de planos, diseño gráfico, para las Direcciónes de SECPLA y DOM.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-08-14T16:35:52.287",
-  "cierre": "2026-08-31T15:30:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "I MUNICIPALIDAD DE SAN ANTONIO",
-  "unidad": "IMunicipalidad de San Antonio",
-  "region": "Región de Valparaíso ",
-  "comuna": "San Antonio",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "ADQUISICIÓN SUSCRIPCIÓN SOFTWARE DE DISEÑO Y OTROS, ILUSTRE MUNICIPALIDAD DE SAN ANTONIO."
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-08-31T15:30:00",
-   "apertura_economica": "2026-08-31T15:30:00",
-   "respuestas": "2026-08-24T17:00:00",
-   "estimada_adjudicacion": "2026-09-30T17:00:00",
-   "duracion": null,
-   "renovable": false,
-   "prohibiciones": "No se permitirá la subcontratación, dada la naturaleza del servicio requerido. Segun bases.",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "215-22-08-999-902",
-   "obras": false,
-   "reclamos_comprador": 505,
-   "contacto": "ERIKA MACHUCA ESCALANTE",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-08-30"
- },
- {
-  "codigo": "2341-11-L126",
-  "nombre": "ADQ 473 _ SP 30 _ DIRECCION DE INFORMATICA _ SERVICIO PARA ENVIO MASIVO DE EMAIL",
-  "descripcion": "Adquisición de un servicio de envío de correos electrónicos masivos por 1 año, que permita gestionar campañas de comunicación interna y extrena, sin caer en calificacion de spam, segun fcha de requerimeinto adjunta.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "L1",
-  "publicacion": "2026-08-20T10:56:00",
-  "cierre": "2026-08-31T15:31:00",
-  "monto": 3000000.0,
-  "moneda": "CLP",
-  "organismo": "I MUNICIPALIDAD DE SAN BERNARDO",
-  "unidad": "OFICINA DE ADQUISICIONES",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "San Bernardo",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de intercambio de información"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de correo electrónico",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de intercambio de información",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "SERVICIO DE ENVIO MASIVO DE EMAIL POR UN AÑO, SEGUN ESPECIFICACIONES TECNICAS EN ANEXO ADJUNTO."
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-08-31T15:32:00",
-   "apertura_economica": "2026-08-31T15:32:00",
-   "respuestas": "2026-08-25T14:31:00",
-   "estimada_adjudicacion": "2026-09-14T16:32:00",
-   "duracion": "-1 horas",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
-   "monto_nota": "",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 403,
-   "contacto": "LUIS INOSTROZA",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-08-30"
- },
- {
-  "codigo": "948354-128-LP26",
-  "nombre": "CONTRATACIÓN DEL SERVICIO DE SISTEMA INFORMÁTICO PARA GESTIÓN DE DATOS DE BANCO DE SANGRE DEL HOSPITAL DIPRECA",
-  "descripcion": "El Hospital de la Dirección de Previsión de Carabineros de Chile, ubicado en Vital Apoquindo N°1.200, Comuna de Las Condes, Región Metropolitana, en adelante “EL HOSPITAL”, llama a Licitación Pública para la Contratación del Servicio de Sistema Informático para Gestión de Datos de Banco de Sangre, en adelante “EL SERVICIO”, por un periodo de 24 meses, cuyas características y requisitos técnicos constan en las Bases Administrativas y Técnicas de esta Licitación con sus respectivos anexos.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-08-19T16:45:12.617",
-  "cierre": "2026-08-31T16:00:00",
-  "monto": 175000000.0,
-  "moneda": "CLP",
-  "organismo": "FONDO HOSPITAL DE LA DIRECCION DE PREVISION DE CARABINEROS DE CHILE",
-  "unidad": "Unidad de Compra de Bienes y Servicios",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Las Condes",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de desarrollo orientado a objetos o componentes",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "SERVICIO DE SISTEMA INFORMÁTICO PARA GESTIÓN DE DATOS DE BANCO DE SANGRE (según bases técnicas)"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-08-31T16:01:00",
-   "apertura_economica": "2026-08-31T16:01:00",
-   "respuestas": "2026-08-26T17:00:00",
-   "estimada_adjudicacion": "2026-10-13T18:00:00",
-   "duracion": "24 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
-   "monto_nota": "Según Resolución Adjunta.",
-   "financiamiento": "FONDO HOSPITAL DIPRECA",
-   "obras": false,
-   "reclamos_comprador": 395,
-   "contacto": "Patricio Salinas",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-08-30"
- },
- {
   "codigo": "986278-18-L126",
   "nombre": "CONTRATO DE SUMINISTRO DE INSUMOS INFORMÁTICOS, AÑO 2026, CFT DE LA REGIÓN DE LA ARAUCANÍA",
   "descripcion": "El presente contrato tiene por objeto la prestación del servicio para adquirir insumos informáticos, requeridos por el Centro de Formación Técnica de la Región de La Araucanía y sus sedes, conforme a las condiciones establecidas en las presentes bases, la oferta adjudicada y la respectiva orden de compra. Los bienes serán solicitados de manera eventual según necesidades institucionales, sin que exista obligación de compra mínima por parte del CFT.",
@@ -2480,6 +2195,93 @@
   "actualizado": "2026-08-30"
  },
  {
+  "codigo": "564162-115-L126",
+  "nombre": "Solicitud N°92870 - Bolsas, etiquetas y cajas con impresión digital - CC112 / PS1772",
+  "descripcion": "La Universidad de Santiago de chile requiere la compra de bolsas, etiquetas y cajas con impresión digital según especificaciones técnicas.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "L1",
+  "publicacion": "2026-08-31T17:18:49.983",
+  "cierre": "2026-09-07T15:00:00",
+  "monto": 5210000.0,
+  "moneda": "CLP",
+  "organismo": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+  "unidad": "VICERRECTORIA DE INVESTIGACION Y DESARROLLO",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Estación Central",
+  "categorias": [
+   "Equipamiento para manejo y estiba de materiales / Materiales para envasado / Cajas, bolsas y sacos para envasado",
+   "Productos de papel / Productos de papel / Papel fantasía",
+   "Productos impresos y publicaciones / Etiquetado y accesorios / Etiquetas"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Cajas para empaquetado",
+     "categoria": "Equipamiento para manejo y estiba de materiales / Materiales para envasado / Cajas, bolsas y sacos para envasado",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "800 Cajas de cartón y 800 juego tabiques con impresión."
+    },
+    {
+     "producto": "Cajas para empaquetado",
+     "categoria": "Equipamiento para manejo y estiba de materiales / Materiales para envasado / Cajas, bolsas y sacos para envasado",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "850 cajas de cartón y 850 juego tabiques con impresión."
+    },
+    {
+     "producto": "Papel, bolsas o cajas de regalo",
+     "categoria": "Productos de papel / Productos de papel / Papel fantasía",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Bolsas de papel para botellas. 1.000 unidades."
+    },
+    {
+     "producto": "Etiquetas autoadhesivas",
+     "categoria": "Productos impresos y publicaciones / Etiquetado y accesorios / Etiquetas",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Etiquetas frontales. 5.081 unidades con impresión digital.\nContraetiquetas. 5.081 unidades con impresión digital."
+    },
+    {
+     "producto": "Etiquetas autoadhesivas",
+     "categoria": "Productos impresos y publicaciones / Etiquetado y accesorios / Etiquetas",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Etiquetas colgantes para botellas de vino. 5.081 unidades."
+    }
+   ],
+   "items_total": 5,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-07T15:01:00",
+   "apertura_economica": "2026-09-07T15:01:00",
+   "respuestas": "2026-09-02T17:00:00",
+   "estimada_adjudicacion": "2026-10-21T17:30:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": null,
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "0",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 1539,
+   "contacto": "",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
+ },
+ {
   "codigo": "2324-109-LE26",
   "nombre": "LICITACION PÚBLICA N° 52026 “CONTRATACION DE SOFTWARE CONTROL DE OBRAS Y GESTION DE PROYECTOS PARA LA INSPECCION DE OBRAS MUNICIPALES POR 3 AÑOS”",
   "descripcion": "LICITACION PÚBLICA N° 5/2026 “CONTRATACION DE SOFTWARE CONTROL DE OBRAS Y GESTION DE PROYECTOS PARA LA INSPECCION DE OBRAS MUNICIPALES POR 3 AÑOS”",
@@ -3064,6 +2866,63 @@
   "actualizado": "2026-08-30"
  },
  {
+  "codigo": "932-22-L126",
+  "nombre": "SERVICIO DE REPARACIÓN DE LUMINARIAS, INSTALACIONES ELECTRICAS Y NORMALIZACIÓN DE TABLERO ELECTRONICO DEL COMPLEJO DEPORTIVO HERMOGENES LIZANA, DEL INSTITUTO NACIONAL DE DEPORTES DE O¨HIGGINS.",
+  "descripcion": "EL IND DE RANCAGUA,  REQUIERE CONTRATAR  EL \"SERVICIO DE REPARACIÓN DE LUMINARIAS, INSTALACIONES ELECTRICAS Y NORMALIZACIÓN DE TABLERO ELECTRONICO DEL COMPLEJO DEPORTIVO HERMOGENES LIZANA, DEL INSTITUTO NACIONAL DE DEPORTES DE O¨HIGGINS\",  mediante un proceso de Licitación Publica, siendo necesario, aprobar,  previamente, las Bases Administrativas, Técnicas y Anexos que regulan dicho proceso de contratación.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "L1",
+  "publicacion": "2026-08-31T16:54:04.517",
+  "cierre": "2026-09-07T16:00:00",
+  "monto": 5200000.0,
+  "moneda": "CLP",
+  "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+  "unidad": "I.N.D. REGION VI",
+  "region": "Región del Libertador General Bernardo O´Higgins",
+  "comuna": "Rancagua",
+  "categorias": [
+   "Servicios de producción y fabricación industrial / Servicios de apoyo o soporte a la fabricación / Servicios de mantenimiento y reparación de equipo de fabricación"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Servicio de reparación de equipo de fabricación",
+     "categoria": "Servicios de producción y fabricación industrial / Servicios de apoyo o soporte a la fabricación / Servicios de mantenimiento y reparación de equipo de fabricación",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "DE SERVICIO DE REPARACIÓN DE LUMINARIAS, INSTALACIONES ELÉCTRICAS Y NORMALIZACIÓN DE TABLERO ELECTRÓNICO EN EL COMPLEJO DEPORTIVO HERMÓGENES LIZANA, DEL INSTITUTO NACIONAL DE DEPORTES, REGIÓN DE OHIGGINS, De acuerdo a especificaciones adjuntas.-"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-07T16:01:00",
+   "apertura_economica": "2026-09-07T16:01:00",
+   "respuestas": "2026-09-03T17:00:00",
+   "estimada_adjudicacion": "2026-09-14T16:00:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": null,
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "0",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 383,
+   "contacto": "",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
+ },
+ {
   "codigo": "2658-284-L126",
   "nombre": "Suscripción anual a Plataforma de Inteligencia Artificial avanzada",
   "descripcion": "Lo que seá utilizado como herramientas de apoyo para la optimización de labores tecnicas y administrativas.",
@@ -3233,6 +3092,63 @@
   },
   "visto": "2026-08-30",
   "actualizado": "2026-08-30"
+ },
+ {
+  "codigo": "2448-122-L126",
+  "nombre": "ADQ. BOLSA DE CREDITOS DE CONSUMO EN NUBE PUBLICA",
+  "descripcion": "El objetivo de esta contratación es adquirir una bolsa de créditos de consumo en nube pública para fortalecer la resiliencia institucional mediante un Plan de Recuperación ante Desastres (DRP). \nDe acuerdo a nuestra estrategia DevSecOps, esta infraestructura externa nos permitirá garantizar el Uptime de servicios críticos (CENDRIS, APSGO) frente a eventuales caídas de nuestro Datacenter local. Adicionalmente, posibilitará el almacenamiento seguro de respaldos fuera del sitio y brindará un entor",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "L1",
+  "publicacion": "2026-08-31T15:22:54.72",
+  "cierre": "2026-09-08T15:00:00",
+  "monto": 3000000.0,
+  "moneda": "CLP",
+  "organismo": "I MUNICIPALIDAD DE COQUIMBO",
+  "unidad": "Departamento de Salud",
+  "region": "Región de Coquimbo ",
+  "comuna": "Coquimbo",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de consultas y gestión de datos"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software del sistema de administración de bases de datos",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de consultas y gestión de datos",
+     "cantidad": 1.0,
+     "unidad": "Año",
+     "detalle": "Bolsa de Créditos de Consumo en Nube Pública (IaaS/PaaS)"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-08T15:01:00",
+   "apertura_economica": "2026-09-08T15:01:00",
+   "respuestas": "2026-09-04T19:00:00",
+   "estimada_adjudicacion": "2026-11-06T15:57:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": null,
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "0",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 4059,
+   "contacto": "",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
  },
  {
   "codigo": "5586-127-LE26",
@@ -3547,6 +3463,120 @@
   },
   "visto": "2026-08-30",
   "actualizado": "2026-08-30"
+ },
+ {
+  "codigo": "520149-35-L126",
+  "nombre": "SERVICIO DE INSTALACIÓN, TRASLADO Y REPARACIÓN DE PUNTOS DE DATOS, PARA LOS EDIFICIOS JOSÉ MIGUEL CARRERA Y SEDE DE LA ACADEMIA DIPLOMÁTICA BAJO LA MODALIDAD DE CONTRATO DE SUMINISTRO.",
+  "descripcion": "SERVICIO DE INSTALACIÓN, TRASLADO Y REPARACIÓN DE PUNTOS DE DATOS, PARA LOS EDIFICIOS JOSÉ MIGUEL CARRERA Y SEDE DE LA ACADEMIA DIPLOMÁTICA BAJO LA MODALIDAD DE CONTRATO DE SUMINISTRO.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "L1",
+  "publicacion": "2026-08-31T17:31:11.75",
+  "cierre": "2026-09-08T16:00:00",
+  "monto": 5000000.0,
+  "moneda": "CLP",
+  "organismo": "SUBSECRETARIA DE RELACIONES EXTERIORES",
+  "unidad": "DICOMPRAS",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Santiago",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Componentes para tecnología de la información, difusión o telecomunicaciones / Subconjuntos para dispositivos electrónicos"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Conjuntos de cableado",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Componentes para tecnología de la información, difusión o telecomunicaciones / Subconjuntos para dispositivos electrónicos",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Servicio de instalación, traslado y reparación de puntos de datos, conforme las especificaciones técnicas en adelante descritas, para los edificios José Miguel Carrera y sede de la Academia Diplomática"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-08T16:01:00",
+   "apertura_economica": "2026-09-08T16:01:00",
+   "respuestas": "2026-09-04T17:00:00",
+   "estimada_adjudicacion": "2026-09-29T19:00:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": null,
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "0",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 18,
+   "contacto": "",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
+ },
+ {
+  "codigo": "2793-121-LE26",
+  "nombre": "LICENCIAS DE SOFTWARE",
+  "descripcion": "LA MUNICIPALIDAD DE HUECHURABA REQUIERE LA ADQUISICIÓN DE LICENCIAS DE SOFTWARE LECTOR, MODIFICADOR Y CREADOR DE DOCUMENTOS PDF, SOLICITADA POR EL DEPARTAMENTO DE INFORMATICA, SEGÚN LO INDICADO EN DOCUMENTACIÓN ADJUNTA.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-08-31T16:37:50.107",
+  "cierre": "2026-09-09T09:00:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "Municipalidad de Huechuraba",
+  "unidad": "Municipalidad de Huechuraba",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Huechuraba",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "LICENCIAS DE SOFTWARE LECTOR, MODIFICADOR Y CREADOR DE DOCUMENTOS PDF, SEGÚN BASES ADJUNTAS."
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-09T09:01:00",
+   "apertura_economica": "2026-09-09T09:01:00",
+   "respuestas": "2026-09-03T22:00:00",
+   "estimada_adjudicacion": "2026-10-30T15:33:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": ".",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 1316,
+   "contacto": "ASESORIA JURIDICA",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
  },
  {
   "codigo": "1978-85-LE26",
@@ -4134,6 +4164,63 @@
   "actualizado": "2026-08-30"
  },
  {
+  "codigo": "5586-128-LE26",
+  "nombre": "BR CONTRATACIÓN DE PLATAFORMA TECNOLÓGICA TIPO SAAS DE GESTIÓN DIGITAL",
+  "descripcion": "CONTRATACIÓN DE PLATAFORMA TECNOLÓGICA TIPO SAAS DE GESTIÓN DIGITAL, DE ACUERDO A REQUERIMIENTO ADJUNTO",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-08-31T16:45:00.29",
+  "cierre": "2026-09-11T10:00:00",
+  "monto": 13000000.0,
+  "moneda": "CLP",
+  "organismo": "UNIVERSIDAD DE LA FRONTERA",
+  "unidad": "Universidad de la Frontera",
+  "region": "Región de la Araucanía ",
+  "comuna": "Temuco",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de administración",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes",
+     "cantidad": 1.0,
+     "unidad": "Global",
+     "detalle": "CONTRATACIÓN DE PLATAFORMA TECNOLÓGICA TIPO SAAS DE GESTIÓN DIGITAL, DE ACUERDO A REQUERIMIENTO ADJUNTO"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-11T10:01:00",
+   "apertura_economica": "2026-09-11T10:01:00",
+   "respuestas": "2026-09-07T18:00:00",
+   "estimada_adjudicacion": "2026-10-13T18:00:00",
+   "duracion": "18 meses",
+   "renovable": false,
+   "prohibiciones": "Lo anterior de acuerdo a lo\r\nindicado en el Art. 128 del Reglamento de Compras públicas.",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "PRESUPUESTO DISPONIBLE",
+   "obras": false,
+   "reclamos_comprador": 352,
+   "contacto": "FERNANDO GONZALEZ",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
+ },
+ {
   "codigo": "3671-58-LE26",
   "nombre": "“HABILITACIÓN DE NUEVAS DEPENDENCIAS DE SEGURIDAD MUNICIPAL E INFORMÁTICA DE LA MUNICIPALIDAD DE CHILLÁN VIEJO”",
   "descripcion": "La presente licitación pública tiene como objeto la contratación de un servicio especializado de adquisición, instalación, cambio de equipamiento tecnológico y servicio de traslado de  infraestructura tecnológica y la habilitación de su nueva central de monitoreo. El proyecto debe garantizar la continuidad operativa y la integridad del equipamiento crítico.",
@@ -4631,6 +4718,142 @@
   "actualizado": "2026-08-30"
  },
  {
+  "codigo": "29-73-LE26",
+  "nombre": "ALR - ADQ. REPUESTOS Y TABLERO ELECT.   GPO. ELECT",
+  "descripcion": "ADQUISICIÓN DE REPUESTOS Y TABLERO CON INSTALACIÓN PARA GRUPOS ELECTRÓGENOS DE LA FUERZA AÉREA DE CHILE",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-08-31T15:07:46.27",
+  "cierre": "2026-09-14T15:01:00",
+  "monto": null,
+  "moneda": "USD",
+  "organismo": "FUERZA AEREA DE CHILE COMANDO LOGISTICO",
+  "unidad": "Comando Logístico",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "El Bosque",
+  "categorias": [
+   "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+   "Maquinaria para generación y distribución de energía / Generación de energía / Equipo para control de producción de energía",
+   "Maquinaria para generación y distribución de energía / Transmisión de energía eléctrica, mecánica y cinética / Baterías, pilas y accesorios"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Paneles de control eléctrico para generadores",
+     "categoria": "Maquinaria para generación y distribución de energía / Generación de energía / Equipo para control de producción de energía",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "ADQUISICIÓN DE 01 TABLERO DE CONTROL N° 5925153.000 CON INSTALACIÓN INCLUIDA, EN LA BASE AÉREA CERRO MORENO S/Nº RUTA A-1, CUIDAD DE ANTOFAGASTA, PARA GRUPO ELECTRÓGENO MARCA CATERPILLAR, MODELO C32 DE 1.000 KVA."
+    },
+    {
+     "producto": "Filtros de aceite",
+     "categoria": "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "FILTROS DE ACEITE LF 3883."
+    },
+    {
+     "producto": "Filtros de combustible",
+     "categoria": "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "FILTROS DE COMBUSTIBLE P552603."
+    },
+    {
+     "producto": "Filtros hidráulicos",
+     "categoria": "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "FILTROS DE REFRIGERANTE WF2074."
+    },
+    {
+     "producto": "Filtros de aceite",
+     "categoria": "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "FILTROS DE ACEITE P558615."
+    },
+    {
+     "producto": "Filtros de combustible",
+     "categoria": "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "FILTROS DE COMBUSTIBLE PRIMARIO FS1280."
+    },
+    {
+     "producto": "Filtros de combustible",
+     "categoria": "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "FILTROS DE COMBUSTIBLE SECUNDARIO FF5052."
+    },
+    {
+     "producto": "Baterías para vehículos",
+     "categoria": "Maquinaria para generación y distribución de energía / Transmisión de energía eléctrica, mecánica y cinética / Baterías, pilas y accesorios",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "BATERÍAS 12 VOLTS, 100 AMP. 650-700 CCA DE ARRANQUE EN FRIO."
+    },
+    {
+     "producto": "Filtros de aceite",
+     "categoria": "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "FILTROS DE ACEITE CAT 1R-1808."
+    },
+    {
+     "producto": "Filtros de combustible",
+     "categoria": "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "FILTROS DE COMBUSTIBLE BF 7587."
+    },
+    {
+     "producto": "Filtros de aire",
+     "categoria": "Equipamiento para el acondicionamiento, distribución y filtrado de fluidos / Filtros y purificación industrial / Filtros",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "FILTROS DE AIRE 6L 4714."
+    },
+    {
+     "producto": "Baterías para vehículos",
+     "categoria": "Maquinaria para generación y distribución de energía / Transmisión de energía eléctrica, mecánica y cinética / Baterías, pilas y accesorios",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "BATERÍAS 12 VOLTS, 150 AMP."
+    }
+   ],
+   "items_total": 12,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-14T15:02:00",
+   "apertura_economica": "2026-09-14T15:02:00",
+   "respuestas": "2026-09-08T23:59:00",
+   "estimada_adjudicacion": "2026-11-03T23:59:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 1467,
+   "contacto": "SERGIO ROMEROCALQUIN",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
+ },
+ {
   "codigo": "875-6-LP26",
   "nombre": "SERVICIO DE MARKETING DIGITAL",
   "descripcion": "Contratar la adquisición y planificación de pauta de medios para campañas digitales, junto con un servicio especializado de asesoría y soporte en marketing digital, orientado a fortalecer las acciones de promoción y atracción de inversión extranjera, la generación y gestión de contactos de potenciales inversionistas y el posicionamiento de Chile como destino atractivo para la inversión.",
@@ -5034,6 +5257,63 @@
   },
   "visto": "2026-08-30",
   "actualizado": "2026-08-30"
+ },
+ {
+  "codigo": "1020-46-LE26",
+  "nombre": "Adq. Sopor. y Actual. Software ServiceTonic MOP.",
+  "descripcion": "El objetivo de la Adquisición de Soporte y Actualizaciones Software ServiceTonic Licencias en modalidad On-Premise, usuarios nombrados, por 12 meses.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-08-31T15:13:31.96",
+  "cierre": "2026-09-16T15:00:00",
+  "monto": 22500000.0,
+  "moneda": "CLP",
+  "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+  "unidad": "MOP Subsecretaría ",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 50.0,
+     "unidad": "Unidad",
+     "detalle": "Soporte y Actualizaciones Software ServiceTonic Licencias en modalidad On-Premise, usuarios nombrados, por 12 meses. Desde el 20 de octubre de 2026, hasta el 19 de Octubre de 2027. VER BASES TÉCNICA, Páginas 28 y 29."
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-16T15:01:00",
+   "apertura_economica": "2026-09-16T15:01:00",
+   "respuestas": "2026-09-11T18:30:00",
+   "estimada_adjudicacion": "2026-11-16T15:33:00",
+   "duracion": "12 meses",
+   "renovable": false,
+   "prohibiciones": "No permite subcontratación El oferente adjudicado, no podrá subcontratar los servicios derivados de la ejecución del Contrato.",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "",
+   "financiamiento": "SUBDIVISIÓN DE PLANIFICACIÓN Y GESTIÓN FINANCIERA",
+   "obras": false,
+   "reclamos_comprador": 158,
+   "contacto": "Carmen Gloria Ponce",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
  },
  {
   "codigo": "1133353-43-LR26",
@@ -5527,6 +5807,63 @@
   },
   "visto": "2026-08-30",
   "actualizado": "2026-08-30"
+ },
+ {
+  "codigo": "5531-4-B226",
+  "nombre": "Servicios de publicidad digital para el DII",
+  "descripcion": "Servicios de publicidad digital para el Departamento de Ingeniería Industrial de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile 2026, a prestarse por un periodo de 36 meses o hasta el agotamiento de los recursos según las características y especificaciones establecidas en las presentes bases administrativas, bases técnicas y anexos",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "B2",
+  "publicacion": "2026-08-31T16:46:07.143",
+  "cierre": "2026-09-21T16:00:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "UNIVERSIDAD DE CHILE",
+  "unidad": "FCFM Departamento de Ingeniería Industrial",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "San Joaquín",
+  "categorias": [
+   "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Agencias de publicidad"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Campañas publicitarias",
+     "categoria": "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Agencias de publicidad",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Servicios de publicidad digital, para el Departamento de Ingeniería Industrial"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-22T09:00:00",
+   "apertura_economica": "2026-09-22T09:00:00",
+   "respuestas": "2026-09-11T18:00:00",
+   "estimada_adjudicacion": "2026-12-21T12:13:00",
+   "duracion": "36 meses",
+   "renovable": false,
+   "prohibiciones": "ver bases administrativas numeral 29 Subcontratación",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 7847,
+   "contacto": "Karina Pérez",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
  },
  {
   "codigo": "1562-49-LR26",
@@ -6162,6 +6499,63 @@
   },
   "visto": "2026-08-30",
   "actualizado": "2026-08-30"
+ },
+ {
+  "codigo": "548874-77-LR26",
+  "nombre": "MANTENCIÓN Y MEJORA SISTEMA CIBERSEGURIDAD NCH ISO",
+  "descripcion": "E1O2RT8 - SERVICIO DE MANTENCIÓN Y MEJORA DEL SISTEMA DE GESTIÓN DE SEGURIDAD DE LA INFORMACIÓN Y CIBERSEGURIDAD INSTITUCIONAL NCH ISOIEC 27001",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LR",
+  "publicacion": "2026-08-31T15:50:30.54",
+  "cierre": "2026-10-06T15:00:00",
+  "monto": 11000.0,
+  "moneda": "CLF",
+  "organismo": "INSTITUTO DE PREVISION SOCIAL",
+  "unidad": "IPS Oficina Central de Compras",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Santiago",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de seguridad y protección"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de administración de red privada virtual (VPN) o de seguridad de red",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de seguridad y protección",
+     "cantidad": 1.0,
+     "unidad": "Global",
+     "detalle": "E1O2RT8 - SERVICIO DE MANTENCIÓN Y MEJORA DEL SISTEMA DE GESTIÓN DE SEGURIDAD DE LA INFORMACIÓN Y CIBERSEGURIDAD INSTITUCIONAL NCH ISO/ IEC 27001"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-10-06T16:00:00",
+   "apertura_economica": "2026-10-06T16:00:00",
+   "respuestas": "2026-09-23T18:00:00",
+   "estimada_adjudicacion": "2026-11-11T18:00:00",
+   "duracion": "24 meses",
+   "renovable": false,
+   "prohibiciones": "Ver bases punto 16",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "Ver bases punto 7.3",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 79,
+   "contacto": "por definir",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-31",
+  "actualizado": "2026-08-31"
  },
  {
   "codigo": "976-15-O126",
