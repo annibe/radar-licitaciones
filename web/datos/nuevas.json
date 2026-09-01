@@ -1,1 +1,215 @@
-[]
+[
+ {
+  "codigo": "1057548-21-LE26",
+  "nombre": "Convenio Suministro de Servicio de Fotocopiado Impresion y Digitalizacion con Entrega de Equipos",
+  "descripcion": "El Hospital La Unión invita a personas naturales o jurídicas que cumplan con los requisitos establecidos en las presentes Bases a ofertar en su licitación pública “CONVENIO SUMINISTRO DE SERVICIO DE FOTOCOPIADO, IMPRESIÓN Y DIGITALIZACION CON ENTREGA DE EQUIPOS PARA EL HOSPITAL DE LA UNION” segundo llamado. La presente licitación pública es de tipo simple.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-09-01T10:14:20.14",
+  "cierre": "2026-09-14T15:01:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "SERVICIO DE SALUD VALDIVIA HOSPITAL LA U",
+  "unidad": "Bienes y Servicios",
+  "region": "Región de Los Ríos",
+  "comuna": "La Unión",
+  "categorias": [
+   "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Servicios de impresión y reproducción / Impresión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Impresión digital",
+     "categoria": "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Servicios de impresión y reproducción / Impresión",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": ""
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-14T15:15:00",
+   "apertura_economica": "2026-09-14T15:15:00",
+   "respuestas": "2026-09-09T13:58:00",
+   "estimada_adjudicacion": "2026-12-14T16:40:00",
+   "duracion": "24 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "",
+   "financiamiento": "HOSPITAL DE LA UNION",
+   "obras": false,
+   "reclamos_comprador": 540,
+   "contacto": "Alvaro jimenez neumann",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-01",
+  "actualizado": "2026-09-01"
+ },
+ {
+  "codigo": "2434-19-LE26",
+  "nombre": "SERV. TELEFONÍA MOVIL DATOS BANDA ANCHA E IP",
+  "descripcion": "1.\tServicio de Telefonía IP:\r\nLa municipalidad requiere contratar el servicio de telefonía IP, considerando la habilitación y provisión de 59 anexos telefónicos, distribuidos entre el Edificio Consistorial y las distintas dependencias municipales.\r\n\r\n A su vez el servicio debe considerar la conectividad entre dependencias municipales, soporte técnico, plataforma de administración y continuidad operacional del servicio. La solución deberá operar sobre la infraestructura de conectividad a Internet disponible en la Municipalidad. \r\n\r\nAl término de la vigencia contractual, y una vez cumplidas todas las obligaciones asociadas al contrato, la totalidad de los equipos, licencias perpetuas, accesorios y demás bienes suministrados en el marco de la prestación pasarán a ser de propiedad de la Municipalidad, libres de gravámenes, restricciones de uso o costos adicionales, debiendo el proveedor efectuar todas las gestiones necesarias para formalizar dicha transferencia.\r\n\r\n2.\tServicios de telefonía móvil de voz, datos móviles y Banda Ancha Móvil BAM:\r\nLa Municipalidad requiere la provisión de un total de 175 líneas móviles bajo modalidad solo chip, sin suministro de equipos telefónicos.\r\n\r\nEst",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-09-01T10:27:45.85",
+  "cierre": "2026-09-11T14:00:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "I MUNICIPALIDAD ESTACION CENTRAL",
+  "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Estación Central",
+  "categorias": [
+   "Servicios básicos y de información pública / Telecomunicaciones / Comunicaciones móviles"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Servicios de telefonía móvil",
+     "categoria": "Servicios básicos y de información pública / Telecomunicaciones / Comunicaciones móviles",
+     "cantidad": 1.0,
+     "unidad": "Global",
+     "detalle": "SERVICIO DE TELEFONÍA IP. SERVICIOS DE TELEFONÍA MÓVIL DE VOZ, DATOS MÓVILES Y BANDA ANCHA MÓVIL (BAM), DE ACUERDO A BASES DE LICITACIÓN."
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-11T15:00:00",
+   "apertura_economica": "2026-09-11T15:00:00",
+   "respuestas": "2026-09-07T17:00:00",
+   "estimada_adjudicacion": "2026-09-14T17:43:00",
+   "duracion": "24 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "Municipal",
+   "obras": false,
+   "reclamos_comprador": 2135,
+   "contacto": "Felipe Ramos",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-01",
+  "actualizado": "2026-09-01"
+ },
+ {
+  "codigo": "3000-30-LE26",
+  "nombre": "Toner y Tintas INFORMÁTICA",
+  "descripcion": "Llámese a participar en la propuesta Pública para la provisión de Tóners y Tintas, para Impresoras de la Municipalidad de Monte Patria.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-09-01T09:20:14.553",
+  "cierre": "2026-09-11T15:00:00",
+  "monto": 12000000.0,
+  "moneda": "CLP",
+  "organismo": "I MUNICIPALIDAD DE MONTEPATRIA",
+  "unidad": "Dirección  Adm. y  Finanzas",
+  "region": "Región de Coquimbo ",
+  "comuna": "Monte Patria",
+  "categorias": [
+   "Equipos, accesorios y suministros de oficina / Maquinarias, suministros y accesorios de oficina / Suministros para impresora, fax y fotocopiadora"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Tóner",
+     "categoria": "Equipos, accesorios y suministros de oficina / Maquinarias, suministros y accesorios de oficina / Suministros para impresora, fax y fotocopiadora",
+     "cantidad": 20.0,
+     "unidad": "Unidad",
+     "detalle": "TONER MODELO TN3609XXL PARA IMPRESORA BROTHER MODELO MFC-L6915DW CON RENDIMIENTO DE 11000 HOJAS POR UNIDAD"
+    },
+    {
+     "producto": "Tóner",
+     "categoria": "Equipos, accesorios y suministros de oficina / Maquinarias, suministros y accesorios de oficina / Suministros para impresora, fax y fotocopiadora",
+     "cantidad": 4.0,
+     "unidad": "Unidad",
+     "detalle": "TONER MODELO DR3609 PARA IMPRESORA BROTHER MODELO MFC-L6915DW CON RENDIMIENTO DE 75000 HOJAS POR UNIDAD"
+    },
+    {
+     "producto": "Tóner",
+     "categoria": "Equipos, accesorios y suministros de oficina / Maquinarias, suministros y accesorios de oficina / Suministros para impresora, fax y fotocopiadora",
+     "cantidad": 6.0,
+     "unidad": "Unidad",
+     "detalle": "TONER MODELO CF226X PARA IMPRESORA HP MODELO LASERJET M402/M426/ CON RENDIMIENTO DE 9000 HOJAS POR UNIDAD"
+    },
+    {
+     "producto": "Tóner",
+     "categoria": "Equipos, accesorios y suministros de oficina / Maquinarias, suministros y accesorios de oficina / Suministros para impresora, fax y fotocopiadora",
+     "cantidad": 11.0,
+     "unidad": "Unidad",
+     "detalle": "TONER MODELO CF287X PARA IMPRESORA HP MODELO LASERJET M527/ CON RENDIMIENTO DE 10000 HOJAS POR UNIDAD."
+    },
+    {
+     "producto": "Tóner",
+     "categoria": "Equipos, accesorios y suministros de oficina / Maquinarias, suministros y accesorios de oficina / Suministros para impresora, fax y fotocopiadora",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "TONER MODELO CF280X PARA IMPRESORA HP MODELO LASERJET M421/M425 CON RENDIMIENTO DE 6900 HOJAS POR UNIDAD"
+    },
+    {
+     "producto": "Tóner",
+     "categoria": "Equipos, accesorios y suministros de oficina / Maquinarias, suministros y accesorios de oficina / Suministros para impresora, fax y fotocopiadora",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "TONER MODELO CF258X PARA IMPRESORA HP MODELO LASERJET M428 CON RENDIMIENTO DE 10000 HOJAS POR UNIDAD."
+    },
+    {
+     "producto": "Tóner",
+     "categoria": "Equipos, accesorios y suministros de oficina / Maquinarias, suministros y accesorios de oficina / Suministros para impresora, fax y fotocopiadora",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "TONER MODELO T06 PARA IMPRESORA CANON MODELO IMAGERUNER 1643IF CON RENDIMIENTO DE 20500 HOJAS POR UNIDAD"
+    }
+   ],
+   "items_total": 7,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-11T15:01:00",
+   "apertura_economica": "2026-09-11T15:01:00",
+   "respuestas": "2026-09-07T17:00:00",
+   "estimada_adjudicacion": "2026-09-21T17:00:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "municipal",
+   "obras": false,
+   "reclamos_comprador": 283,
+   "contacto": "Héctor Salinas Rojas",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-01",
+  "actualizado": "2026-09-01"
+ }
+]
