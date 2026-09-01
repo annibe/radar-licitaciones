@@ -214,10 +214,11 @@ function filtrar() {
 }
 
 function ordenar(lista) {
+  /* El orden es siempre por fecha de cierre, y nada mas. Las que tienen like NO
+     suben al principio a proposito: si la ficha salta de lugar al apretar el
+     boton, pierdes de vista donde ibas leyendo. El like es una marca, no un
+     orden. Para verlas juntas esta la casilla "Solo mis likes". */
   return lista.slice().sort((a, b) => {
-    const favA = favoritas.has(a.codigo) ? 0 : 1;
-    const favB = favoritas.has(b.codigo) ? 0 : 1;
-    if (favA !== favB) return favA - favB;   // las favoritas, arriba
     const fa = aFecha(a.cierre);
     const fb = aFecha(b.cierre);
     if (fa && fb) return fa - fb;
@@ -412,7 +413,7 @@ function tarjeta(lic) {
     estrella.textContent = esFavorita ? "♥ Like" : "♡ Like";
     estrella.title = esFavorita
       ? "Quitarle el like"
-      : "Las que te gustan quedan arriba del listado";
+      : "Marcarla. Se queda donde esta; para verlas juntas usa «Solo mis likes»";
     estrella.addEventListener("click", () => alternarFavorita(lic.codigo));
     acciones.appendChild(estrella);
   }
