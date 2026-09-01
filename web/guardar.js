@@ -10,7 +10,7 @@
         1057426-88-LP26 - Consultoria estructura documental\
            ficha.html      todos los datos, para leer o imprimir a PDF
            datos.json      lo mismo en crudo
-           bases.url       acceso directo a la ficha oficial
+           abrir-bases.html  abre la ficha oficial de un doble clic
            notas.txt       para escribir (nunca se sobrescribe)
 */
 
@@ -162,8 +162,8 @@ Dentro de cada una:
   ficha.html   Todos los datos y los requerimientos tecnicos. Se abre en el
                navegador; para dejarla en PDF, Ctrl+P y "Guardar como PDF".
   datos.json   Lo mismo en crudo, por si se necesita procesar.
-  bases.url    Acceso directo a la ficha oficial, donde estan las bases
-               administrativas y tecnicas y los anexos para descargar.
+  abrir-bases.html  Abre la ficha oficial, donde estan las bases administrativas
+               y tecnicas y los anexos para descargar.
   notas.txt    Para escribir. Este archivo NUNCA se sobrescribe.
 
 Para trabajar en equipo: que cada persona escriba en el notas.txt de la
@@ -173,6 +173,21 @@ Esta carpeta la genera el radar de licitaciones.
 `;
 
 /* ---------- guardar ---------- */
+
+function enlaceBases(lic) {
+  /* Chrome no deja que una pagina cree archivos .url (los trata como peligrosos),
+     asi que el acceso directo va como una pagina web que redirige sola. */
+  const url = FICHA_MP + encodeURIComponent(lic.codigo);
+  const titulo = String(lic.nombre || "").replace(/[<>&]/g, " ");
+  return '<!doctype html><html lang="es"><head><meta charset="utf-8">' +
+    "<title>Bases - " + titulo + "</title>" +
+    '<meta http-equiv="refresh" content="0; url=' + url + '">' +
+    "</head><body style=\"font:16px/1.6 sans-serif;padding:40px\">" +
+    "<p>Abriendo las bases de <strong>" + titulo + "</strong> en Mercado P&uacute;blico&hellip;</p>" +
+    '<p><a href="' + url + '">Si no se abre solo, pincha aqu&iacute;</a></p>' +
+    "</body></html>";
+}
+
 
 async function escribir(dir, nombre, contenido, soloSiNoExiste) {
   if (soloSiNoExiste) {
@@ -238,17 +253,27 @@ async function guardarLicitaciones(marcadas) {
 
   avisar("Guardando " + marcadas.length + "...", "");
   let nuevas = 0, actualizadas = 0;
+  const problemas = [];
   try {
     await escribir(carpeta, "LEEME.txt", LEEME, true);
     for (const lic of marcadas) {
       const dir = await carpeta.getDirectoryHandle(nombreCarpeta(lic), { create: true });
-      const eraNueva = await escribir(dir, "notas.txt",
+      const fallidos = [];
+      const intentar = async (nombre, contenido, soloSiNoExiste) => {
+        try {
+          return await escribir(dir, nombre, contenido, soloSiNoExiste);
+        } catch (e) {
+          fallidos.push(nombre);
+          return false;
+        }
+      };
+      const eraNueva = await intentar("notas.txt",
         "NOTAS - " + lic.nombre + "\r\n" + "=".repeat(40) + "\r\n\r\n" + textoPlano(lic) + "\r\n\r\n",
         true);
-      await escribir(dir, "ficha.html", fichaHTML(lic));
-      await escribir(dir, "datos.json", JSON.stringify(lic, null, 1));
-      await escribir(dir, "bases.url",
-        "[InternetShortcut]\r\nURL=" + FICHA_MP + encodeURIComponent(lic.codigo) + "\r\n");
+      await intentar("ficha.html", fichaHTML(lic));
+      await intentar("datos.json", JSON.stringify(lic, null, 1));
+      if (fallidos.length) problemas.push(nombreCarpeta(lic) + ": " + fallidos.join(", "));
+      await intentar("abrir-bases.html", enlaceBases(lic));
       if (eraNueva) nuevas++; else actualizadas++;
     }
     const partes = [];
@@ -257,8 +282,12 @@ async function guardarLicitaciones(marcadas) {
       partes.push(actualizadas + (actualizadas === 1 ? " actualizada" : " actualizadas"));
     }
     if (marcadas.length === 1) await dejarMarca(marcadas[0]);
-    avisar("Listo: " + partes.join(" y ") + " en " + dondeEstoy() +
-      ". Tus notas no se tocaron.", "ok");
+    if (problemas.length) {
+      avisar("Guardado con problemas. No pude escribir: " + problemas.join(" | "), "error");
+    } else {
+      avisar("Listo: " + partes.join(" y ") + " en " + dondeEstoy() +
+        ". Tus notas no se tocaron.", "ok");
+    }
   } catch (error) {
     avisar("No pude terminar de guardar: " + error.message, "error");
   }
