@@ -17,6 +17,7 @@ Se cierra con Ctrl+C o cerrando la ventana.
 
 import json
 import re
+import hashlib
 import shutil
 import sys
 import time
@@ -141,6 +142,37 @@ def esta_completo(archivo):
         return False
 
 
+def firma(archivo):
+    """Huella del contenido de un archivo."""
+    resumen = hashlib.md5()
+    with open(archivo, "rb") as f:
+        for trozo in iter(lambda: f.read(65536), b""):
+            resumen.update(trozo)
+    return resumen.hexdigest()
+
+
+def ya_archivado(destino, archivo):
+    """Si en la carpeta ya hay un archivo con el mismo contenido.
+
+    Un solo clic en la lupa de Mercado Publico a veces dispara la descarga
+    varias veces, y Chrome le va poniendo "(1)", "(2)"... Sin esta comprobacion
+    la carpeta termina con tres copias identicas y nombres distintos. Comparamos
+    primero por tamano, que es barato, y solo calculamos la huella si coincide.
+    """
+    if not destino.is_dir():
+        return False
+    try:
+        tam = archivo.stat().st_size
+        iguales = [f for f in destino.iterdir()
+                   if f.is_file() and f.stat().st_size == tam]
+        if not iguales:
+            return False
+        mia = firma(archivo)
+        return any(firma(otro) == mia for otro in iguales)
+    except OSError:
+        return False
+
+
 def nombre_libre(destino, nombre):
     candidato = destino / nombre
     if not candidato.exists():
@@ -205,6 +237,11 @@ def main():
                 log("  ignorado, " + de_donde + ": " + archivo.name)
                 continue
             if not esta_completo(archivo):
+                continue
+            if ya_archivado(destino, archivo):
+                ya_vistos.add(archivo.name)
+                log("  repetido, ya lo tienes archivado: " + archivo.name)
+                log("    lo dejo en Descargas; borralo tu si quieres")
                 continue
             destino.mkdir(parents=True, exist_ok=True)
             try:
