@@ -1,1 +1,173 @@
-[]
+[
+ {
+  "codigo": "1016-9-LE26",
+  "nombre": "Equipamiento Informático 11 Notebook Workstation",
+  "descripcion": "Adquisición de equipamiento informático, en específico 11 equipos Notebook Workstation, dado la obsolescencia tecnológica de los equipos o inexistencia de estos, para la Dirección de Planeamiento (DIRPLAN) del Ministerio de Obras Públicas (MOP).",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-09-07T09:36:32.23",
+  "cierre": "2026-09-21T15:30:00",
+  "monto": 35750000.0,
+  "moneda": "CLP",
+  "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+  "unidad": "Dirección de Planeamiento - MOP",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Santiago Centro",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Computadores"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Notebook, laptop o computador portátil excepto Tablet PC",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Computadores",
+     "cantidad": 11.0,
+     "unidad": "Unidad",
+     "detalle": "PORTATIL Notebook Workstation"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-21T15:31:00",
+   "apertura_economica": "2026-09-21T15:31:00",
+   "respuestas": "2026-09-15T20:00:00",
+   "estimada_adjudicacion": "2026-09-28T20:00:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "Se prohíbe la subcontratación ya que se adjudica de acuerdo a la oferta del proveedor y sus características especiales.",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "Presupuesto Disponible",
+   "obras": false,
+   "reclamos_comprador": 5,
+   "contacto": "Leonardo Rivera Llanquiman",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-07",
+  "actualizado": "2026-09-07"
+ },
+ {
+  "codigo": "45-48-LE26",
+  "nombre": "SERVICIO DE MANTENCIÓN DE NUBES ACÚSTICAS PARA LAS DEPENDENCIAS DEL PRIMER PISO SENCE NIVEL CENTRAL",
+  "descripcion": "El presente proceso licitatorio tiene como objetivo asegurar la mantención integral del sistema de nubes acústicas, mediante acciones preventivas y correctivas que permitan conservar su funcionalidad, reparar fallas existentes y reemplazar componentes deficientes, garantizando el confort acústico del área de trabajo, correspondientes a SENCE Nivel Central, ubicadas en Teatinos 370, Comuna de Santiago, Región Metropolitana.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-09-07T12:05:55.223",
+  "cierre": "2026-09-21T15:01:00",
+  "monto": 10620000.0,
+  "moneda": "CLP",
+  "organismo": "SERVICIO NACIONAL DE CAPACITACION Y EMPLEO",
+  "unidad": "Servicio Nacional de Capacitación y Empleo",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "",
+  "categorias": [
+   "Servicios medioambientales / Servicios de seguimiento, control o rehabilitación de agentes contaminantes / Control de la contaminación acústica"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Servicios de control de la contaminación acústica",
+     "categoria": "Servicios medioambientales / Servicios de seguimiento, control o rehabilitación de agentes contaminantes / Control de la contaminación acústica",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "SERVICIO DE MANTENCIÓN DE NUBES ACÚSTICAS PARA LAS DEPENDENCIAS DEL PRIMER PISO SENCE NIVEL CENTRAL"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-21T15:02:00",
+   "apertura_economica": "2026-09-21T15:02:00",
+   "respuestas": "2026-09-16T18:00:00",
+   "estimada_adjudicacion": "2026-10-21T18:00:00",
+   "duracion": "40 días",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "Servicio Nacional de Capacitación y Empleo",
+   "obras": false,
+   "reclamos_comprador": 47,
+   "contacto": "Diego Figueroa Muñoz",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-07",
+  "actualizado": "2026-09-07"
+ },
+ {
+  "codigo": "885-83-LE26",
+  "nombre": "Servicios de soporte y mantenimiento de la plataforma de seguridad F5 de la Contraloría General de la República",
+  "descripcion": "La Contraloría General de la República requiere contratar los servicios de soporte y mantenimiento de su plataforma de seguridad, correspondiente a Balanceador de carga y cortafuego de aplicaciones F5, para zona productiva por un periodo de 12 meses.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-09-07T11:52:21.553",
+  "cierre": "2026-09-22T16:00:00",
+  "monto": 16000000.0,
+  "moneda": "CLP",
+  "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
+  "unidad": "Contraloría General de la República",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Equipo de seguridad de red de firewall",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Servicios de soporte y mantenimiento de su plataforma de seguridad, correspondiente a Balanceador de carga y cortafuego de aplicaciones F5, para zona productiva por un periodo de 12 meses"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-22T16:05:00",
+   "apertura_economica": "2026-09-22T16:05:00",
+   "respuestas": "2026-09-15T16:21:00",
+   "estimada_adjudicacion": "2026-10-07T19:53:00",
+   "duracion": "12 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "servicios de soporte y mantenimiento de su plataforma de seguridad, correspondiente a Balanceador de carga y cortafuego de aplicaciones F5, para zona productiva por un periodo de 12 meses.",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 33,
+   "contacto": "Cristian Leon",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-07",
+  "actualizado": "2026-09-07"
+ }
+]
