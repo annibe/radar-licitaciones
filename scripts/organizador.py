@@ -17,6 +17,7 @@ Se cierra con Ctrl+C o cerrando la ventana.
 
 import json
 import re
+import zipfile
 import hashlib
 import shutil
 import sys
@@ -210,6 +211,34 @@ def nombre_libre(destino, nombre):
     return destino / (tronco + " " + str(int(time.time())) + sufijo)
 
 
+def descomprimir(archivo, destino):
+    """Si Mercado Publico entrego un ZIP, lo abrimos en la carpeta.
+
+    La descarga masiva ("Seleccionar Todos" + el codigo de la imagen) entrega un
+    solo comprimido con todos los anexos. Guardar el ZIP tal cual obligaria a
+    abrirlo a mano cada vez, asi que lo dejamos ya descomprimido.
+    Devuelve la lista de archivos extraidos, o None si no era un ZIP legible.
+    """
+    if archivo.suffix.lower() != ".zip":
+        return None
+    try:
+        with zipfile.ZipFile(archivo) as z:
+            nombres = [n for n in z.namelist() if not n.endswith("/")]
+            sacados = []
+            for nombre in nombres:
+                # nos quedamos solo con el nombre, sin rutas raras dentro del zip
+                limpio = Path(nombre.replace("\\", "/")).name
+                if not limpio:
+                    continue
+                final = nombre_libre(destino, limpio)
+                with z.open(nombre) as dentro, open(final, "wb") as fuera:
+                    shutil.copyfileobj(dentro, fuera)
+                sacados.append(final)
+            return sacados
+    except (zipfile.BadZipFile, OSError):
+        return None
+
+
 def archivar(archivo, destino):
     """Deja el archivo en la carpeta de la licitacion.
 
@@ -313,6 +342,20 @@ def main():
                 continue
             destino.mkdir(parents=True, exist_ok=True)
             try:
+                sacados = descomprimir(archivo, destino)
+                if sacados is not None:
+                    ya_vistos.add(archivo.name)
+                    esperando.pop(archivo.name, None)
+                    log("  descomprimido: " + str(len(sacados)) + " archivos de " + archivo.name)
+                    for s in sacados:
+                        log("     " + s.name[:60])
+                        anotar(compartida, marca["carpeta"] + "  <-  " + s.name)
+                    try:
+                        archivo.unlink()
+                    except OSError:
+                        por_borrar.add(archivo)
+                    continue
+
                 final, pendiente = archivar(archivo, destino)
                 if pendiente:
                     por_borrar.add(archivo)
