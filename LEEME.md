@@ -46,6 +46,7 @@ Abre **`config.json`** con el Bloc de notas. Lo que importa:
 | `excluir_palabras` | Descarta las que contengan estas palabras, aunque calcen con las anteriores. |
 | `monto_min_clp` / `monto_max_clp` | Rango de monto estimado. `null` = sin tope. |
 | `regiones` | Lista de regiones; vacío = todo Chile. |
+| `ocultar_vencidas` | `true` descarta las que ya cerraron. Mercado Público las sigue listando como activas un buen rato después del cierre: una de cada seis. |
 
 No hace falta tocar `pausa_entre_consultas_seg`, `max_detalles_por_corrida` ni
 `refrescar_detalle_cada_dias`: están puestos para no pasarse de las 10.000 consultas

@@ -39,7 +39,10 @@ EN_CURSO = {".crdownload", ".part", ".tmp", ".partial"}
 # solo se archivan descargas que vengan de estos dominios
 DOMINIOS = ("mercadopublico.cl", "chilecompra.cl")
 
-VENTANA_MINUTOS = 25      # cuanto rato despues de la marca seguimos archivando
+INTENTOS_MAX = 45         # ~3 minutos: los PDF grandes tardan en pasar el antivirus
+VENTANA_MINUTOS = 120     # cuanto rato despues de la marca seguimos archivando.
+                          # Generoso a proposito: el validador de origen ya impide
+                          # que se archive algo que no venga de Mercado Publico.
 PAUSA_SEG = 4
 
 
@@ -131,13 +134,24 @@ def viene_de_mercado_publico(archivo):
 
 
 def esta_completo(archivo):
-    """Evita mover algo que todavia se esta descargando."""
+    """Evita mover algo que todavia se esta descargando.
+
+    Que el tamano deje de crecer no alcanza: Chrome mantiene el archivo abierto
+    un rato despues de terminar, y mover en ese momento revienta con
+    "WinError 32: el archivo esta siendo utilizado por otro proceso", dejando
+    una copia a medias. Abrirlo en modo escritura falla mientras otro proceso lo
+    tenga tomado, asi que eso nos sirve de prueba: si abre, es nuestro.
+    """
     if archivo.suffix.lower() in EN_CURSO:
         return False
     try:
         tam = archivo.stat().st_size
         time.sleep(1.2)
-        return tam == archivo.stat().st_size and tam > 0
+        if tam == 0 or tam != archivo.stat().st_size:
+            return False
+        with open(archivo, "r+b"):
+            pass
+        return True
     except OSError:
         return False
 
@@ -173,7 +187,18 @@ def ya_archivado(destino, archivo):
         return False
 
 
+def sin_sufijo_de_copia(nombre):
+    """Chrome renombra a "archivo (1).pdf" cuando ya bajaste ese archivo antes.
+
+    Ese sufijo no dice nada del documento y ensucia la carpeta, asi que lo
+    sacamos al archivar. Si el nombre limpio ya esta ocupado, nombre_libre se
+    encarga de desempatar.
+    """
+    return re.sub(r"\s*\(\d+\)(?=\.[A-Za-z0-9]+$)", "", nombre)
+
+
 def nombre_libre(destino, nombre):
+    nombre = sin_sufijo_de_copia(nombre)
     candidato = destino / nombre
     if not candidato.exists():
         return candidato
@@ -183,6 +208,29 @@ def nombre_libre(destino, nombre):
         if not otro.exists():
             return otro
     return destino / (tronco + " " + str(int(time.time())) + sufijo)
+
+
+def archivar(archivo, destino):
+    """Deja el archivo en la carpeta de la licitacion.
+
+    En Windows "mover" es copiar y luego borrar. Con archivos grandes el
+    navegador o el antivirus suelen tener tomado el original justo en ese
+    momento: la copia se hace, el borrado falla, y si eso se trata como fracaso
+    el programa vuelve a intentarlo y termina duplicando el archivo una y otra
+    vez. Aqui separamos las dos cosas: si la copia quedo, el archivo esta a
+    salvo; el original se borra despues, cuando lo suelten.
+
+    Devuelve (destino_final, hay_que_borrar_el_original).
+    """
+    final = nombre_libre(destino, archivo.name)
+    parcial = final.with_name(final.name + ".parcial")
+    shutil.copy2(str(archivo), str(parcial))
+    parcial.replace(final)
+    try:
+        archivo.unlink()
+        return final, False
+    except OSError:
+        return final, True
 
 
 def anotar(compartida, linea):
@@ -209,6 +257,8 @@ def main():
 
     ya_vistos = {a.name for a in DESCARGAS.iterdir() if a.is_file()}
     marca_anterior = None
+    esperando = {}
+    por_borrar = set()
 
     while True:
         time.sleep(PAUSA_SEG)
@@ -225,6 +275,16 @@ def main():
         if datetime.now().timestamp() - marca["desde"] > VENTANA_MINUTOS * 60:
             continue
 
+        for original in list(por_borrar):
+            try:
+                original.unlink()
+                por_borrar.discard(original)
+                log("  ya lo solto el navegador, saque el original de Descargas")
+            except FileNotFoundError:
+                por_borrar.discard(original)
+            except OSError:
+                pass                      # sigue tomado; lo intentamos de nuevo
+
         destino = compartida / marca["carpeta"] / "anexos"
         for archivo in DESCARGAS.iterdir():
             if not archivo.is_file() or archivo.name in ya_vistos:
@@ -237,6 +297,14 @@ def main():
                 log("  ignorado, " + de_donde + ": " + archivo.name)
                 continue
             if not esta_completo(archivo):
+                intentos = esperando.get(archivo.name, 0) + 1
+                esperando[archivo.name] = intentos
+                if intentos == 3:
+                    log("  esperando a que el navegador lo suelte: " + archivo.name)
+                elif intentos > INTENTOS_MAX:
+                    ya_vistos.add(archivo.name)
+                    log("  me rindo con " + archivo.name + ": sigue ocupado.")
+                    anotar(compartida, "NO ARCHIVADO (ocupado): " + archivo.name)
                 continue
             if ya_archivado(destino, archivo):
                 ya_vistos.add(archivo.name)
@@ -245,13 +313,25 @@ def main():
                 continue
             destino.mkdir(parents=True, exist_ok=True)
             try:
-                final = nombre_libre(destino, archivo.name)
-                shutil.move(str(archivo), str(final))
+                final, pendiente = archivar(archivo, destino)
+                if pendiente:
+                    por_borrar.add(archivo)
                 ya_vistos.add(archivo.name)
+                esperando.pop(archivo.name, None)
                 log("  archivado: " + final.name)
                 anotar(compartida, marca["carpeta"] + "  <-  " + final.name)
             except (OSError, shutil.Error) as error:
-                log("  no pude mover " + archivo.name + ": " + str(error))
+                # sin este tope, un archivo trabado se reintenta cada 4 segundos
+                # para siempre y llena la pantalla de la misma linea
+                intentos = esperando.get(archivo.name, 0) + 1
+                esperando[archivo.name] = intentos
+                if intentos == 1:
+                    log("  ocupado, reintentando: " + archivo.name)
+                elif intentos > INTENTOS_MAX:
+                    ya_vistos.add(archivo.name)
+                    log("  me rindo con " + archivo.name + ". Muevelo a mano a:")
+                    log("    " + str(destino))
+                    anotar(compartida, "NO ARCHIVADO (ocupado): " + archivo.name)
 
 
 if __name__ == "__main__":

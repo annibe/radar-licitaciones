@@ -87,6 +87,7 @@ def leer_config():
     cfg.setdefault("pausa_entre_consultas_seg", 0.5)
     cfg.setdefault("max_detalles_por_corrida", 600)
     cfg.setdefault("refrescar_detalle_cada_dias", 7)
+    cfg.setdefault("ocultar_vencidas", True)
     return cfg
 
 
@@ -264,6 +265,25 @@ def limpiar(detalle):
     }
 
 
+def sigue_abierta(ficha, ahora):
+    """Si la fecha de cierre ya paso, no es una oportunidad aunque la API la liste.
+
+    Mercado Publico deja las licitaciones en el listado de "activas" un buen rato
+    despues de que cierran: siguen diciendo "Publicada" cuando ya no se puede
+    ofertar. Nos fiamos de la fecha, no del estado declarado.
+    """
+    cierre = ficha.get("cierre")
+    if not cierre:
+        return True                      # sin fecha, mejor no descartarla
+    texto = str(cierre).replace("Z", "").split(".")[0]
+    for formato in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(texto, formato) >= ahora
+        except ValueError:
+            continue
+    return True
+
+
 def pasa_filtros_finales(ficha, cfg):
     minimo = cfg.get("monto_min_clp") or 0
     maximo = cfg.get("monto_max_clp")
@@ -371,6 +391,15 @@ def main():
             log("    " + str(numero) + "/" + str(len(por_consultar)))
 
     fichas = [f for f in fichas if pasa_filtros_finales(f, cfg)]
+
+    if cfg["ocultar_vencidas"]:
+        ahora = datetime.now(ZONA_CHILE).replace(tzinfo=None)
+        antes = len(fichas)
+        fichas = [f for f in fichas if sigue_abierta(f, ahora)]
+        vencidas = antes - len(fichas)
+        if vencidas:
+            log("  descarto " + str(vencidas) +
+                " con plazo vencido (la API las sigue listando como activas)")
     nuevas = [] if primera_vez else [f for f in fichas if f["codigo"] not in anterior]
 
     fichas.sort(key=lambda f: f.get("cierre") or "9999")

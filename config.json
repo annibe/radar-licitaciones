@@ -55,6 +55,7 @@
   "monto_min_clp": 0,
   "monto_max_clp": null,
   "regiones": [],
+  "ocultar_vencidas": true,
   "pausa_entre_consultas_seg": 0.5,
   "max_detalles_por_corrida": 600,
   "refrescar_detalle_cada_dias": 7,
