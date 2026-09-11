@@ -15,6 +15,7 @@ Uso:
 El ticket sale de la variable de entorno MP_TICKET o de ~/.mp_ticket
 """
 
+import html
 import json
 import os
 import re
@@ -34,6 +35,9 @@ VIGENTES = DATOS / "vigentes.json"
 NUEVAS = DATOS / "nuevas.json"
 INDICE = DATOS / "indice.json"
 API = "https://api.mercadopublico.cl/servicios/v1/publico/licitaciones.json"
+FICHA = "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion="
+NAVEGADOR = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+             "(KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36")
 ZONA_CHILE = timezone(timedelta(hours=-4))
 
 ESTADOS = {
@@ -147,6 +151,35 @@ def compilar(palabras):
         patron = r"\b" + cuerpo + (r"\b" if len(limpia) <= 3 else "")
         patrones.append(re.compile(patron))
     return patrones
+
+
+def url_de_anexos(codigo, pausa):
+    """La direccion de la ventana de adjuntos de una licitacion.
+
+    Lleva un token cifrado que solo existe dentro del HTML de la ficha, asi que
+    hay que leer la ficha para sacarlo. El token sirve despues en cualquier
+    navegador: probado extrayendolo aqui y abriendolo en otra sesion.
+
+    Devuelve "" si no se pudo: entonces el boton cae de vuelta en la ficha, que
+    siempre funciona.
+    """
+    direccion = FICHA + urllib.parse.quote(codigo)
+    peticion = urllib.request.Request(direccion, headers={
+        "User-Agent": NAVEGADOR,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "es-CL,es;q=0.9",
+    })
+    try:
+        with urllib.request.urlopen(peticion, timeout=60) as respuesta:
+            pagina = respuesta.read().decode("utf-8", errors="replace")
+    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError):
+        return ""
+    finally:
+        time.sleep(pausa)
+    encontrado = re.search(r"ViewAttachment\.aspx\?enc=[^\"'\s\<>]+", html.unescape(pagina))
+    if not encontrado:
+        return ""
+    return "https://www.mercadopublico.cl/Procurement/Modules/Attachment/" + encontrado.group(0)
 
 
 def calza_palabras(texto, claves, excluidas):
@@ -370,8 +403,17 @@ def main():
         por_consultar = por_consultar[:tope]
 
     fichas = []
+    sin_anexos = 0
     for codigo in reusadas:
-        fichas.append(anterior[codigo])
+        ficha = anterior[codigo]
+        # las guardadas antes de que existiera esta funcion no traen la direccion
+        # de la ventana de adjuntos; se la completamos sin repetir todo el detalle
+        if not ficha.get("url_anexos"):
+            ficha["url_anexos"] = url_de_anexos(codigo, pausa)
+            sin_anexos += 1
+        fichas.append(ficha)
+    if sin_anexos:
+        log("  complete la direccion de anexos en " + str(sin_anexos) + " licitaciones")
 
     log("  consultando el detalle de " + str(len(por_consultar)) + " licitaciones...")
     for numero, codigo in enumerate(por_consultar, 1):
@@ -386,6 +428,7 @@ def main():
         previa = anterior.get(codigo)
         ficha["visto"] = (previa or {}).get("visto") or hoy.isoformat()
         ficha["actualizado"] = hoy.isoformat()
+        ficha["url_anexos"] = url_de_anexos(codigo, pausa)
         fichas.append(ficha)
         if numero % 25 == 0:
             log("    " + str(numero) + "/" + str(len(por_consultar)))

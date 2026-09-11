@@ -253,8 +253,9 @@ Por eso el flujo es asistido:
 
 1. Aprietas **⬇ Guardar y abrir anexos** en la licitacion que te interesa.
 2. Se crea su carpeta con la ficha y los datos, y se abre la ficha oficial.
-3. Pinchas el icono de adjuntos y despues la **lupa** de cada archivo. Tu navegador
-   pasa el control invisible sin que lo notes.
+3. Se abre **directamente la ventana de documentos adjuntos**. Ahi marcas
+   **«Seleccionar Todos»**, escribes el codigo de la imagen y baja un ZIP con todo
+   (tope de 20 MB); o pinchas la **lupa** de cada archivo, uno por uno.
 4. Los archivos caen en tu carpeta de Descargas.
 5. El **Organizador de anexos** los mueve solo a la carpeta de esa licitacion.
 
@@ -287,9 +288,18 @@ Cada tarjeta de la web tiene dos botones, al lado del de las bases:
   La casilla *"Solo mis favoritas"* deja ver nada más que esas.
 - **✕ Eliminar** — la saca del listado y no vuelve a aparecer, ni al día siguiente.
 
-Ambas cosas se guardan **en el navegador donde las haces**. Si entras desde el celular
-o desde otro computador, la lista sale completa. Cuando una licitación cierra y sale
-de las vigentes, su marca se borra sola.
+Ambas cosas se guardan en el navegador **y también en tu carpeta**, en un archivo
+llamado `_marcas.json` con la fecha de cada marca. Ocupa nada: unos 45 bytes por
+licitación, así que mil marcas son 45 KB.
+
+Eso significa que tus eliminaciones sobreviven a recargar la página, a cerrar Chrome,
+e incluso a que borres los datos de navegación: al volver a entrar, la página lee la
+carpeta y las recupera. Y si abres el radar en otro computador que tenga la carpeta
+conectada, ahí también están.
+
+Cuando una licitación cierra y sale de las vigentes, su marca se borra sola para no
+acumular. Y si alguna vez los datos llegaran incompletos, la página **no** limpia tus
+marcas: prefiere conservarlas de más antes que borrarlas por error.
 
 ## Eliminar licitaciones de la lista
 

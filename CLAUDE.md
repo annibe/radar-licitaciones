@@ -103,7 +103,8 @@ las tareas gratuitas y las horas en punto son las más congestionadas.
 
 1. Pide a la API `estado=activas` — todas las licitaciones abiertas del país.
 2. Filtra por nombre con las palabras clave y las exclusiones.
-3. Pide el detalle solo de las que calzan, una por una y con pausa.
+3. Pide el detalle solo de las que calzan, una por una y con pausa, y de paso lee la
+   ficha para extraer la dirección de su ventana de adjuntos.
 4. **Descarta las que ya cerraron**: la API sigue diciendo «Publicada» en licitaciones
    cuyo plazo venció. Se confía en la fecha de cierre, no en el estado declarado.
 5. Compara con la foto anterior: lo que no estaba es **nuevo**, y eso va al correo.
@@ -140,10 +141,12 @@ visitante, así que **ningún programa puede descargarlos** y no se intenta rode
 
 El flujo asistido deja el trabajo manual en dos clics:
 
-1. En la web: ♡ → **⬇ Guardar y abrir anexos**.
-2. En la ficha: **«Ver adjuntos»** — primer icono de la fila de nueve, encima de
-   «Productos o servicios». Se abre como ventana emergente; Chrome suele bloquearla la
-   primera vez.
+1. En la web: ♡ → **⬇ Guardar y abrir anexos**, o el botón **Bases administrativas y
+   técnicas** de cualquier tarjeta. Ambos abren **directamente la ventana de adjuntos**:
+   el robot guarda su dirección (`url_anexos`) al armar la foto del día.
+2. Si por lo que sea esa dirección falta, el botón abre la ficha y hay que pinchar
+   **«Ver adjuntos»** — primer icono de la fila de nueve, encima de «Productos o
+   servicios».
 3. **«Seleccionar Todos»** + el código de la imagen → baja un ZIP con todo.
    Tope de 20 MB impuesto por el sitio; si se pasa, hay que usar la lupa de cada fila.
 4. El organizador descomprime, archiva en `<licitación>\anexos\` y limpia Descargas.
@@ -174,6 +177,9 @@ de otro sitio se queda donde está.
 - **Los documentos no están en ninguna API.** Ni la clásica (87 campos, ninguno de
   adjuntos) ni el estándar OCDS, que solo los expone en el bloque de adjudicación y con
   un mes de retraso.
+- **El token de los anexos es portátil.** El `enc` de la ventana de adjuntos solo
+  existe dentro del HTML de la ficha, pero una vez extraído sirve en cualquier navegador
+  y en otra sesión. Por eso el robot puede guardarlo y el botón lleva directo.
 - **El puerto local parte en 8790** y busca uno libre hacia arriba.
 
 ---

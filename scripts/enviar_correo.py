@@ -167,7 +167,7 @@ def fila_excel(ficha, hoy):
         (r.get("prohibiciones"), excel.AJUSTADO),
         r.get("contacto"),
         (ficha.get("descripcion"), excel.AJUSTADO),
-        ('=HYPERLINK("%s%s","descargar bases")' % (FICHA_MP, ficha.get("codigo")), excel.ENLACE),
+        ('=HYPERLINK("%s","descargar bases")' % enlace_anexos(ficha), excel.ENLACE),
     ]
 
 
@@ -230,11 +230,16 @@ def armar_csv(todas, hoy):
                 if isinstance(valor, (datetime, date)):
                     valor = valor.strftime("%d-%m-%Y %H:%M")
                 elif isinstance(valor, str) and valor.startswith('=HYPERLINK('):
-                    valor = FICHA_MP + (ficha.get("codigo") or "")
+                    valor = enlace_anexos(ficha)
                 fila.append("" if valor is None else valor)
             escritor.writerow(fila)
     log("CSV listo: " + str(ruta))
     return ruta
+
+
+def enlace_anexos(ficha):
+    """Direccion directa a los documentos adjuntos; si no la hay, la ficha."""
+    return ficha.get("url_anexos") or (FICHA_MP + str(ficha.get("codigo") or ""))
 
 
 def fecha_corta(valor):
@@ -423,7 +428,7 @@ def cuerpo_html(nuevas, vigentes, hoy, cfg, primera_carga=False):
           </td>
         </tr>""".format(
             cuadro=cuadro_html(ficha, escapar),
-            enlace=FICHA_MP + escapar(ficha.get("codigo")),
+            enlace=escapar(enlace_anexos(ficha)),
             nombre=escapar(ficha.get("nombre")),
             organismo=escapar(ficha.get("organismo")),
             region=escapar(ficha.get("region")),
@@ -505,7 +510,7 @@ def cuerpo_texto(nuevas, hoy):
         lineas.append("  " + (ficha.get("organismo") or "") +
                       " | " + pesos(ficha.get("monto")) +
                       (" | cierra en %d dias" % restan if restan is not None else ""))
-        lineas.append("  " + FICHA_MP + (ficha.get("codigo") or ""))
+        lineas.append("  " + enlace_anexos(ficha))
     lineas.append("")
     lineas.append("El detalle completo va en el Excel adjunto.")
     return "\n".join(lineas)

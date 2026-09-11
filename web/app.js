@@ -3,6 +3,12 @@
 const CLAVE_GUARDADO = "radar-licitaciones-filtros";
 const FICHA_MP = "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?idlicitacion=";
 
+function enlaceAnexos(lic) {
+  // el robot guarda la direccion directa de la ventana de adjuntos; si por lo que
+  // sea no la tiene, caemos en la ficha, que siempre funciona
+  return lic.url_anexos || FICHA_MP + encodeURIComponent(lic.codigo);
+}
+
 const el = (id) => document.getElementById(id);
 const controles = {
   texto: el("texto"),
@@ -48,6 +54,7 @@ function alternarFavorita(codigo) {
   if (ahoraGusta) favoritas.add(codigo);
   else favoritas.delete(codigo);
   guardarFavoritas();
+  sincronizarMarcas();
   pintar();
 }
 
@@ -58,6 +65,12 @@ function leerDescartadas() {
     return new Set();
   }
 }
+
+function sincronizarMarcas() {
+  // sin esperar respuesta: la carpeta es el respaldo, el navegador la copia rapida
+  if (typeof guardarMarcasEnDisco === "function") guardarMarcasEnDisco();
+}
+
 
 function guardarDescartadas() {
   try {
@@ -73,12 +86,14 @@ function descartar(codigo) {
   descartadas.add(codigo);
   if (favoritas.delete(codigo)) guardarFavoritas();
   guardarDescartadas();
+  sincronizarMarcas();
   pintar();
 }
 
 function devolver(codigo) {
   descartadas.delete(codigo);
   guardarDescartadas();
+  sincronizarMarcas();
   pintar();
 }
 
@@ -141,15 +156,20 @@ async function cargarTodo() {
 
   descartadas = leerDescartadas();
   favoritas = leerFavoritas();
-  const vivos = new Set(licitaciones.map((l) => l.codigo));
-  for (const codigo of [...descartadas]) {
-    if (!vivos.has(codigo)) descartadas.delete(codigo);  // ya cerro: no ocupa espacio
+  // Solo limpiamos las marcas de licitaciones que ya cerraron cuando estamos
+  // seguros de que los datos llegaron completos. Si el archivo viniera vacio o a
+  // medias, podar aqui borraria de golpe todo lo que la usuaria marco.
+  if (licitaciones.length > 0) {
+    const vivos = new Set(licitaciones.map((l) => l.codigo));
+    for (const codigo of [...descartadas]) {
+      if (!vivos.has(codigo)) descartadas.delete(codigo);  // ya cerro: no ocupa espacio
+    }
+    for (const codigo of [...favoritas]) {
+      if (!vivos.has(codigo)) favoritas.delete(codigo);
+    }
+    guardarDescartadas();
+    guardarFavoritas();
   }
-  for (const codigo of [...favoritas]) {
-    if (!vivos.has(codigo)) favoritas.delete(codigo);
-  }
-  guardarDescartadas();
-  guardarFavoritas();
 
   poblarSelect(controles.estado, licitaciones.map((l) => l.estado));
   poblarSelect(controles.region, licitaciones.map((l) => l.region));
@@ -399,10 +419,13 @@ function tarjeta(lic) {
   acciones.className = "acciones";
   const bases = document.createElement("a");
   bases.className = "boton-bases";
-  bases.href = FICHA_MP + encodeURIComponent(lic.codigo);
+  bases.href = enlaceAnexos(lic);
   bases.target = "_blank";
   bases.rel = "noopener";
   bases.textContent = "⬇ Bases administrativas y técnicas";
+  bases.title = lic.url_anexos
+    ? "Abre directamente la ventana de documentos adjuntos"
+    : "Abre la ficha; los adjuntos estan en el primer icono, «Ver adjuntos»";
   acciones.appendChild(bases);
 
   if (!descartadas.has(lic.codigo)) {
@@ -531,6 +554,12 @@ function conectar() {
     });
   }
   el("restaurarTodas").addEventListener("click", () => {
+    const cuantas = descartadas.size;
+    if (cuantas && !confirm(
+        "Vas a devolver a la lista las " + cuantas + " licitaciones que eliminaste. " +
+        "\n\n¿Seguro? Esto no se puede deshacer.")) {
+      return;
+    }
     descartadas.clear();
     guardarDescartadas();
     controles.verDescartadas.checked = false;
@@ -556,6 +585,7 @@ function conectar() {
   try {
     await cargarTodo();
     if (typeof prepararGuardado === "function") await prepararGuardado();
+    if (typeof recuperarMarcasGuardadas === "function") await recuperarMarcasGuardadas();
     recuperarFiltros();
     conectar();
     pintar();

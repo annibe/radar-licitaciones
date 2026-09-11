@@ -102,7 +102,7 @@ function textoPlano(lic) {
   agregar("Monto estimado", pesos(lic.monto) || "no informado");
   agregar("Contraparte", r.contacto);
   lineas.push("");
-  lineas.push("Bases oficiales: " + FICHA_MP + lic.codigo);
+  lineas.push("Documentos adjuntos: " + enlaceAnexos(lic));
   return lineas.join("\r\n");
 }
 
@@ -146,7 +146,8 @@ function fichaHTML(lic) {
 <table>${datos}</table>
 ${filas ? '<h2>Requerimientos tecnicos</h2><table>' + filas + "</table>" : ""}
 ${lic.descripcion ? '<h2>Descripcion</h2><div class="desc">' + escapar(lic.descripcion) + "</div>" : ""}
-<a class="boton" href="${FICHA_MP + encodeURIComponent(lic.codigo)}">Abrir las bases en Mercado Publico</a>
+<a class="boton" href="${enlaceAnexos(lic)}">Abrir los documentos adjuntos</a>
+<p style="margin-top:14px"><a href="${FICHA_MP + encodeURIComponent(lic.codigo)}">Ver la ficha completa en Mercado Publico</a></p>
 <footer>Guardado el ${new Date().toLocaleString("es-CL")} desde el radar de licitaciones.
 Los datos vienen de la API de ChileCompra; el monto es referencial.</footer>
 </body></html>`;
@@ -177,7 +178,7 @@ Esta carpeta la genera el radar de licitaciones.
 function enlaceBases(lic) {
   /* Chrome no deja que una pagina cree archivos .url (los trata como peligrosos),
      asi que el acceso directo va como una pagina web que redirige sola. */
-  const url = FICHA_MP + encodeURIComponent(lic.codigo);
+  const url = enlaceAnexos(lic);
   const titulo = String(lic.nombre || "").replace(/[<>&]/g, " ");
   return '<!doctype html><html lang="es"><head><meta charset="utf-8">' +
     "<title>Bases - " + titulo + "</title>" +
@@ -293,6 +294,65 @@ async function guardarLicitaciones(marcadas) {
   }
 }
 
+const ARCHIVO_MARCAS = "_marcas.json";
+
+async function leerMarcasDelDisco() {
+  /* Lo que eliminaste y lo que marcaste con corazon, guardado en tu carpeta.
+     El navegador puede olvidarlo (una limpieza, otro equipo); la carpeta no. */
+  if (!carpeta || !(await tienePermiso(carpeta, false))) return null;
+  try {
+    const archivo = await carpeta.getFileHandle(ARCHIVO_MARCAS);
+    const datos = JSON.parse(await (await archivo.getFile()).text());
+    return { eliminadas: datos.eliminadas || {}, favoritas: datos.favoritas || {} };
+  } catch (e) {
+    return null;                        // todavia no existe: no es un error
+  }
+}
+
+
+async function guardarMarcasEnDisco() {
+  if (!carpeta || !(await tienePermiso(carpeta, false))) return false;
+  const previo = (await leerMarcasDelDisco()) || { eliminadas: {}, favoritas: {} };
+  const ahora = new Date().toISOString();
+  // conservamos la fecha original de cada marca, para poder auditar despues
+  const conFechas = (guardadas, conjunto) => {
+    const salida = {};
+    for (const codigo of conjunto) salida[codigo] = guardadas[codigo] || ahora;
+    return salida;
+  };
+  try {
+    await escribir(carpeta, ARCHIVO_MARCAS, JSON.stringify({
+      actualizado: ahora,
+      eliminadas: conFechas(previo.eliminadas, descartadas),
+      favoritas: conFechas(previo.favoritas, favoritas),
+    }, null, 1));
+    return true;
+  } catch (e) {
+    return false;
+  }
+}
+
+
+async function recuperarMarcasGuardadas() {
+  /* Al abrir, sumamos lo que haya en la carpeta a lo que recuerde el navegador.
+     Si el navegador perdio la memoria, aqui la recupera. */
+  const disco = await leerMarcasDelDisco();
+  if (!disco) return;
+  let cambio = false;
+  for (const codigo of Object.keys(disco.eliminadas)) {
+    if (!descartadas.has(codigo)) { descartadas.add(codigo); cambio = true; }
+  }
+  for (const codigo of Object.keys(disco.favoritas)) {
+    if (!favoritas.has(codigo)) { favoritas.add(codigo); cambio = true; }
+  }
+  if (cambio) {
+    guardarDescartadas();
+    guardarFavoritas();
+    pintar();
+  }
+}
+
+
 async function dejarMarca(lic) {
   /* Le dice al organizador local en que carpeta archivar lo que se descargue
      ahora. Solo lo escribe el equipo que esta guardando, y se pisa cada vez:
@@ -311,7 +371,8 @@ async function dejarMarca(lic) {
 
 
 function abrirBases(codigo) {
-  window.open(FICHA_MP + encodeURIComponent(codigo), "_blank", "noopener");
+  const lic = licitaciones.find((l) => l.codigo === codigo) || {};
+  window.open(enlaceAnexos(lic), "_blank", "noopener");
 }
 
 
