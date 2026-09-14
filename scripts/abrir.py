@@ -57,6 +57,20 @@ def levantar():
     sys.exit(1)
 
 
+def abrir_en_chrome(direccion):
+    """Prefiere Chrome: es donde funciona guardar en carpeta. Si no esta, el que haya."""
+    rutas = [
+        Path(r"C:/Program Files/Google/Chrome/Application/chrome.exe"),
+        Path(r"C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"),
+        Path.home() / "AppData/Local/Google/Chrome/Application/chrome.exe",
+    ]
+    for chrome in rutas:
+        if chrome.exists():
+            subprocess.Popen([str(chrome), direccion])
+            return
+    webbrowser.open(direccion)
+
+
 def main():
     actualizar()
 
@@ -64,7 +78,7 @@ def main():
     DIRECCION = "http://127.0.0.1:" + str(servidor.server_address[1]) + "/"
     print("Radar abierto en " + DIRECCION)
     print("Deja esta ventana abierta mientras lo uses. Para cerrarlo: Ctrl+C.")
-    threading.Timer(1.0, lambda: webbrowser.open(DIRECCION)).start()
+    threading.Timer(1.0, lambda: abrir_en_chrome(DIRECCION)).start()
     try:
         servidor.serve_forever()
     except KeyboardInterrupt:
