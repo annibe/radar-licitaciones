@@ -270,7 +270,28 @@ def anotar(compartida, linea):
         pass
 
 
+def solo_una_instancia():
+    """Si ya hay un organizador corriendo, este se retira.
+
+    Arranca solo al iniciar Windows, y ademas tiene acceso directo en el
+    Escritorio: sin este candado es facil terminar con dos vigilando la misma
+    carpeta y peleandose por los mismos archivos.
+    """
+    import msvcrt
+    candado = RAIZ / "organizador.lock"
+    try:
+        archivo = open(candado, "w")
+        msvcrt.locking(archivo.fileno(), msvcrt.LK_NBLCK, 1)
+    except OSError:
+        log("Ya hay un organizador corriendo en este equipo. Este se cierra;")
+        log("busca la otra ventana en la barra de tareas.")
+        time.sleep(6)
+        sys.exit(0)
+    return archivo          # se mantiene abierto mientras viva el proceso
+
+
 def main():
+    _candado = solo_una_instancia()
     compartida = leer_ajustes()
     log("Organizador de anexos en marcha.")
     log("  Vigilando:  " + str(DESCARGAS))
@@ -284,7 +305,7 @@ def main():
         log("No encuentro tu carpeta de Descargas en " + str(DESCARGAS))
         sys.exit(1)
 
-    ya_vistos = {a.name for a in DESCARGAS.iterdir() if a.is_file()}
+    ya_vistos = set()          # se llena al leer la marca, segun su hora
     marca_anterior = None
     esperando = {}
     por_borrar = set()
@@ -298,8 +319,13 @@ def main():
         if marca.get("momento") != (marca_anterior or {}).get("momento"):
             marca_anterior = marca
             log("Ahora archivando en: " + marca["carpeta"])
-            # lo que ya estaba antes de la marca no nos interesa
-            ya_vistos = {a.name for a in DESCARGAS.iterdir() if a.is_file()}
+            # Solo ignoramos lo descargado ANTES de apretar "Guardar y abrir anexos".
+            # Asi, si el organizador se abre despues de la descarga, igual la toma:
+            # lo que importa es cuando se bajo el archivo, no cuando arranco esto.
+            limite = marca["desde"] - 60          # un minuto de tolerancia
+            ya_vistos = {a.name for a in DESCARGAS.iterdir()
+                         if a.is_file() and a.stat().st_mtime < limite}
+            esperando = {}
 
         if datetime.now().timestamp() - marca["desde"] > VENTANA_MINUTOS * 60:
             continue

@@ -1,0 +1,5 @@
+ticket.txt
+*.log
+__pycache__/
+organizador.json
+organizador.lock

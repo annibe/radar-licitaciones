@@ -261,8 +261,12 @@ Por eso el flujo es asistido:
 
 ## El Organizador de anexos
 
-Doble clic en **`Organizador de anexos.cmd`**. La primera vez te pide elegir la carpeta
-compartida (la misma de la web) y la recuerda.
+**Arranca solo cada vez que enciendes el computador**, minimizado en la barra de
+tareas. Si alguna vez lo cierras, doble clic en el acceso directo **Organizador de
+anexos** del Escritorio. Si intentas abrir un segundo, se retira solo: nunca hay dos
+peleando por los mismos archivos.
+
+La primera vez pide elegir la carpeta compartida (la misma de la web) y la recuerda.
 
 Dejalo abierto mientras descargas. Cada archivo que baje va a
 `<licitacion>nexos\`, y queda anotado en `_organizador.log` de la carpeta madre.
