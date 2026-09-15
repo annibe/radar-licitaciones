@@ -426,6 +426,13 @@ function tarjeta(lic) {
   bases.title = lic.url_anexos
     ? "Abre directamente la ventana de documentos adjuntos"
     : "Abre la ficha; los adjuntos estan en el primer icono, «Ver adjuntos»";
+  // avisarle al organizador a que carpeta va lo que se descargue desde aqui,
+  // igual que hace "Guardar y abrir anexos"; si no hay carpeta conectada, no pasa nada
+  bases.addEventListener("click", () => {
+    if (typeof dejarMarca === "function" && typeof carpeta !== "undefined" && carpeta) {
+      dejarMarca(lic);
+    }
+  });
   acciones.appendChild(bases);
 
   if (!descartadas.has(lic.codigo)) {

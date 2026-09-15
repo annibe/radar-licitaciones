@@ -362,9 +362,15 @@ def main():
                     anotar(compartida, "NO ARCHIVADO (ocupado): " + archivo.name)
                 continue
             if ya_archivado(destino, archivo):
+                # es identico byte a byte a uno que ya esta en la carpeta: no aporta
+                # nada y solo ensucia Descargas, asi que lo sacamos
                 ya_vistos.add(archivo.name)
-                log("  repetido, ya lo tienes archivado: " + archivo.name)
-                log("    lo dejo en Descargas; borralo tu si quieres")
+                try:
+                    archivo.unlink()
+                    log("  repetido, ya lo tenias archivado; lo saque de Descargas: " + archivo.name)
+                except OSError:
+                    por_borrar.add(archivo)
+                    log("  repetido, ya lo tenias archivado (lo saco cuando lo suelten): " + archivo.name)
                 continue
             destino.mkdir(parents=True, exist_ok=True)
             try:

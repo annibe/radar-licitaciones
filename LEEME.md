@@ -261,10 +261,12 @@ Por eso el flujo es asistido:
 
 ## El Organizador de anexos
 
-**Arranca solo cada vez que enciendes el computador**, minimizado en la barra de
-tareas. Si alguna vez lo cierras, doble clic en el acceso directo **Organizador de
-anexos** del Escritorio. Si intentas abrir un segundo, se retira solo: nunca hay dos
-peleando por los mismos archivos.
+**Arranca solo** al iniciar sesion y, si alguna vez se cierra, **vuelve solo en menos
+de 10 minutos**: lo vigila una tarea programada de Windows ("Organizador de anexos").
+Corre minimizado en la barra de tareas. Si intentas abrir un segundo, se retira solo.
+
+Ojo con el orden: aprieta **Guardar y abrir anexos** (o el boton de bases) **antes** de
+descargar. Lo que bajes antes de apretar el boton no sabe a que licitacion pertenece.
 
 La primera vez pide elegir la carpeta compartida (la misma de la web) y la recuerda.
 

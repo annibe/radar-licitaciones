@@ -60,9 +60,10 @@ No hay que instalar nada: abre la web publicada. Funciona en cualquier navegador
    **marca "Add python.exe to PATH"**; sin eso el `.cmd` no encuentra Python.
 3. **Doble clic en `Organizador de anexos.cmd`**. La primera vez pide elegir la carpeta
    compartida (la de OneDrive donde se guardan las licitaciones) y la recuerda.
-4. Para que arranque solo con Windows: crea un acceso directo al `.cmd` en la carpeta
-   `shell:startup` (Win+R, escribe `shell:startup`, Enter). Un candado impide que corran
-   dos instancias a la vez.
+4. Para que arranque solo y se recupere si lo cierran: una tarea programada de Windows
+   con dos disparadores, al iniciar sesión y cada 10 minutos (`Register-ScheduledTask`,
+   `MultipleInstances IgnoreNew`). Un candado con `msvcrt.locking` impide que corran dos
+   instancias a la vez, así que el disparador repetido es inofensivo.
 5. Archiva lo descargado hasta 2 horas después de apretar «Guardar y abrir anexos»,
    aunque el organizador se haya abierto después de la descarga.
 
