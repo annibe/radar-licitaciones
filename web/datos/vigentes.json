@@ -58,64 +58,6 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=BJdT5qO3Ya3pwT0EpBv2dsZjvMUvPS%2f8w%2frwHFar6HJR85g%2b%2biFkNRSFh8tqI4HdIdEf2sM%2fnC0IqMlDKt5q29sJbu0WuRv4sFxgrJb%2fGGW1qb%2b2dIIyUsH3Cn18DGPv57lRCtmSEwHsXsdWeEjbe1btJMJ7dIz9WltMWNZ5NjytRl1esloIOJC%2b%2famTsaEM2FLfUBn35w4Vqonb7SCql5SUKet5U6o%2bkNKOItc1Eg9M58mAaEg0%2fzElI32OOlZU67LoUr8dLuGSurALAyStd2lFLzxsbRatz70L98k3IowjOQOQGeWRJ5r51pT0IPi0"
  },
  {
-  "codigo": "1593-24-LP26",
-  "nombre": "Adquisición instalación plataforma almacenamiento",
-  "descripcion": "El objeto de la licitación es la adquisición e instalación de plataforma de almacenamiento para cubrir las necesidades de obsolescencia de infraestructura y que permita a la vez contar con nuevas funcionalidades y prestaciones para la SiSS.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-08-28T22:40:00",
-  "cierre": "2026-09-21T15:01:00",
-  "monto": 177000000.0,
-  "moneda": "CLP",
-  "organismo": "SUPERINTENDENCIA DE SERVICIOS SANITARIOS",
-  "unidad": "Superintendencia de Servicios Sanitarios - SISS",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Santiago",
-  "categorias": [
-   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Administración de sistemas"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Almacenamiento de datos",
-     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Administración de sistemas",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Adquisición e instalación de plataforma de almacenamiento para la Superintendencia de\r\nServicios Sanitarios."
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-21T15:02:00",
-   "apertura_economica": "2026-09-21T15:02:00",
-   "respuestas": "2026-09-10T22:48:00",
-   "estimada_adjudicacion": "2026-10-07T12:00:00",
-   "duracion": "60 días",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "Presupuesto SISS 2026",
-   "financiamiento": "Presupuesto SISS",
-   "obras": false,
-   "reclamos_comprador": 11,
-   "contacto": "Fernando Iriarte",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=bHnd8ZcaiDUI2P7JMXg%2bGQvMPwz0ly06LU0t3UoJTZH6KXK9Ottcb613dafU%2f%2b59WRO9AFIqQDKxI8mW%2fUHLTve7M8o0SmoRsBJ%2bqsybeHjpgNN9Tzq5naup0kIJgdzz%2fnBSQiY4veegXZKjrbz3qvwlCA6tMzpLyA476N%2bztKR%2bEOgTXLvSBMIjFpQRn4WSSVAxntp8fosnc0m5S24zuhl3XV8dTuYwrSMk7n%2bNGslEI%2fGPv6Q9vk4XUiNppQ1PNMiGhRdVUJ4ZOhsaGlO4uYZWdvXgDFKMrmi6rQ3p6MJ7VH2xkaRj20It%2fBm8DIjU"
- },
- {
   "codigo": "229-96-LE26",
   "nombre": "ADQUISICIÓN DE LICENCIAS DE SOFTWARE PARA LOS  SISTEMAS QUE USA LA I. MUNICIPALIDAD DE COIHUECO",
   "descripcion": "La Ilustre Municipalidad de Coihueco, requiere adquirir licencias de software para los diversos sistemas que usa, esto para dar continuidad del servicio en forma óptima y eficaz que va en beneficio de los habitantes de la comuna.",
@@ -411,6 +353,72 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=dMwqsLy4yWhPvUl5wzJC132KOngz0ZQg%2f7qy%2beOKXbJnMeb1RVy%2fNwR2tJ3ZQ7OhlR2h1ye9ue3Qeex2J6bZxXNMZvRDqEy%2boaLbP4licGpa%2b%2fkF75EmeMqm6duPIuP9agHdiAYPzs%2b0QbIXGzHxV3%2f5ygwzF02xJmjEVdzPuKdOGAHXDs67Cg9uXJ%2fKpAillPDNQvkswl%2f4%2bkQuAhI4GClsuwkWFGKQ9fAZyW8VgA8kqQfdKs70qolvdJNvKYXPr5QNNVEdofECtJ9a41pgQsQBcOpBOV1lxakU0mFyko3N5sIqHcGJX27TF3Rgi9oA"
  },
  {
+  "codigo": "2785-78-LE26",
+  "nombre": "SDA 6375 SERVICIOS DE PUBLICIDAD Y DIFUSIÓN GESTIÓN MUNICIPAL EN MEDIOS DIGITALES Y PANTALLA LED",
+  "descripcion": "SERVICIOS DE PUBLICIDAD Y DIFUSIÓN GESTIÓN MUNICIPAL, SOLICITADOS POR EL DEPARTAMENTO DE COMUNICACIONES, PERIODO OCTUBRE DICIEMBRE 2026, SEGUN REQUERIMIENTOS EN BASES ADMINISTRATIVAS Y TECNICAS",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-09-04T17:23:50.667",
+  "cierre": "2026-09-21T15:01:00",
+  "monto": 19800000.0,
+  "moneda": "CLP",
+  "organismo": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+  "unidad": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+  "region": "Región del Biobío ",
+  "comuna": "San Pedro de La Paz",
+  "categorias": [
+   "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Agencias de publicidad",
+   "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Publicidad en medios no impresos"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Campañas publicitarias",
+     "categoria": "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Agencias de publicidad",
+     "cantidad": 3.0,
+     "unidad": "Mes",
+     "detalle": "Ítem 2.1 Servicio de difusión y publicidad en pantallas LED, según requerimientos técnicos indicados en Bases Administrativas y Técnicas de la Licitación. Ingresar oferta con valor neto mensual."
+    },
+    {
+     "producto": "Publicidad en Internet",
+     "categoria": "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Publicidad en medios no impresos",
+     "cantidad": 2.0,
+     "unidad": "Mes",
+     "detalle": "Ítem 2.2 Servicio de difusión y publicidad en medios digitales, según requerimientos técnicos indicados en Bases Administrativas y Técnicas de la Licitación. 2 Campañas de un mes cada una. Ingresar oferta con valor neto mensual."
+    }
+   ],
+   "items_total": 2,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-21T15:02:00",
+   "apertura_economica": "2026-09-21T15:02:00",
+   "respuestas": "2026-09-14T17:00:00",
+   "estimada_adjudicacion": "2026-10-09T17:00:00",
+   "duracion": "3 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "Ver Punto N 8 de la bases administrativas y técnicas",
+   "financiamiento": "MUNICIPAL",
+   "obras": false,
+   "reclamos_comprador": 626,
+   "contacto": "ANDRES BUSTAMANTE CONTRERAS",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-05",
+  "actualizado": "2026-09-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=ccI5U4jksk6CvHXY%2bWLelpoDJj35EVgrO1zRXJHgZXW7QmNJbHnVXjrYwOYgMLST8oV01QZn3kAg6tFd%2b3y%2bftO1qk8dtT4yXRyNT%2fUGj3WW0D1wdqrS6aqFAMS8en2FzK9TwvaCY3dD2duUJmKnHkMnyqgnJpPwHm1LGRFUwv4fGrTINs%2bksrPziTy2wI7Fxj2APc5JkyLwtxBsAPsJF9yDNByXudaiEIkh5HSOUbFTKPVMsodCOMJ9wmlF%2fFHI2CKBvGGHtPe%2fimGC6dY38R3T9AkwKgp8ggZC2km7TM%2f2g5X9pH9lD3ADa8XIEeAH"
+ },
+ {
   "codigo": "3810-23-LE26",
   "nombre": "ADQUISICION DE SOFTWARE DE DISEÑO CAD Y REVISION DE MODELOS BIM PARA LA DIRECCION DE OBRAS MUNICIPALES DE LA I. MUNICIPALIDAD DE PICHILEMU",
   "descripcion": "ADQUISICION DE SOFTWARE DE DISEÑO CAD Y REVISION DE MODELOS BIM PARA LA DIRECCION DE OBRAS MUNICIPALES DE LA I. MUNICIPALIDAD DE PICHILEMU",
@@ -664,42 +672,34 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=Jg8jPgTJl2oW4tgofuLXSd0ybKSst%2fhAS8BqKxsBV4X%2bi10UPQilMc%2f%2frXl%2f82L2m8bnRDCD%2bpmcoSsmzMEnOE332P3ByyQXnL94M6IB6xjXK2KY5KdU%2f5sPs%2fqIaIaogzpTIS%2fMZP4wYkxLzwf07z1M2tVyKh%2bJl3j9ZVscdgg3pMdfh9YtrH4EKst2t6DIgkB3PWxPHlTBD0b1vqsd5sI7h44bclU9YJs%2beRrVzq7D%2br9sSV4fbk51fK5hwBt6KSBDczOeTgA4bAP7MIU7pgLHzGbHfuJA4L824TR6U0Vp%2bnwOeH8CPnkm1a4dgDYP"
  },
  {
-  "codigo": "2785-78-LE26",
-  "nombre": "SDA 6375 SERVICIOS DE PUBLICIDAD Y DIFUSIÓN GESTIÓN MUNICIPAL EN MEDIOS DIGITALES Y PANTALLA LED",
-  "descripcion": "SERVICIOS DE PUBLICIDAD Y DIFUSIÓN GESTIÓN MUNICIPAL, SOLICITADOS POR EL DEPARTAMENTO DE COMUNICACIONES, PERIODO OCTUBRE DICIEMBRE 2026, SEGUN REQUERIMIENTOS EN BASES ADMINISTRATIVAS Y TECNICAS",
+  "codigo": "1593-24-LP26",
+  "nombre": "Adquisición instalación plataforma almacenamiento",
+  "descripcion": "El objeto de la licitación es la adquisición e instalación de plataforma de almacenamiento para cubrir las necesidades de obsolescencia de infraestructura y que permita a la vez contar con nuevas funcionalidades y prestaciones para la SiSS.",
   "estado": "Publicada",
   "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-09-04T17:23:50.667",
+  "tipo": "LP",
+  "publicacion": "2026-08-28T22:40:00",
   "cierre": "2026-09-21T15:01:00",
-  "monto": 19800000.0,
+  "monto": 177000000.0,
   "moneda": "CLP",
-  "organismo": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
-  "unidad": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
-  "region": "Región del Biobío ",
-  "comuna": "San Pedro de La Paz",
+  "organismo": "SUPERINTENDENCIA DE SERVICIOS SANITARIOS",
+  "unidad": "Superintendencia de Servicios Sanitarios - SISS",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Santiago",
   "categorias": [
-   "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Agencias de publicidad",
-   "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Publicidad en medios no impresos"
+   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Administración de sistemas"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Campañas publicitarias",
-     "categoria": "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Agencias de publicidad",
-     "cantidad": 3.0,
-     "unidad": "Mes",
-     "detalle": "Ítem 2.1 Servicio de difusión y publicidad en pantallas LED, según requerimientos técnicos indicados en Bases Administrativas y Técnicas de la Licitación. Ingresar oferta con valor neto mensual."
-    },
-    {
-     "producto": "Publicidad en Internet",
-     "categoria": "Servicios editoriales, de diseño, publicidad, gráficos y artistas / Publicidad / Publicidad en medios no impresos",
-     "cantidad": 2.0,
-     "unidad": "Mes",
-     "detalle": "Ítem 2.2 Servicio de difusión y publicidad en medios digitales, según requerimientos técnicos indicados en Bases Administrativas y Técnicas de la Licitación. 2 Campañas de un mes cada una. Ingresar oferta con valor neto mensual."
+     "producto": "Almacenamiento de datos",
+     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Administración de sistemas",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Adquisición e instalación de plataforma de almacenamiento para la Superintendencia de\r\nServicios Sanitarios."
     }
    ],
-   "items_total": 2,
+   "items_total": 1,
    "etapas": 1,
    "toma_razon": false,
    "visita_terreno": null,
@@ -709,25 +709,25 @@
    "direccion_entrega": "",
    "apertura_tecnica": "2026-09-21T15:02:00",
    "apertura_economica": "2026-09-21T15:02:00",
-   "respuestas": "2026-09-14T17:00:00",
-   "estimada_adjudicacion": "2026-10-09T17:00:00",
-   "duracion": "3 meses",
+   "respuestas": "2026-09-10T22:48:00",
+   "estimada_adjudicacion": "2026-10-07T12:00:00",
+   "duracion": "60 días",
    "renovable": false,
    "prohibiciones": "",
    "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
    "estimacion": "presupuesto disponible",
-   "monto_nota": "Ver Punto N 8 de la bases administrativas y técnicas",
-   "financiamiento": "MUNICIPAL",
+   "monto_nota": "Presupuesto SISS 2026",
+   "financiamiento": "Presupuesto SISS",
    "obras": false,
-   "reclamos_comprador": 626,
-   "contacto": "ANDRES BUSTAMANTE CONTRERAS",
+   "reclamos_comprador": 11,
+   "contacto": "Fernando Iriarte",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-09-05",
-  "actualizado": "2026-09-19",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=ccI5U4jksk6CvHXY%2bWLelpoDJj35EVgrO1zRXJHgZXW7QmNJbHnVXjrYwOYgMLST8oV01QZn3kAg6tFd%2b3y%2bftO1qk8dtT4yXRyNT%2fUGj3WW0D1wdqrS6aqFAMS8en2FzK9TwvaCY3dD2duUJmKnHkMnyqgnJpPwHm1LGRFUwv4fGrTINs%2bksrPziTy2wI7Fxj2APc5JkyLwtxBsAPsJF9yDNByXudaiEIkh5HSOUbFTKPVMsodCOMJ9wmlF%2fFHI2CKBvGGHtPe%2fimGC6dY38R3T9AkwKgp8ggZC2km7TM%2f2g5X9pH9lD3ADa8XIEeAH"
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=n3XbdY6ra25u%2b1KnAuaTCeABuEZIRjH4mcmJKWIm6Js%2bRSWjj89CYdCyShiCG2s9rO1Jp41zEKoZCBREuZ8kZa3CP3WcbZgoCottpu%2bk83MUTTIV2XW%2bXRLf1v2MpJ4Pu0al%2fFp45V414UhGuW7PrnEM1z9EIVgJkbLVIMdDqzp%2f%2fzWc62nzjHtyeJR0T9Q0J1Cu9t%2bAAypoh%2fdnJ4TygdLHzoS5rl1nL%2fx3nTa4IvgSGq0ERPREwUMs4%2fYnweK%2bEQEVDLiWFd7EuxMj3O0KD%2bITkUJcN4DLXnGiHx9A5XkkSwmgTvicycKgDzobJrMo"
  },
  {
   "codigo": "1016-9-LE26",
@@ -962,6 +962,106 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=FXzYtS1f2wIOutjs%2ftG1rfeCKk6Tx8eGwUfUfnG29aQEKqz23edlU3dsciCCk2gWB%2bycpSvBTHZy%2f2lrsp0FCVJcJvMWP31n0ioTQ%2fGuxpcBgVoHq6VLsMMRBpQjIYY%2fIw5zwKlATOYSCdRB3YH2FgASo4UmmXTg50ZSAshtvbjnMsBD5lkeqXHjZiBN3i0oMASUuS72RrRSqVN6Puz73RiAv8vJz6jQwkH6Z8tDfgTwa0vItSk%2fTn%2f%2bbEtyvk7vqEoNUviLgYjHzc00Qs1dIYeEqOtf3EQ%2ffW2XiNU6y37WQV%2bgJl8bPrTR2k9l9GUD"
  },
  {
+  "codigo": "1393093-103-LE26",
+  "nombre": "ADQUISICIÓN DE LICENCIAS SOFTWARE P01",
+  "descripcion": "Cubrir las necesidades de\r\nseguridad informática, gestión y recuperación de equipos, diseño y edición audiovisual y\r\nsoporte remoto del Servicio Local de Educación Pública de Chiloé",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-09-11T13:05:25.847",
+  "cierre": "2026-09-21T16:00:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE CHILOÉ",
+  "unidad": "Compras y Licitaciones",
+  "region": "Región de los Lagos ",
+  "comuna": "",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 120.0,
+     "unidad": "Unidad",
+     "detalle": "LÍNEA 1: LICENCIA ESET PROTECT ENTRY"
+    },
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 130.0,
+     "unidad": "Unidad",
+     "detalle": "LÍNEA 2: PREY"
+    },
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 5.0,
+     "unidad": "Unidad",
+     "detalle": "LÍNEA 3: ADOBE CREATIVE CLOUD"
+    },
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 4.0,
+     "unidad": "Unidad",
+     "detalle": "LÍNEA 4: CAPCUT PRO"
+    },
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 4.0,
+     "unidad": "Unidad",
+     "detalle": "LÍNEA 5: INSHOT PRO"
+    },
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "LÍNEA 6: TEAMVIEWER CORPORATE + 3 CANALES ADICIONALES"
+    },
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 115.0,
+     "unidad": "Unidad",
+     "detalle": "LÍNEA 7: OFFICE 365 A5 FOR FACULTY"
+    }
+   ],
+   "items_total": 7,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-21T16:15:00",
+   "apertura_economica": "2026-09-21T16:15:00",
+   "respuestas": "2026-09-17T16:00:00",
+   "estimada_adjudicacion": "2026-10-21T18:00:00",
+   "duracion": "14 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "Servicio Local de Educación Pública de Chiloé",
+   "obras": false,
+   "reclamos_comprador": 42,
+   "contacto": "Marco Echeverria",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-12",
+  "actualizado": "2026-09-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=%2fFPtLa9bg9tcD%2fWtPcCviHOr2UHJifwxEM4uAcQ9%2foMgRfBiaLJxtAmlvVGza74pglkXz2dkFMVl09TZh7JhZCGvLCO2AGuSPmgG6iUjnuwik5NxzFOOlab%2bB1ZEoykavK6Z2GT9Mrf4src3owzCXoFC3JU25yBniVHwOXkbSyd4FUBXb5GlaocV%2fgXjXKRHrLfn3RlsXDf7Indnmc5Kg6o%2bTMnbzx1gdPciLZ5AXRY5n50ntXragTotmILlhHyns9x0BOTFMZwbMZyoZvVGjiLGauw2hpcKzF1U9ptVEPyrYB11nfFyW%2fALCLJPBtKJ"
+ },
+ {
   "codigo": "1393093-98-LE26",
   "nombre": "CONTRATACIÓN DE SERV. DE DESA.SOFTWARE RENDICIONES",
   "descripcion": "Gestionar de manera sistemática, ordenada y oportuna la información asociada a ingresos, gastos (compras) y remuneraciones por establecimiento educacional (RBD) y por tipo de subvención, facilitando los procesos de control, seguimiento y rendición de cuentas ante la Superintendencia de Educación.",
@@ -1018,64 +1118,6 @@
   "visto": "2026-09-18",
   "actualizado": "2026-09-18",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=vYeS%2fnpeBm%2fuEQcmlyMsnYJwUCxqiS8j3R2dMynTyRK%2bkic%2fhjPNAz6mhiy8GlP86hbodqkAm2IiV8Jz6k4YAEGBQz2t%2bLqiS17Hlh8axsHvDJsD9pzJvLN6s8X1cyShAm7VcYZB%2fqQNfZiJwWPdcXpoWUIOMiLkkKpKkWYbV0GwPYG7KqoavFDvIY2%2bkkAmQGxW3OwuqxgET05XoanIOsqydZZCC5lDw%2bUCq6LzCvSFJQ5PR5f%2bsD5xIe0XyQ%2f%2bOadqas5YbH9xkbxGkBfId0li80ObpeC2yDteyd4GZVvLjJ0IXirWsTnPopumeujE"
- },
- {
-  "codigo": "2069-141-LR26",
-  "nombre": "CGM ADQ. TORRE DE ENDOSCOPIA DIGESTIVA CON IA",
-  "descripcion": "El Hospital Barros Luco Trudeau requiere adquirir dos 2 torres de endoscopía digestiva con Inteligencia Artificial, destinadas a la Unidad de Endoscopía, con el objeto de fortalecer la capacidad diagnóstica y terapéutica institucional mediante la incorporación de equipamiento de última generación que permita apoyar la detección y caracterización de lesiones durante los procedimientos endoscópicos.\r\n\r\nLa solución requerida deberá proporcionar imágenes endoscópicas de alta calidad e incorporar herramientas avanzadas de visualización e Inteligencia Artificial para el análisis en tiempo real y apoyo al operador en la identificación de lesiones y hallazgos de interés clínico, de acuerdo con las prestaciones establecidas en las Especificaciones Técnicas.\r\n\r\nAsimismo, considerando la base instalada existente en la Unidad de Endoscopía, el equipamiento ofertado deberá cumplir las condiciones de compatibilidad, interoperabilidad e integración establecidas en las Especificaciones Técnicas, incluyendo la compatibilidad entre los nuevos endoscopios y procesadores y determinados equipos institucionales existentes, según corresponda.\r\nLa presente adquisición considera una solución integral, cuya",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-08-18T15:54:57.637",
-  "cierre": "2026-09-21T16:00:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "SERVICIO DE SALUD METROPOLITANO SUR HOSP",
-  "unidad": "HOSPITAL BARROS LUCO TRUDEAU",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "San Miguel",
-  "categorias": [
-   "Equipamiento y suministros médicos / Productos quirúrgicos / Equipo endoscópico, accesorios y productos relacionados"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Equipo endoscópico o carritos de procedimiento o accesorios",
-     "categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Equipo endoscópico, accesorios y productos relacionados",
-     "cantidad": 2.0,
-     "unidad": "Unidad",
-     "detalle": "TORRE DE ENDOSCOPIA DIGESTIVA CON INTELIGENCIA ARTIFICIAL"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-22T07:30:00",
-   "apertura_economica": "2026-09-22T07:30:00",
-   "respuestas": "2026-08-28T18:00:00",
-   "estimada_adjudicacion": "2026-12-22T18:00:00",
-   "duracion": null,
-   "renovable": false,
-   "prohibiciones": "Véase numeral 16 Subcontratación",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "Hospital Barros luco Trudeau",
-   "obras": false,
-   "reclamos_comprador": 2104,
-   "contacto": "Jefa de unidad de adquisiciones de mantención y se",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=GY2qUyTnkGrdDrKauOQE8zSmLWx%2fwViIUGK6tZwCWrJvYlcAZ03P2FDcZ2dlMJFF%2b8pB%2f96T1wjJeSFjeIiB6DXHWPAJ87g5P1KkT0g6yABqBZO83IRGrAJWnwETEIYZzR%2bbcN9jMMWosw3o%2bKR8BZBek4y9fHTbWYnH0gVrOiHiZ%2fS3%2bUF5slT7L4p%2fAcxs3SV51CZRhQ3TWqIU6HPkKQTvSPE%2fK9f80FDLbvNP54LK8ZtDwfg%2bBVdv5z%2fz2jXYw7tQ4Yb40U9SfmBtF651Ib9k7hcJ6C0qENj3NdPWNuTfDJcuHsArPJ3n2cNuUQN5"
  },
  {
   "codigo": "5531-4-B226",
@@ -1252,76 +1294,34 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=XMNNLCh4gcIceqtV0Y%2fDBKkeopB5vdhO0IJhCvkbNTq5Uf5DySvtXyWmnWw3X2o2ezi2MOMKovZgtUlbK5vemSHT1racu7H0mg9trLesbwJZ3UZ7c3ELa7unkmpmsnLQyI%2boILuU8RCf8xfXkeTuglAuCvdw%2fHpMI8kF3RcPmOR%2ffDrqATyu3aAnkjsNLJODkqT58QvBhzbKe8hdW6D26eXKrPdmZM996dRavq4570elIner7i1vu5iLYu1zH35TIagWg07nPfOZwSfcs%2fhOaEiR56GFgSkYkP00w7IAvcgF1U38lxi4WgZUc90m4cig"
  },
  {
-  "codigo": "1393093-103-LE26",
-  "nombre": "ADQUISICIÓN DE LICENCIAS SOFTWARE P01",
-  "descripcion": "Cubrir las necesidades de\r\nseguridad informática, gestión y recuperación de equipos, diseño y edición audiovisual y\r\nsoporte remoto del Servicio Local de Educación Pública de Chiloé",
+  "codigo": "2069-141-LR26",
+  "nombre": "CGM ADQ. TORRE DE ENDOSCOPIA DIGESTIVA CON IA",
+  "descripcion": "El Hospital Barros Luco Trudeau requiere adquirir dos 2 torres de endoscopía digestiva con Inteligencia Artificial, destinadas a la Unidad de Endoscopía, con el objeto de fortalecer la capacidad diagnóstica y terapéutica institucional mediante la incorporación de equipamiento de última generación que permita apoyar la detección y caracterización de lesiones durante los procedimientos endoscópicos.\r\n\r\nLa solución requerida deberá proporcionar imágenes endoscópicas de alta calidad e incorporar herramientas avanzadas de visualización e Inteligencia Artificial para el análisis en tiempo real y apoyo al operador en la identificación de lesiones y hallazgos de interés clínico, de acuerdo con las prestaciones establecidas en las Especificaciones Técnicas.\r\n\r\nAsimismo, considerando la base instalada existente en la Unidad de Endoscopía, el equipamiento ofertado deberá cumplir las condiciones de compatibilidad, interoperabilidad e integración establecidas en las Especificaciones Técnicas, incluyendo la compatibilidad entre los nuevos endoscopios y procesadores y determinados equipos institucionales existentes, según corresponda.\r\nLa presente adquisición considera una solución integral, cuya",
   "estado": "Publicada",
   "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-09-11T13:05:25.847",
+  "tipo": "LR",
+  "publicacion": "2026-08-18T15:54:57.637",
   "cierre": "2026-09-21T16:00:00",
   "monto": null,
   "moneda": "CLP",
-  "organismo": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE CHILOÉ",
-  "unidad": "Compras y Licitaciones",
-  "region": "Región de los Lagos ",
-  "comuna": "",
+  "organismo": "SERVICIO DE SALUD METROPOLITANO SUR HOSP",
+  "unidad": "HOSPITAL BARROS LUCO TRUDEAU",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "San Miguel",
   "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
+   "Equipamiento y suministros médicos / Productos quirúrgicos / Equipo endoscópico, accesorios y productos relacionados"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 120.0,
+     "producto": "Equipo endoscópico o carritos de procedimiento o accesorios",
+     "categoria": "Equipamiento y suministros médicos / Productos quirúrgicos / Equipo endoscópico, accesorios y productos relacionados",
+     "cantidad": 2.0,
      "unidad": "Unidad",
-     "detalle": "LÍNEA 1: LICENCIA ESET PROTECT ENTRY"
-    },
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 130.0,
-     "unidad": "Unidad",
-     "detalle": "LÍNEA 2: PREY"
-    },
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 5.0,
-     "unidad": "Unidad",
-     "detalle": "LÍNEA 3: ADOBE CREATIVE CLOUD"
-    },
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 4.0,
-     "unidad": "Unidad",
-     "detalle": "LÍNEA 4: CAPCUT PRO"
-    },
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 4.0,
-     "unidad": "Unidad",
-     "detalle": "LÍNEA 5: INSHOT PRO"
-    },
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "LÍNEA 6: TEAMVIEWER CORPORATE + 3 CANALES ADICIONALES"
-    },
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 115.0,
-     "unidad": "Unidad",
-     "detalle": "LÍNEA 7: OFFICE 365 A5 FOR FACULTY"
+     "detalle": "TORRE DE ENDOSCOPIA DIGESTIVA CON INTELIGENCIA ARTIFICIAL"
     }
    ],
-   "items_total": 7,
+   "items_total": 1,
    "etapas": 1,
    "toma_razon": false,
    "visita_terreno": null,
@@ -1329,27 +1329,27 @@
    "entrega_antecedentes": null,
    "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-21T16:15:00",
-   "apertura_economica": "2026-09-21T16:15:00",
-   "respuestas": "2026-09-17T16:00:00",
-   "estimada_adjudicacion": "2026-10-21T18:00:00",
-   "duracion": "14 meses",
+   "apertura_tecnica": "2026-09-22T07:30:00",
+   "apertura_economica": "2026-09-22T07:30:00",
+   "respuestas": "2026-08-28T18:00:00",
+   "estimada_adjudicacion": "2026-12-22T18:00:00",
+   "duracion": null,
    "renovable": false,
-   "prohibiciones": "",
+   "prohibiciones": "Véase numeral 16 Subcontratación",
    "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
    "estimacion": "presupuesto disponible",
    "monto_nota": "",
-   "financiamiento": "Servicio Local de Educación Pública de Chiloé",
+   "financiamiento": "Hospital Barros luco Trudeau",
    "obras": false,
-   "reclamos_comprador": 42,
-   "contacto": "Marco Echeverria",
+   "reclamos_comprador": 2104,
+   "contacto": "Jefa de unidad de adquisiciones de mantención y se",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-09-12",
-  "actualizado": "2026-09-19",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=%2fFPtLa9bg9tcD%2fWtPcCviHOr2UHJifwxEM4uAcQ9%2foMgRfBiaLJxtAmlvVGza74pglkXz2dkFMVl09TZh7JhZCGvLCO2AGuSPmgG6iUjnuwik5NxzFOOlab%2bB1ZEoykavK6Z2GT9Mrf4src3owzCXoFC3JU25yBniVHwOXkbSyd4FUBXb5GlaocV%2fgXjXKRHrLfn3RlsXDf7Indnmc5Kg6o%2bTMnbzx1gdPciLZ5AXRY5n50ntXragTotmILlhHyns9x0BOTFMZwbMZyoZvVGjiLGauw2hpcKzF1U9ptVEPyrYB11nfFyW%2fALCLJPBtKJ"
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=uo7ZdfpZK%2bSAUaUjLwm19C503ETI60se%2bnP%2b2ttcXhJY4x%2fXshjsPaiwFyw0yHzdwmtamtPugARoNhqEUQEPffVJ6NBedg7Py4kHtuAeuvq5q0gG9g2fxCY4nE0MJCumjlo%2fvTS4psg814Cvq%2bH5ix0XUur0rauOXhkkiev3lONYYMFQ228Y4wx1IMAZoaeRdkXdbB0ayxoUAIDnRRQU5ye8QOaMCkxc65aWsYSexZVeq6t8Uze%2fEcqsf8cf75CbfmCrv%2bnwnV2nhVMSrP%2biZ1FRJTSwVLuDLMZxyQHAf0iHdE%2bpXchNZKFyXLBivA1p"
  },
  {
   "codigo": "3047-54-LE26",
@@ -1743,64 +1743,6 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=lAP0c5tlAVtIEONIJqrPjRhlyrIcKjqOyLUeCnFkT5z7%2b52bEwqzCw%2f0%2fGQ8E9ODG1F8TYVkLB5C0Y24kmLCPKZnPlpp8I1tTzG3kDbZ8RwZxXuo%2f%2bqMTjJNytShvC2713w1h8OafCwkcHrcIVJ0zsr0Kb7jxRnkhS5mwmWNU8HH1oP4pQg72ym%2ffyiS5mPLxyFr82%2ff815CYnZaYfdbnbWYckEhT46bJ90Ess%2fCGj0tdwJI06XaGShKfBjwq1H4Y9fPUOHa%2f0Q7oE13yFfA1V9z7ogp8NprNWMgJy5SGUcL1wfe0qVWY5JUhpisuBTz"
  },
  {
-  "codigo": "1562-49-LR26",
-  "nombre": "Sistema de monitoreo integral de ciberseguridad",
-  "descripcion": "El Servicio Nacional de Geología y Minería SERNAGEOMIN requiere contratar un Servicio de Monitoreo integral de ciberseguridad que incluye suscripciones de software, implementación, capacitación, soporte y operación continua, orientado a fortalecer su postura institucional de ciberdefensa, proteger activos críticos de información y asegurar la continuidad operativa.\r\nEl requerimiento se enmarca en la Ley Marco de Ciberseguridad e Infraestructura Crítica OIV, la Estrategia Nacional de Ciberseguridad y los estándares internacionales aplicables. Contempla una plataforma de protección avanzada con capacidades de prevención, detección, respuesta y monitoreo continuo, integrada a un modelo de Servicio de Monitoreo y alineada a un enfoque de Zero Trust.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-08-20T18:20:00",
-  "cierre": "2026-09-22T15:00:00",
-  "monto": 366678654.0,
-  "moneda": "CLP",
-  "organismo": "SERVICIO NACIONAL DE GEOLOGIA Y MINERIA",
-  "unidad": "Servicio Nacional de Geología y Minería",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Providencia",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Equipo de seguridad de evaluación de vulnerabilidad",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "El Servicio Nacional de Geología y Minería (SERNAGEOMIN) requiere contratar un Servicio de Monitoreo integral de ciberseguridad que incluye suscripciones de software, implementación, capacitación, soporte y operación continua, orientado a fortalecer su po"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-22T15:01:00",
-   "apertura_economica": "2026-09-22T15:01:00",
-   "respuestas": "2026-09-07T18:00:00",
-   "estimada_adjudicacion": "2026-10-15T18:00:00",
-   "duracion": "12 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": true,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "SERVICIO NACIONAL DE GEOLOGIA Y MINERIA",
-   "obras": false,
-   "reclamos_comprador": 110,
-   "contacto": "Gonzalo Palet",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=q83SWUUQoZw3oGpkxRyMmVi%2b4XCRLQZPqxQv1aazrkU%2bRQHkfgvVlqwefGqvTHGDAOYV59TK73YIhJoCIWwvze4ZYq5vUg7z%2bsWEfyFma23xE5O%2bEgzPUdNJdarqndJuJQz1CcrWVJuRQOBou9SIwzly8ETwJCpmIxgC0cjSmy3nkgJ109xYZGRQzrjtf%2b3PsJIeaFlcbbSaunTwnaOwSKCpC0HLO3KoegQ3MjVAfTkhX6V6EWJVqa1Z20cMc2bwAPyG%2fIXGOQNq7ubFCtJ8e%2b0rpQhx4E%2bqICCezbr9NVC2yasVPXKzEkaoOWphUByi"
- },
- {
   "codigo": "3789-37-CO26",
   "nombre": "ADQUISICION DE EQUIPOS INFORMATICOS",
   "descripcion": "La Ilustre Municipalidad de Paillaco, a través del Departamento de Salud Paillaco, requiere adquisición de Equipos y Equipamientos del Proyecto “CONSTRUCCIÓN CESFAM LAUTARO CARO RÍOS, PAILLACO” CÓDIGO BIP N°30349480-0, financiados por el GOBIERNO REGIONAL DE LOS RÍOS",
@@ -1859,6 +1801,64 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=biIkaaW7TdbkcA8KfdE37J5db%2bMoJEB2ku9y2jL%2frj6thS9jYKIeWWx4HgN9d7q0NU66nodR5Vlw5S0G1bM7tKiWX%2fdt6kEMSvxsuBfQpA4TruE0QbaX11YxHS3QZ%2fnGzCUZztyvMOxeLk2iYYrM1zkgG9iIRcMqTL%2brJ0ITHCcNsLRU%2fF6%2bsDEvi76pRSGwKYKz22oJyysulxj2kASg%2bhAmK7x5PrPA5Sj9XLdhtA4mIV0XOdct%2f%2bL6NUZfQ75yXGJYYk4PaPLrMNEkfpJ3uUKCVm3RThflvKWIPufv2L768LamIKW1VdBkhuFYR%2bLf"
  },
  {
+  "codigo": "1562-49-LR26",
+  "nombre": "Sistema de monitoreo integral de ciberseguridad",
+  "descripcion": "El Servicio Nacional de Geología y Minería SERNAGEOMIN requiere contratar un Servicio de Monitoreo integral de ciberseguridad que incluye suscripciones de software, implementación, capacitación, soporte y operación continua, orientado a fortalecer su postura institucional de ciberdefensa, proteger activos críticos de información y asegurar la continuidad operativa.\r\nEl requerimiento se enmarca en la Ley Marco de Ciberseguridad e Infraestructura Crítica OIV, la Estrategia Nacional de Ciberseguridad y los estándares internacionales aplicables. Contempla una plataforma de protección avanzada con capacidades de prevención, detección, respuesta y monitoreo continuo, integrada a un modelo de Servicio de Monitoreo y alineada a un enfoque de Zero Trust.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LR",
+  "publicacion": "2026-08-20T18:20:00",
+  "cierre": "2026-09-22T15:00:00",
+  "monto": 366678654.0,
+  "moneda": "CLP",
+  "organismo": "SERVICIO NACIONAL DE GEOLOGIA Y MINERIA",
+  "unidad": "Servicio Nacional de Geología y Minería",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Providencia",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Equipo de seguridad de evaluación de vulnerabilidad",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "El Servicio Nacional de Geología y Minería (SERNAGEOMIN) requiere contratar un Servicio de Monitoreo integral de ciberseguridad que incluye suscripciones de software, implementación, capacitación, soporte y operación continua, orientado a fortalecer su po"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-22T15:01:00",
+   "apertura_economica": "2026-09-22T15:01:00",
+   "respuestas": "2026-09-07T18:00:00",
+   "estimada_adjudicacion": "2026-10-15T18:00:00",
+   "duracion": "12 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": true,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "SERVICIO NACIONAL DE GEOLOGIA Y MINERIA",
+   "obras": false,
+   "reclamos_comprador": 110,
+   "contacto": "Gonzalo Palet",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=6CuJB7iTFe8xnmHVzBnTFpY0jJ99DTt1D3k%2fIk5nFKz2TFogu1zx%2buDYts18DLBn9mRUo97fZfpdPwlCvKQk8d2QtOQRiw7GP58LBNKYwSZQULr6chVTR0D29YHCr1LcZH0%2f0zSIzvrpvl2akdh5n7YZZr3AKD%2fMPwNta1qz1gtvJbQH%2fmT0guGVtb7H2afmUQtezzDlkf4E5CVc8%2fNtj55x69bX6bmSV9SQRgU%2f3IREACRRUi%2fy5xazwXIkWYOIBZOgBNCHL36jx%2fLuICMTsvIgMOnf8oGUDlg2MNwVWcAm2unC9VkqwjwrFgakoQxN"
+ },
+ {
   "codigo": "586-52-LP26",
   "nombre": "Adquisición de licencias de software Redhat",
   "descripcion": "Adquisición de suscripciones de licencias de software Redhat, conforme a bases de licitación",
@@ -1913,8 +1913,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=bwRvRb3mM6S2t6N70WciJ57Jk1vYHfKXaNDgxLXQjlCFz3BqtH91wvc3OfnfknYwUE91jTVIijtM1F9nPZeN2QscVJodqOkVlaDL0OlQXQfLx9jKl8%2b5opCpGPFQBK%2bRQG4rUIR5V12NgXPdzsVGRgCgIcwqJSWmd%2b6xjTWCnog32qEyibzqEdl0U7XanA0IBoR7wp1alNOBmnO0y7j%2frzA6OjBnRpr%2bEAvsUyyMTIO88mnJilaEiCS3G0ro17yMvx6u1F1yfgxDoX5dyDLf5WUZ6lCzNLD%2brEISIT70sGIvFDdtzwbuow5c2k9%2bCZlU"
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=iDvy1dxLfg%2flq41woGUR%2b6aMg99faqnGQUGQpybY9J8CucnrzHmAtVxbtl5sJobpyKl6aCcbx5btkZ5aUvJh3CAjgmlE2iVZeRz2s8W1sfghFcjcLMpNwH%2fPkE13rNpV8%2f0MCEx9aEirgAOzdxTwCi6%2bJgvBJrysspF6BQ%2fxZsIamKLGk9YTBTuvLeqKb%2fXNJNrtVleb%2fik%2fNuxZ%2bvxdShdVMYo06miOxkoCj6aAR90Kmo3ohjAF1yLXptcPUE24yz%2bYesEsPweHllLqebKkUAEsaUbSOIOARH60U5zIbJr5vi%2bQnxfed5A1O24eRC0S"
  },
  {
   "codigo": "2785-84-LE26",
@@ -2123,14 +2123,14 @@
    "monto_nota": "conforme a lo dispuesto en el artículo 11° del Reglamento de la Ley N°19.886, el presupuesto disponible del presente proceso es de 10.000.000 diez millones de pesos, IVA incluido, con cargo fondos disponibles en recursos A.F.L PESOS",
    "financiamiento": "AFL PESOS 22.06.001.000",
    "obras": false,
-   "reclamos_comprador": 2585,
+   "reclamos_comprador": 2591,
    "contacto": "Karen Arellano",
    "contacto_email": "",
    "contacto_fono": ""
   },
   "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=5f%2fxOJut9Lvdauu5qPX2hlfKNg6BCMabE5BBceiNRDk4Dw29yhwJRe646KEYzfIAMCTeJVHaLf%2bJ4uIn6HSl8YnApZNFELNhuT88V2k9Gr76Qd2ijzDY2c6Cpt6%2fE68Ph1mdv7sfLKepI3zsBZzztnCqQ8qWgcagnewT%2f4pqnmNcnBWIKygux6y9atBgaCqW6ybbYFMlu9tzBHfF3hcKS849WVhf4kpZqYlqMJZUwv0soydKicP%2fWTHA08dr2stQYMfAbufveazRJVt7h8jKExyCliSIXQlJ005jaKMy7Wuvk7vCftswksQtGwZDmFcN"
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=w2Vl8AbLFM9nygnMh1kDYZAJbzg1qzcPiD0W0M04s%2fAqGfrz6X9MkJdsaIGK%2bab6TTiIFEJbomXepFSJno0WFNX050DXhrg7M%2ffgCURxbeiYHqNSrbo9T9GC5DeT%2fbbMZyELyqCqJ56Apsfn13OJ6kHryqUC87FJYJGz5o6af4QksGZydp4jD5YnkOgf4a6zp14IPJOPccARCYlu00D2wgY8n8JnFR2Gc%2b%2btQWSSSa%2fUz1qDy8u4jnXZLYrBHmNmjQtChgXhBDhzLAq8TQXbcTsAuQN3SZtJF%2fjVa7hUwaTUYFiqqPJsFwfIyyTVMGBH"
  },
  {
   "codigo": "5413-71-LE26",
@@ -2270,122 +2270,6 @@
   "visto": "2026-08-31",
   "actualizado": "2026-09-14",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=IM35Jz%2bE%2byjfWJlxZY25iT8zJDzug9UbfdKLKx29PJD2ig4Sx89CfDkpvoRZhTafHa1Vy8CipF%2bGGs0JMOUCtqSoy%2bJuIY9uDxcvvEpqkestgXCoiEuwWe5ys3xLXqGMD0IJuoNL%2fVpJG%2f53N7R7ILxwdl0yTtwG1fCVs39xa%2fg3OC%2bNdTn1FVlJOq%2fVD8%2bZzjKtevgdBH2iuGXrmo745Havm1u0VwzGEV1lC7PPh1i1HoOWOXvPY8cynuy7hA1o2x9O2mE0sxyc7Z9c5c1XAkjb0cDS9Yxmvm9A6e0iHfWb3A0OV5MNBCFKSQ%2b10c3Z"
- },
- {
-  "codigo": "4778-14-LP26",
-  "nombre": "SERV. ADMINISTRADO CONTACT CENTER OMNICANAL CON IA",
-  "descripcion": "Servicio Administrado de Contact Center Omnicanal con Inteligencia Artificial para la Gestión Integral de la Contactabilidad de Usuarios del Hospital Regional Coyhaique.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-08-20T16:46:00",
-  "cierre": "2026-09-22T16:00:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-  "unidad": "Compras de Insumos y Servicios Generales",
-  "region": "Región Aysén del General Carlos Ibáñez del Campo",
-  "comuna": "Coyhaique",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software para centrales de comunicación digital",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes",
-     "cantidad": 24.0,
-     "unidad": "Unidad",
-     "detalle": "Servicio Administrado de Contact Center Omnicanal con IA"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-22T16:01:00",
-   "apertura_economica": "2026-09-22T16:01:00",
-   "respuestas": "2026-09-14T17:30:00",
-   "estimada_adjudicacion": "2026-10-14T17:30:00",
-   "duracion": "24 meses",
-   "renovable": false,
-   "prohibiciones": "Ver Bases Administrativas Especiales, punto 3.",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "Monto Disponible",
-   "financiamiento": "HOSPITAL REGIONAL COYHAIQUE",
-   "obras": false,
-   "reclamos_comprador": 1581,
-   "contacto": "Carolina Pérez Alfaro",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=0bdhNxuXo0yhJck3lJQQa4hM%2fiqVioa%2bZfKPiD186WrfCO7hP2ko0ICAaJJvFFfNqfuLoGJf5BeI52EPSSLZ5JgpJCt%2bVPH0LAhkZzjuxNsFQ5hoPGwQIrdsdtSz3lxE7SgZbTdH0qnZsB05yd4BJa74I0xEb9NO%2f05Eh2hH4kHkc6oTM0sDxtVKByqy5BBDFomSoOQcF%2fEwawhCwwWSPCp52D5JTBLc%2bw3etUoaMZcV0W9D6MWzRTsVv%2bGw0fBBOIAzas6epABmDRJK2ebjtSwws7w4TobxlV4ue%2bOVz9EHLGmB%2b%2fYeD2Q3A5%2bbDGrs"
- },
- {
-  "codigo": "885-83-LE26",
-  "nombre": "Servicios de soporte y mantenimiento de la plataforma de seguridad F5 de la Contraloría General de la República",
-  "descripcion": "La Contraloría General de la República requiere contratar los servicios de soporte y mantenimiento de su plataforma de seguridad, correspondiente a Balanceador de carga y cortafuego de aplicaciones F5, para zona productiva por un periodo de 12 meses.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-09-07T11:52:21.553",
-  "cierre": "2026-09-22T16:00:00",
-  "monto": 16000000.0,
-  "moneda": "CLP",
-  "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
-  "unidad": "Contraloría General de la República",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Equipo de seguridad de red de firewall",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Servicios de soporte y mantenimiento de su plataforma de seguridad, correspondiente a Balanceador de carga y cortafuego de aplicaciones F5, para zona productiva por un periodo de 12 meses"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-22T16:05:00",
-   "apertura_economica": "2026-09-22T16:05:00",
-   "respuestas": "2026-09-15T16:21:00",
-   "estimada_adjudicacion": "2026-10-07T19:53:00",
-   "duracion": "12 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
-   "monto_nota": "servicios de soporte y mantenimiento de su plataforma de seguridad, correspondiente a Balanceador de carga y cortafuego de aplicaciones F5, para zona productiva por un periodo de 12 meses.",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 33,
-   "contacto": "Cristian Leon",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-09-07",
-  "actualizado": "2026-09-14",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=%2fRbzCKxkcHrm4e3lur%2fcNPp8pw5%2bkQ826%2bah%2fDRVhTC8DcuS9wJ9JMIAEnCUlE7lGL9XuRe%2bKLfPxqGq0deWrWClaMnTA%2b44G7Bwhn83lggEvZipXff3PjpY19UMU4y9Cz1bfC92p8U7YZI5kuSjDvvknBbbr4TmFH0Z2tn72%2fSFe7Q5Eczk2qYZRKmD%2feJX8Kvr%2bJhVKFlFfgoi6oqkS8NUxOXceKNh54WMfdSNqsyS3VnwvKuuBNALEhrSXINCkdPELwHhOFhZfNXTUSd0CyMKEjnIqGDYHz%2fWOmE6y1xKDAeBYFutnrhHRKnx07sW"
  },
  {
   "codigo": "2098-142-LE26",
@@ -2549,6 +2433,122 @@
   "visto": "2026-09-12",
   "actualizado": "2026-09-19",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=GhxRuw0DwKRlrFqnnUTpM9l7Amaz03Fngf1u%2fLWFq57D0q6nAffUIXLAbHUXyA1Q6k1atFl%2bosiGBGrQ%2fFOockoddWQsmYmhuVyJ2rg%2be7T97Haepx81fNaqInmqVBdDl7q68NorUJzdPVjfkHq3OIyqQP1%2bksCP7cx3HnCUDcHkdjZvEzKF3ZRTZzaPQZfpV5KJjhVTI3oW7c4EHMcbT8Z0SGLJ55zcnDWovWrtKrOYtWa9MAYH6g%2bj1SAjd42nRW3WqMAQEUXYCTqV2TdDncxUWe1FsgqqFtFn626EEnONwdY%2bz0QUo0PigP%2bDCHdd"
+ },
+ {
+  "codigo": "885-83-LE26",
+  "nombre": "Servicios de soporte y mantenimiento de la plataforma de seguridad F5 de la Contraloría General de la República",
+  "descripcion": "La Contraloría General de la República requiere contratar los servicios de soporte y mantenimiento de su plataforma de seguridad, correspondiente a Balanceador de carga y cortafuego de aplicaciones F5, para zona productiva por un periodo de 12 meses.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-09-07T11:52:21.553",
+  "cierre": "2026-09-22T16:00:00",
+  "monto": 16000000.0,
+  "moneda": "CLP",
+  "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
+  "unidad": "Contraloría General de la República",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Equipo de seguridad de red de firewall",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Servicios de soporte y mantenimiento de su plataforma de seguridad, correspondiente a Balanceador de carga y cortafuego de aplicaciones F5, para zona productiva por un periodo de 12 meses"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-22T16:05:00",
+   "apertura_economica": "2026-09-22T16:05:00",
+   "respuestas": "2026-09-15T16:21:00",
+   "estimada_adjudicacion": "2026-10-07T19:53:00",
+   "duracion": "12 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "servicios de soporte y mantenimiento de su plataforma de seguridad, correspondiente a Balanceador de carga y cortafuego de aplicaciones F5, para zona productiva por un periodo de 12 meses.",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 33,
+   "contacto": "Cristian Leon",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-07",
+  "actualizado": "2026-09-14",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=%2fRbzCKxkcHrm4e3lur%2fcNPp8pw5%2bkQ826%2bah%2fDRVhTC8DcuS9wJ9JMIAEnCUlE7lGL9XuRe%2bKLfPxqGq0deWrWClaMnTA%2b44G7Bwhn83lggEvZipXff3PjpY19UMU4y9Cz1bfC92p8U7YZI5kuSjDvvknBbbr4TmFH0Z2tn72%2fSFe7Q5Eczk2qYZRKmD%2feJX8Kvr%2bJhVKFlFfgoi6oqkS8NUxOXceKNh54WMfdSNqsyS3VnwvKuuBNALEhrSXINCkdPELwHhOFhZfNXTUSd0CyMKEjnIqGDYHz%2fWOmE6y1xKDAeBYFutnrhHRKnx07sW"
+ },
+ {
+  "codigo": "4778-14-LP26",
+  "nombre": "SERV. ADMINISTRADO CONTACT CENTER OMNICANAL CON IA",
+  "descripcion": "Servicio Administrado de Contact Center Omnicanal con Inteligencia Artificial para la Gestión Integral de la Contactabilidad de Usuarios del Hospital Regional Coyhaique.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-08-20T16:46:00",
+  "cierre": "2026-09-22T16:00:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+  "unidad": "Compras de Insumos y Servicios Generales",
+  "region": "Región Aysén del General Carlos Ibáñez del Campo",
+  "comuna": "Coyhaique",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software para centrales de comunicación digital",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes",
+     "cantidad": 24.0,
+     "unidad": "Unidad",
+     "detalle": "Servicio Administrado de Contact Center Omnicanal con IA"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-22T16:01:00",
+   "apertura_economica": "2026-09-22T16:01:00",
+   "respuestas": "2026-09-14T17:30:00",
+   "estimada_adjudicacion": "2026-10-14T17:30:00",
+   "duracion": "24 meses",
+   "renovable": false,
+   "prohibiciones": "Ver Bases Administrativas Especiales, punto 3.",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "Monto Disponible",
+   "financiamiento": "HOSPITAL REGIONAL COYHAIQUE",
+   "obras": false,
+   "reclamos_comprador": 1583,
+   "contacto": "Carolina Pérez Alfaro",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=6%2bByxO7ozOAZr4drlz0HAZmt4PRkMHicoV70zLlO1IyA6yNX6e2E1eNRAi%2bn1M77Hzg%2fs73AjgIrXYKM5VzHXmDX9WwIWYwWUSgveUS3vOKTRvUADhz6jHs9angFpdr%2bKy%2fWOwLxyuk9fPRqdo0VpOsagpjvWNuikHlHpQ5BMekwckWOPFlbXBPZ8bmJLC0097sdXVMJPm%2bN0mjzxW8fKx32CypXDbqXefDciJHzAHCnuhjV61uUONuVbAkRPCTjD%2bCaTPmo31tQvh%2b3ny6GzB7C%2fy4mqr4eVh%2bi3wiMoKhO0TZm8UwndLADa5Std0mK"
  },
  {
   "codigo": "3868-16-LE26",
@@ -3081,64 +3081,6 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=hJr7r2iHOXEaKiZc%2bq5U4tm8KvcdRfOY%2blAlVc1NXBNdL1H3nNQlQ8RC1jWgr9xSjipIqiEih7g02m1481aEgo9uh1uz4qdykhfKC5xq1d%2fmhpnduf9ws%2b87hC3eLFVYeGK6%2bbSVEwqCavjQXNshKt%2f%2fTnxtnyJMV2Vh7GvsOrwIf9SuK%2fIkwDmWpbH3SEzLRccM8MBevC9uCrnkLEeiJpo79S8xk4L2MuUyExSPoHzl8Px2WURkB6QuQ6A7M%2bXWdKTSApqOb8IzVfCXDDx2gdrEI5u3i1fQzqOFt0MG3I6UMr1zr2aCmZiSAuZB60cA"
  },
  {
-  "codigo": "1020-40-LP26",
-  "nombre": "Serv.Cloud Amazon Web Services AWS o Equivalente",
-  "descripcion": "El objetivo de la presente contratación es disponer de un servicio en la nube destinado a alojar los gestores documentales del Ministerio de Obras Públicas MOP y los datos institucionales del MOP, incluyendo el respaldo de repositorios, la gestión de contenedores, aplicaciones y otros datos actualmente alojados en infraestructura propia del Ministerio.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-08-20T15:39:00",
-  "cierre": "2026-09-24T15:00:00",
-  "monto": 295121.0,
-  "moneda": "USD",
-  "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-  "unidad": "MOP Subsecretaría ",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de consultas y gestión de datos"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software del sistema de administración de bases de datos",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de consultas y gestión de datos",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "PRECIO TOTAL NETO OFERTADO (SIN IVA), según Formulario N°1 \"Oferta Económica\" (Incluye los señalado en el numeral 5.1.1 de las Bases Administrativas, en archivo adjunto)."
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-24T15:01:00",
-   "apertura_economica": "2026-09-24T15:01:00",
-   "respuestas": "2026-09-17T20:00:00",
-   "estimada_adjudicacion": "2026-12-14T15:00:00",
-   "duracion": "36 meses",
-   "renovable": false,
-   "prohibiciones": "Ver numeral 10.5 de las Bases Administrativas, en archivo adjunto.",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
-   "monto_nota": "El presupuesto referencial impuestos incluidos, destinado a la presente Licitación, asciende a la suma de USD 295.121.- doscientos noventa y cinco mil ciento veintiún dólares, equivalente aproximadamente a 274.433.018- doscientos setenta y cuatro m",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 158,
-   "contacto": "Carmen Gloria Ponce Pérez",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=qioo5oGUz1PiCFzaKpWvB6XdtZlnRV7fDADjgVmL9D8K4ZOXvj75R%2br2wFKc4vNnhd4OXUxhzOl64f7mmpxUFgUJgr1Sg5HfigUQ%2b26DiYUaqLUCYwgtOVFSeq07RYkCv%2fr0h3jm64VYsAFFvithaq2tyPl0b1FwhweQOjZ97CEmzR3NAi2A%2f77dz1fu%2bUB7wZkO6%2fKWfm%2f8z3CYJqlq%2bWBwA9rhk%2bGBw6vQzBPGcbfkBwMzK%2ffeNk2m7IEYCWVN6KnHjqPtQgZjBChhJBE7dM8CXiqvwiMlrdWyDfUcDET0mHeApMni3CjuvYqhmpKP"
- },
- {
   "codigo": "1233619-44-LE26",
   "nombre": "ADQUISICIÓN DE LICENCIAS DE SOFTWARE PARA EL SERVICIO LOCAL MAULE COSTA",
   "descripcion": "ADQUISICIÓN DE LICENCIAS DE SOFTWARE PARA EL SERVICIO LOCAL MAULE COSTA",
@@ -3267,64 +3209,6 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=n9DhHvQ6UtjyWAj7uXcGaZ1ykd6qdjMj5LQBGycgyneSasz6KldySz5GZ5ddVCS4mS2azYUj1872pG4igs4RBbyGKaf7TEQftlF3M2Et%2fpCElj1yvBxyKbw5qTPRpD6drojo6NLpJD5xd87rSi5bBikOm4unY%2f8OB1zhV%2flkwB4xN3zrIJqcLnNUUNJ%2b19pGQ7%2b3ej3t%2bQa2IEkNZu5aXt912SvnsmMfdZHOHf%2b8dwyIDBWS3TluWpHRAhwEuJTUw%2bLEX6QitJJ7TtIyjJP1cFGHcDbgQiEuZIzgHYYp%2fTnBbn7o7uCZaj0o321mDDit"
  },
  {
-  "codigo": "2200-23-LR26",
-  "nombre": "SERVICIO DE ARRIENDO DE SOFTWARE DE REGISTRO CLÍNICO ELECTRÓNICO RCE ATENCIÓN PRIMARIA - TIC",
-  "descripcion": "1.\tEl Servicio de Salud Aconcagua requiere el Servicio de Arriendo de Software de Registro Clínico Electrónico (RCE) y sus servicios complementarios de configuración, entrenamiento, instalación, mantención, soporte, data center, entre otros, para toda la red de establecimientos de Atención Primaria de Salud del Servicio de Salud Aconcagua, mediante un  contrato de suministro de servicio por un perido de 18 meses.\r\n\r\n2.\tLa Solicitud de Compra N°14 de fecha 11.08.2026, Oficina de Partes N°438 de fecha 12.08.2026 (Interno N°459),  presentada por la requirente del Departamento TIC, fue debidamente aprobada y autorizada por la Subdirectora de Gestión Asistencial, el Subdirector de Recursos Físicos y Financieros y el Jefe del Departamento de Finanzas quienes respaldan la Contratación.\r\n\r\n3.\tQue, en cumplimiento de la normativa vigente en compras públicas, se revisó el Catálogo Electrónico de Convenio Marco y el de económia Circular y se constató que los producto(s) y/o servicio(s)  requeridos no se encuentran disponibles en dicho catálogo.\r\n\r\n4.\tQue, según lo establecido en el reglamento, los organismos de la administración del Estado deberán adjudicar los contratos celebrados para la ad",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-08-25T10:10:56.517",
-  "cierre": "2026-09-24T15:00:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "SERVICIO DE SALUD ACONCAGUA",
-  "unidad": "Servicio de Salud Aconcagua",
-  "region": "Región de Valparaíso ",
-  "comuna": "San Felipe",
-  "categorias": [
-   "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de recursos humanos / Contratación de personal"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Desarrolladores de software",
-     "categoria": "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de recursos humanos / Contratación de personal",
-     "cantidad": 1700.0,
-     "unidad": "Unidad",
-     "detalle": "SERVICIO DE ARRIENDO DE SOFTWARE DE REGISTRO CLÍNICO ELECTRÓNICO (RCE) ATENCIÓN PRIMARIA - TIC, SE ADJUNTA ESPECIFICACIONES TÉCNICAS, ANEXOS"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-24T15:31:00",
-   "apertura_economica": "2026-09-24T15:31:00",
-   "respuestas": "2026-09-21T23:59:00",
-   "estimada_adjudicacion": "2026-10-15T17:00:00",
-   "duracion": "18 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "MONTO REFERENCIAL AL MERCADO",
-   "financiamiento": "SERVICIO SALUD ACONCAGUA",
-   "obras": false,
-   "reclamos_comprador": 1605,
-   "contacto": "MASIEL BALBOA GONZALEZ",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=MS1QNengqq7fYAJa244VOlo0m6PtAays6WcgXMF%2b0D%2b7NK93%2fsJGzn11NsaOlZx44aj9JFQW5UNMIQwZJ0E648IdtCiazNcG%2bSU9embfsKxPEvcWRnnIXZrS9Q3LItR1DABWSlBvsN5i6FOVN66f0sfdNed5XNgf8rFTY6iY1SUheIprFkprmBtwcEfQpVGefoXAdQYWtaZ%2fgP%2bnCDFpJkdctpr4p1J0qudx1MQxzrl1RFNgWgaX5jPuqpum1noT5g4Tlqp7qotprRHGtycTTPxT1EXnEa5DQZcEc2QSYZ4aGgo19rmLW%2bq4upoTyxP%2b"
- },
- {
   "codigo": "3249-12-LE26",
   "nombre": "SERVICIO DE MANTENCIÓN Y MODERNIZACIÓN DE SISTEMA DE SEGURIDAD CONTRA INCENDIOS Y VIGILANCIA DE HANGARES",
   "descripcion": "SERVICIO DE MANTENCIÓN Y MODERNIZACIÓN DE SISTEMA DE SEGURIDAD CONTRA INCENDIOS Y VIGILANCIA DE HANGARES DE LA BASE AERONAVAL CONCÓN",
@@ -3439,6 +3323,122 @@
   "visto": "2026-09-02",
   "actualizado": "2026-09-16",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=rhva8Pt3S%2fafaW%2fMNzchlrnSDRUXpLZ%2bhnxunXWmISLjwIBFNBJ0rV16yc%2fT%2bQijPDpE5WLcNb3OWJ0hgJyQfNOD%2b7qfBmCjAGTfkQdiQT4HjsG9mDubMNHJpcXb1NCCXgjTArlmkSxd8o0LcshY0j8Ol3QQublVtbrgWcmqw3qNHwyXoFCq%2bi%2bWC%2bsmToCjH5Kt%2fVwgyipcMvBCfuopKhQcdJTg6KZ95KXEpvYFCU27bLmFRtCo418Sk0MMid4MUqCummOoDLK8VYbcVj1FPt7Ckh8QRE8DOquXfN0bKDXSus315K89sggKlIJyDNcr"
+ },
+ {
+  "codigo": "1020-40-LP26",
+  "nombre": "Serv.Cloud Amazon Web Services AWS o Equivalente",
+  "descripcion": "El objetivo de la presente contratación es disponer de un servicio en la nube destinado a alojar los gestores documentales del Ministerio de Obras Públicas MOP y los datos institucionales del MOP, incluyendo el respaldo de repositorios, la gestión de contenedores, aplicaciones y otros datos actualmente alojados en infraestructura propia del Ministerio.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-08-20T15:39:00",
+  "cierre": "2026-09-24T15:00:00",
+  "monto": 295121.0,
+  "moneda": "USD",
+  "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+  "unidad": "MOP Subsecretaría ",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de consultas y gestión de datos"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software del sistema de administración de bases de datos",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de consultas y gestión de datos",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "PRECIO TOTAL NETO OFERTADO (SIN IVA), según Formulario N°1 \"Oferta Económica\" (Incluye los señalado en el numeral 5.1.1 de las Bases Administrativas, en archivo adjunto)."
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-24T15:01:00",
+   "apertura_economica": "2026-09-24T15:01:00",
+   "respuestas": "2026-09-17T20:00:00",
+   "estimada_adjudicacion": "2026-12-14T15:00:00",
+   "duracion": "36 meses",
+   "renovable": false,
+   "prohibiciones": "Ver numeral 10.5 de las Bases Administrativas, en archivo adjunto.",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "El presupuesto referencial impuestos incluidos, destinado a la presente Licitación, asciende a la suma de USD 295.121.- doscientos noventa y cinco mil ciento veintiún dólares, equivalente aproximadamente a 274.433.018- doscientos setenta y cuatro m",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 158,
+   "contacto": "Carmen Gloria Ponce Pérez",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=Ze2Xuwu34zAEhulzi%2fB0GumYrTfp%2fIz75Qfpz2zTL1rSQMALlC9qkpktnxnDUEooovLORZ3OetmWLGkTqJggCmmLdthcyS7cDGoyTCgYa7FSTX%2fDoL6IeDoLlYQvGPfMos75iYPMa72anH0i5KItcggkCi0SNctt1jQ%2b9702RIHeiQgDu17979%2fVOZgVI6WMb1sjxKei%2bK5M38BK0CcqtQbBh%2bUst15VWd%2blr8%2buiTFuNR%2fSi2jw4GJ1hXabhyc1S%2bv7UIP7Lf%2fMNGbDpWLgoledB1IAMHzwyJslonlH%2btH2e0MqCjhTIRRLaVxELgTU"
+ },
+ {
+  "codigo": "2200-23-LR26",
+  "nombre": "SERVICIO DE ARRIENDO DE SOFTWARE DE REGISTRO CLÍNICO ELECTRÓNICO RCE ATENCIÓN PRIMARIA - TIC",
+  "descripcion": "1.\tEl Servicio de Salud Aconcagua requiere el Servicio de Arriendo de Software de Registro Clínico Electrónico (RCE) y sus servicios complementarios de configuración, entrenamiento, instalación, mantención, soporte, data center, entre otros, para toda la red de establecimientos de Atención Primaria de Salud del Servicio de Salud Aconcagua, mediante un  contrato de suministro de servicio por un perido de 18 meses.\r\n\r\n2.\tLa Solicitud de Compra N°14 de fecha 11.08.2026, Oficina de Partes N°438 de fecha 12.08.2026 (Interno N°459),  presentada por la requirente del Departamento TIC, fue debidamente aprobada y autorizada por la Subdirectora de Gestión Asistencial, el Subdirector de Recursos Físicos y Financieros y el Jefe del Departamento de Finanzas quienes respaldan la Contratación.\r\n\r\n3.\tQue, en cumplimiento de la normativa vigente en compras públicas, se revisó el Catálogo Electrónico de Convenio Marco y el de económia Circular y se constató que los producto(s) y/o servicio(s)  requeridos no se encuentran disponibles en dicho catálogo.\r\n\r\n4.\tQue, según lo establecido en el reglamento, los organismos de la administración del Estado deberán adjudicar los contratos celebrados para la ad",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LR",
+  "publicacion": "2026-08-25T10:10:56.517",
+  "cierre": "2026-09-24T15:00:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "SERVICIO DE SALUD ACONCAGUA",
+  "unidad": "Servicio de Salud Aconcagua",
+  "region": "Región de Valparaíso ",
+  "comuna": "San Felipe",
+  "categorias": [
+   "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de recursos humanos / Contratación de personal"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Desarrolladores de software",
+     "categoria": "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de recursos humanos / Contratación de personal",
+     "cantidad": 1700.0,
+     "unidad": "Unidad",
+     "detalle": "SERVICIO DE ARRIENDO DE SOFTWARE DE REGISTRO CLÍNICO ELECTRÓNICO (RCE) ATENCIÓN PRIMARIA - TIC, SE ADJUNTA ESPECIFICACIONES TÉCNICAS, ANEXOS"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-24T15:31:00",
+   "apertura_economica": "2026-09-24T15:31:00",
+   "respuestas": "2026-09-21T23:59:00",
+   "estimada_adjudicacion": "2026-10-15T17:00:00",
+   "duracion": "18 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "MONTO REFERENCIAL AL MERCADO",
+   "financiamiento": "SERVICIO SALUD ACONCAGUA",
+   "obras": false,
+   "reclamos_comprador": 1606,
+   "contacto": "MASIEL BALBOA GONZALEZ",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=5E03ymX4V0uwFrkJiP5aKbGF2c%2bllGxZ9iSb8vYQ%2bxDTKL7c9Q%2bb2rzaKRJbbOL803hG0pXtAhGGOj0N0P8eu5Ro%2f3ZkKMgSJRwXe6uM1SYAmpZA52zrFf7hbsZfRkfteBGj2%2bCj05JYCyn5%2bC%2b1ALXP42JQJ56LRqGnZLHb7eQsxHz5XS%2bNDsFUbwbdxdhL2n22lxm5fX34HjdVixC4Vm8O8ZyBAbKHx%2fQFXAp6ANTxIZirlLU1VWzp15HUNZRJbDr%2bSfahWO6gwLRS%2bw2O8aPW%2bdOQjMuF9eRZtTHTGgnzCmqxfrELXyDn4a7JGhN9"
  },
  {
   "codigo": "1077241-8-LE26",
@@ -3669,8 +3669,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=CClyBQ%2fbALjXgCKaSvGi8IM2RJg%2f4fLbKVySVS0yknkihHRcVzdUlKOzplHg4fahMM6sGJkSvE%2fqLHnpbhtUfqLyvmbcLTX%2b6i1q9FAoJGNZbD3fvYXXdU%2bC52ImH1CJnkY9fIpdRDUHIVpR5V%2bi7Ur4sL5GZbLd33pImrhBt46%2fKugcHFQVz1lR%2fEfgbxVx5zFaJHVsmsdjR%2fWISVHvsUrTXK4tkAEPu9hGGR3Dj7rHPqrIvBCNUoWwmFUvvDkQQEXee2BFp1HEOZ0F1xFfFnZCprSwaFE%2b7NAokh%2fAGt%2bMnJAkfmt1iGtYgqa4XIa0"
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=wiLpEU7HEi4ldDrMImBrKMkdQZqp%2bTxX5dQbSbYSuXgAcRZsdm6idVMJbmS4B7YH5RCKdGKxBKrqsb%2fgoIgmpirNcixHXJvyh8tmgsr6TSgWointja1n8s7uKJuYbWBXQ5ptWY1zxJCKROdjV9ItonmA67h4Pi06SRGp0FBXcFx307K5xZ7PKB34fhL9tdgRo9Bw0xQIJJmEqiWfqIodlFp%2fMK2HvEU21de4hNYqDSuuZDO7sS2rK9rM1RR9BGNO80DtOh1rHKnQoaW%2bbUBQcsayFp2JcbQJaPAhts4C%2f8BQrviDIdJnUEEJKlBUkUUk"
  },
  {
   "codigo": "377-55-LE26",
@@ -3789,31 +3789,31 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=mWRpye04BNEzAuQq%2f355L70QpZVY9ve08qnde9H1LW%2f%2bKKdjDfSeTJ4XAn%2fkrGInnerd9y6d6Pk4uCxIPLpndy%2b1CQwd1E4U%2bBdubFkvp1y2plswtsUwXZk5XWRaaHP%2bmfH4bjRIITOg8U%2fmJAQlhXvnZdnFBg3RB%2fs5nfG5FtwylsbMA6dHdZVuMdXaMLLrjfNvyXIztk9VUmJzRb3%2bxkQltaJ2CJbqZg%2fzeplBYfbWBn6vNcTwNPkSpppeJ5EyVVCSv2LScCqxuETeKQ7RFWBJBz%2f%2bnQFiIEDrEpIkE41aw%2bnKnk1y%2f9fH5PgeHnUd"
  },
  {
-  "codigo": "2239-2-LR26",
-  "nombre": "Convenio Marco Desarrollo de software",
-  "descripcion": "Convenio Marco para la adquisición de los Servicios de Desarrollo y Mantención de Software, Servicios Profesionales TI y Cloud Computing",
+  "codigo": "2785-80-LE26",
+  "nombre": "“Servicios móviles de comunicaciones de voz y datos internet para la Municipalidad San Pedro de la Paz”",
+  "descripcion": "El objetivo de la presente licitación es contratar el equipamiento como también servicio de voz y datos móviles a directivos y/o funcionarios de la Municipalidad que sean necesarios. Esto, de acuerdo a lo establecido en las especificaciones técnicas.",
   "estado": "Publicada",
   "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-07-14T17:42:00",
+  "tipo": "LE",
+  "publicacion": "2026-09-11T15:48:10.857",
   "cierre": "2026-09-25T15:00:00",
   "monto": null,
-  "moneda": "UTM",
-  "organismo": "DIRECCION DE COMPRAS Y CONTRATACION PUBLICA",
-  "unidad": "División de Convenio Marco",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Santiago",
+  "moneda": "CLP",
+  "organismo": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+  "unidad": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
+  "region": "Región del Biobío ",
+  "comuna": "San Pedro de La Paz",
   "categorias": [
-   "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de recursos humanos / Contratación de personal"
+   "Servicios básicos y de información pública / Telecomunicaciones / Telefonía local y de larga distancia"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Desarrolladores de software",
-     "categoria": "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de recursos humanos / Contratación de personal",
+     "producto": "Servicio telefónico local",
+     "categoria": "Servicios básicos y de información pública / Telecomunicaciones / Telefonía local y de larga distancia",
      "cantidad": 1.0,
      "unidad": "Unidad",
-     "detalle": "Convenio Marco para la adquisición de los Servicios de Desarrollo y Mantención de Software, Servicios Profesionales TI y Cloud Computing"
+     "detalle": "Servicios de telecomunicaciones de acuerdo a las especificacione stécnicas y bases administrativas"
     }
    ],
    "items_total": 1,
@@ -3824,183 +3824,27 @@
    "entrega_antecedentes": null,
    "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-25T15:30:00",
-   "apertura_economica": "2026-09-25T15:30:00",
-   "respuestas": "2026-09-11T23:59:00",
-   "estimada_adjudicacion": "2026-11-23T23:59:00",
-   "duracion": null,
-   "renovable": false,
-   "prohibiciones": "De conformidad con el artículo 126 del Reglamento de la Ley N° 19.886, el proveedor no podrá ceder ni transferir en forma alguna, total ni parcialmente, los derechos y obligaciones que nacen del desarrollo de esta licitación y de los respectivos contrato",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 71,
-   "contacto": "Convenio Marco",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=W1Vwpp%2fJdhNOY0y41QANMFQCinrxUJeJedneWBkOyhNN%2bXfsUXGa6o%2ftjtz6EbP%2ff2SKvWZ8q4QBssCvJQ9%2bDFw3lbLbgQw1HNTZnLz1RaX%2fgrdRtD32VKc9KO97pU1tOY0Fkz6uqnQAn6guV0F53oSjPxUfHVjWW49IVxiwl8iTC9XMKxQ6Gj6O6CpIHG6JPn48o%2fm6uoCwKlVvs2FC0fjhzhIEcyhZ925Ht83AMrjVaiyoHm3tvjiHm1LFnDz2%2bZek5ovYYqEEmsSxfZ6YUlLm4cx29xgzNSpBEbVLWCCYirUExFUR1LwAHaRCnc06"
- },
- {
-  "codigo": "2563-34-LR26",
-  "nombre": "EQUIPOS PARA REDES INFORMÁTICAS Y LICENCIAS",
-  "descripcion": "ADQUISICIÓN DE EQUIPOS DE COMUNICACIONES PARA REDES INFORMÁTICAS Y LICENCIAS DE SOFTWARE MODALIDAD LLAVE EN MANO, PARA EL PROYECTO CONTROL DE ACCESO A LA RED Y PROYECTOS AEROPORTUARIOS PARA LA DIRECCIÓN GENERAL DE AERONÁUTICA CIVIL",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-08-20T15:09:00",
-  "cierre": "2026-09-25T15:00:00",
-  "monto": 453590167.0,
-  "moneda": "CLP",
-  "organismo": "DIRECCION GENERAL DE AERONAUTICA CIVIL",
-  "unidad": "UNIDAD DE COMPRA CONTRATOS NACIONALES",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Providencia",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 10.0,
-     "unidad": "Unidad",
-     "detalle": "Switch 48G PoE 4SFP+ (equivalente al modelo JL727B) / Control de Acceso"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 11.0,
-     "unidad": "Unidad",
-     "detalle": "Switch 48G PoE 4SFP+ (equivalente al modelo JL727B) /Aeroportuarios"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Switch 24G PoE 4SFP+(equivalente al modelo JL261A) /Aeroportuario"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 7.0,
-     "unidad": "Unidad",
-     "detalle": "Switch 12G PoE 2SFP+ (equivalente al modelo R8Q72A) /Aeroportuario"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 4.0,
-     "unidad": "Unidad",
-     "detalle": "Access Point Desktop (equivalente al modelo R3V46A) /Control de acceso"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 20.0,
-     "unidad": "Unidad",
-     "detalle": "Access Point\r\n(equivalente al modelo JZ336A) /Control de Acceso"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 11.0,
-     "unidad": "Unidad",
-     "detalle": "Access Point\r\n(equivalente al modelo JZ336A) /Aeroportuarios"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 6.0,
-     "unidad": "Unidad",
-     "detalle": "Access Point Exterior\r\n(equivalente al modelo R7T05A) /Control de Acceso"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 3.0,
-     "unidad": "Unidad",
-     "detalle": "Soporte anclaje para riel cielo falso plano 9/16'' Pack 10 unidades. /Aeroportuarios"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 3.0,
-     "unidad": "Unidad",
-     "detalle": "Soporte anclaje para superficie sólida Pack 10 unidades. /Aeroportuarios"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 10.0,
-     "unidad": "Unidad",
-     "detalle": "Módulo 10G SFP+ LC LR 10km\r\n(equivalente al modelo J9151E) /Control de Acceso"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 10.0,
-     "unidad": "Unidad",
-     "detalle": "Módulo FO (SM) 1G SFP LC LX 10km\r\n(equivalente al modelo J4859D) /Control de Acceso"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 24.0,
-     "unidad": "Unidad",
-     "detalle": "Módulo FO (SM) 1G SFP LC LX 10km (equivalente al modelo J4859D) /Aeroportuarios"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Equipo de protección de enlaces de red frente a ataques DDoS y amenazas avanzadas, actuando directamente en el borde de la red (edge), donde se conectan los enlaces de Internet principal y de respaldo. /Control de Acceso"
-    },
-    {
-     "producto": "Cajas de conmutación de computadores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Licencia para el funcionamiento del equipo de protección de enlaces de red frente a ataques DDoS y amenazas avanzadas. /Control de Acceso"
-    }
-   ],
-   "items_total": 17,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": "2026-09-25T00:00:00",
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-28T15:00:00",
-   "apertura_economica": "2026-09-28T15:00:00",
-   "respuestas": "2026-09-16T23:59:00",
-   "estimada_adjudicacion": "2026-11-19T23:59:00",
-   "duracion": null,
+   "apertura_tecnica": "2026-09-25T15:05:00",
+   "apertura_economica": "2026-09-25T15:05:00",
+   "respuestas": "2026-09-21T18:00:00",
+   "estimada_adjudicacion": "2026-11-13T18:00:00",
+   "duracion": "24 meses",
    "renovable": false,
    "prohibiciones": "",
    "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "Conforme presupuesto disponible.",
-   "financiamiento": "DGAC - Recursos Propios",
+   "estimacion": "precio referencial",
+   "monto_nota": "",
+   "financiamiento": "",
    "obras": false,
-   "reclamos_comprador": 204,
-   "contacto": "Javier Pacheco Barahona",
+   "reclamos_comprador": 626,
+   "contacto": "Claudia Seguel Cerna",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=nf%2fo9avVpdX8ue7eio6GOkB9OgY420PcygOiVQtqGqgGBGwP4c%2fHd64fAn3SCLt2Rpmtp8Rr55BMGmyLJSmORZtrVw4H2bRWbAMp1afVqVVRIS2Vmk4ZYYxhvOAuv4MlDLui3tkVGEtxBiGB3bzk6Z%2bZwTmR8xaLXtb2isLET0RtgoYsT4yPyaJQq%2bpmBrSNoI61D0%2bYuV1Z2HYROfQOzsV2954l%2b5QS7ptvkr53piQFuOXLtYdDJAODCGVa1UpfoCOX0hmkkXrPJevmlnYJaDu6vd1zaPxt%2fGr2IRMbP7fo26QjZctVnQvaqZR6l%2bva"
+  "visto": "2026-09-12",
+  "actualizado": "2026-09-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=oaE3vvwiTIlFDSSw0YqricjyH2Wq%2bUK0bEL4YPWdgOctW1ki8NIQRUUYq6JsY7P9jIbHatuiIHKeXygbN9v2tC4lk8trnGkaO5x4sHEueFHju3j7NplCEXCuT0taRZZWt1YsIVBEVfX8l0zKuGdx12Bu0X7gD7guv5ZOAoaq8PmjeqC6O50gkgre0yFRztFiS0U%2fuapxKxuJrhjUVI%2frSC4n4j1KIwjxAdlg7U664%2b3HYiCpSm7IFtDKutGbqgBegytKZ3uiRfWvfwJkrmPFMqE3iqoyd40LUK%2fPe9juqBg3QbBqpoCAyK2sQ5iXnTf5"
  },
  {
   "codigo": "4475-22-LE26",
@@ -4177,31 +4021,31 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=3vJEBHuItRkBJFSzAL6Pte6lXhH3mKEUJczbxz5y%2ffLYj6LD6A4ppL%2byoj41nNr6Sv9qua5e5Oifb33Wk2o%2buGpx6%2fO5AdWSv2VKlMr86mcTfhdsHKRwEdNhF322GVQazFLIncrHpJEpj%2fGA%2f9CYUxoP5KX0NZTJ6fZZVErdyKQ%2ft52636uzv7MrqEgVs6T5dH14nFX1a7OS2lTVajYtq3Q4JhyqNwGzw341btZWWOPAgnYourKajGy1DFlggEwSluW51Bi3HqN3d1u7EkWJFQWW0D7ue%2b8tEUcUW%2fAJ3npgDjNJG8UvEglPLhTPYRqE"
  },
  {
-  "codigo": "2785-80-LE26",
-  "nombre": "“Servicios móviles de comunicaciones de voz y datos internet para la Municipalidad San Pedro de la Paz”",
-  "descripcion": "El objetivo de la presente licitación es contratar el equipamiento como también servicio de voz y datos móviles a directivos y/o funcionarios de la Municipalidad que sean necesarios. Esto, de acuerdo a lo establecido en las especificaciones técnicas.",
+  "codigo": "2239-2-LR26",
+  "nombre": "Convenio Marco Desarrollo de software",
+  "descripcion": "Convenio Marco para la adquisición de los Servicios de Desarrollo y Mantención de Software, Servicios Profesionales TI y Cloud Computing",
   "estado": "Publicada",
   "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-09-11T15:48:10.857",
+  "tipo": "LR",
+  "publicacion": "2026-07-14T17:42:00",
   "cierre": "2026-09-25T15:00:00",
   "monto": null,
-  "moneda": "CLP",
-  "organismo": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
-  "unidad": "I MUNICIPALIDAD DE SAN PEDRO DE LA PAZ",
-  "region": "Región del Biobío ",
-  "comuna": "San Pedro de La Paz",
+  "moneda": "UTM",
+  "organismo": "DIRECCION DE COMPRAS Y CONTRATACION PUBLICA",
+  "unidad": "División de Convenio Marco",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Santiago",
   "categorias": [
-   "Servicios básicos y de información pública / Telecomunicaciones / Telefonía local y de larga distancia"
+   "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de recursos humanos / Contratación de personal"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Servicio telefónico local",
-     "categoria": "Servicios básicos y de información pública / Telecomunicaciones / Telefonía local y de larga distancia",
+     "producto": "Desarrolladores de software",
+     "categoria": "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de recursos humanos / Contratación de personal",
      "cantidad": 1.0,
      "unidad": "Unidad",
-     "detalle": "Servicios de telecomunicaciones de acuerdo a las especificacione stécnicas y bases administrativas"
+     "detalle": "Convenio Marco para la adquisición de los Servicios de Desarrollo y Mantención de Software, Servicios Profesionales TI y Cloud Computing"
     }
    ],
    "items_total": 1,
@@ -4212,27 +4056,27 @@
    "entrega_antecedentes": null,
    "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-25T15:05:00",
-   "apertura_economica": "2026-09-25T15:05:00",
-   "respuestas": "2026-09-21T18:00:00",
-   "estimada_adjudicacion": "2026-11-13T18:00:00",
-   "duracion": "24 meses",
+   "apertura_tecnica": "2026-09-25T15:30:00",
+   "apertura_economica": "2026-09-25T15:30:00",
+   "respuestas": "2026-09-11T23:59:00",
+   "estimada_adjudicacion": "2026-11-23T23:59:00",
+   "duracion": null,
    "renovable": false,
-   "prohibiciones": "",
+   "prohibiciones": "De conformidad con el artículo 126 del Reglamento de la Ley N° 19.886, el proveedor no podrá ceder ni transferir en forma alguna, total ni parcialmente, los derechos y obligaciones que nacen del desarrollo de esta licitación y de los respectivos contrato",
    "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
+   "estimacion": "presupuesto disponible",
    "monto_nota": "",
    "financiamiento": "",
    "obras": false,
-   "reclamos_comprador": 626,
-   "contacto": "Claudia Seguel Cerna",
+   "reclamos_comprador": 71,
+   "contacto": "Convenio Marco",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-09-12",
-  "actualizado": "2026-09-19",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=oaE3vvwiTIlFDSSw0YqricjyH2Wq%2bUK0bEL4YPWdgOctW1ki8NIQRUUYq6JsY7P9jIbHatuiIHKeXygbN9v2tC4lk8trnGkaO5x4sHEueFHju3j7NplCEXCuT0taRZZWt1YsIVBEVfX8l0zKuGdx12Bu0X7gD7guv5ZOAoaq8PmjeqC6O50gkgre0yFRztFiS0U%2fuapxKxuJrhjUVI%2frSC4n4j1KIwjxAdlg7U664%2b3HYiCpSm7IFtDKutGbqgBegytKZ3uiRfWvfwJkrmPFMqE3iqoyd40LUK%2fPe9juqBg3QbBqpoCAyK2sQ5iXnTf5"
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=h5z6yyGSF2ST7phh3BQERgOS28o%2fdC9YQ427Gf4B%2bAGhwpiLwh7hJ1zjPTHp9jEwPBd7Votl1TM3PXyexrsPOAkNP%2frFXNoVY6Dp3ZwGai1nAtqch%2bOSwat1lwg4qodu9WD9%2bL7grbSr1zQStDvWoRS2RUm%2bS2AMDL9nOnpgGgLNeh82%2bIyv4%2f8RIVNc0NUmUN%2bCWN%2bJzGW82RjKlCJTnvgIF1erDRVSOZZcW0QZWS0MwDrmxBXYF5E4yGSviyBJMZdDQzFzgJbcYHwAkQSSCdi7rYJ4eXwFN%2fY8njgkDDQW7UXEEmOiXmNDqGljLj0i"
  },
  {
   "codigo": "1499887-19-CO26",
@@ -5050,64 +4894,6 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=t%2bNxD0aBhgWI0I3UwHbJ0kXHTQ2kmB4ob7rPgxlQisSV7ZzB9nU439D4epWxBnRDmSed8BkgarfEwzzC4x%2fuB4kPOiT%2f221vFBu7yz%2fU5uTr%2fY5iZzmIUsqvjlH%2fvvFhT3syERkHju4i9Usb9UjPE%2b1gFgx%2b9IS73zCMM8XUwXsC4kFT7FN%2fzAhxQVMT%2bkhE2tUEWSAD6RDFJziQW2Y9Pw%2bCyM1q7jqFRwafR50yzwGweM5ohN40d9Oy7z7g9PihohH9h9koUNBRm2%2fBu5NpafQVrjVpGuJ12lUfhA%2boN8TqzBrmVMMjMr1xLdyNtTaf"
  },
  {
-  "codigo": "1607-13-LR26",
-  "nombre": "servicio SD-WAN LAN telefonía en la nube y enlaces",
-  "descripcion": "contratar el servicio de SD-WAN, LAN, Telefonía en la Nube y Enlaces Internet, a objeto de optimizar la plataforma de comunicaciones institucional y con ello dar plena cobertura a los actuales requerimientos institucionales tanto a nivel central como respecto de las oficinas existentes en las distintas regiones del país.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-08-28T15:15:28.233",
-  "cierre": "2026-09-28T15:30:00",
-  "monto": 450000000.0,
-  "moneda": "CLP",
-  "organismo": "SUPERINTENDENCIA DE SEGURIDAD SOCIAL",
-  "unidad": "Superintendencia de Seguridad Social",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Santiago Centro",
-  "categorias": [
-   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Sistemas de información"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Diseño de redes de comunicación de cobertura amplia (WAN)",
-     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Sistemas de información",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "servicios SD-WAN, LAN, telefonía en la nube y enlaces internet para la Superintendencia de Seguridad Social."
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-28T15:35:00",
-   "apertura_economica": "2026-09-28T15:35:00",
-   "respuestas": "2026-09-09T18:40:00",
-   "estimada_adjudicacion": "2026-10-22T18:38:00",
-   "duracion": null,
-   "renovable": false,
-   "prohibiciones": "El oferente adjudicado no podrá ceder ni transferir en forma alguna, total ni parcialmente, los derechos y obligaciones que nacen del desarrollo de la presente licitación, y en especial los que se establecerán en el contrato definitivo.",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "36 meses",
-   "financiamiento": "21796",
-   "obras": false,
-   "reclamos_comprador": 27,
-   "contacto": "Henry Gonzalez",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=wTgSwmheMQszncgODAO%2fJqHUHZLuzaRkwueJAluBC1D4GzjLUk53RQTa5%2fOuiZVq98bn5chcHt%2bvjxuDf%2fVQfUPLYfKaULGmkSHZ2%2bIzdvCLyjZkZvZYVCGjCaJccZlgHtqbdhxNcHAF6Vkj8JxGyU%2bE%2bxksaTPUanwM4YSDDPr0yA9LEHjfKnPlEUOws%2fGyOoBjgOJpWkgnqTcMVwXcUaZQK4W1y4ZH2E3jvz%2bZyqBH9k2z0ffSBS%2f4MuFrnfmRpKyIv0AKuI0Qh1EI0IA1r%2b%2boKmnylkrPGZmhp5aw3lu%2fJDjoZjqtcMZrMvHvm9Ke"
- },
- {
   "codigo": "548874-79-LE26",
   "nombre": "SERVICIO SOPORTE SOFTWARE INFORMIX PARA IPS",
   "descripcion": "SERVICIO DE SOPORTE DEL SOFTWARE INFORMIX PARA EL IPS  E1O2RT8.",
@@ -5166,31 +4952,31 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=F9AQJEWfO4FO0nacMVELc1R%2bYiOG8iLsPL5YfLw776%2f%2fzlrXTOA3edLwN7DVXpCUPDThlnYPcfZheU7aEnHeePB67e7upQIsyjSuuaPe57KEbbyxxbSgdlvOvxgp4UUk4gCSMQMexHw6qEhcFj5q%2fmEh5St1uDFT19HqwS4UbTbebucE50vG7dr0khAj7hf8mlE2BAxQ9qOmmXbotJE6tADa7GclprFAdynldyHbNJwcYOEOlnb%2f8%2fVqPbkdfyPkyScs7qC%2fJpgR4GJQ2B1xKs0Q79C%2bsZRyaU6oqDfYa337VNIsKZVxh42qYyHpAy3f"
  },
  {
-  "codigo": "948354-135-LP26",
-  "nombre": "CONTRATACIÓN DEL SERVICIO DE ARRIENDO DE UNA CABINA SANITARIA CON EQUIPO MAMÓGRAFO PARA USO DE MAMOGRAFÍA DIGITALIZADA PORTÁTIL PARA EL HOSPITAL DIPRECA",
-  "descripcion": "El Hospital de la Dirección de Previsión de Carabineros de Chile, ubicado en Vital Apoquindo N°1.200, Comuna de Las Condes, Región Metropolitana, en adelante “EL HOSPITAL”, llama a licitación pública para la Contratación del Servicio de Arriendo de una Cabina Sanitaria con Equipo Mamógrafo para Uso de Mamografía Digitalizada Portátil, en adelante “EL SERVICIO”, para un período de 12 meses, esta contratación se ejecutará bajo la modalidad de Contrato de Suministro para el referido Centro Asistencial, cuyas características y requisitos técnicos constan en las Bases Administrativas y Técnicas de esta Licitación con sus respectivos anexos.",
+  "codigo": "1607-13-LR26",
+  "nombre": "servicio SD-WAN LAN telefonía en la nube y enlaces",
+  "descripcion": "contratar el servicio de SD-WAN, LAN, Telefonía en la Nube y Enlaces Internet, a objeto de optimizar la plataforma de comunicaciones institucional y con ello dar plena cobertura a los actuales requerimientos institucionales tanto a nivel central como respecto de las oficinas existentes en las distintas regiones del país.",
   "estado": "Publicada",
   "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-09-07T16:32:46.53",
-  "cierre": "2026-09-28T16:00:00",
-  "monto": null,
+  "tipo": "LR",
+  "publicacion": "2026-08-28T15:15:28.233",
+  "cierre": "2026-09-28T15:30:00",
+  "monto": 450000000.0,
   "moneda": "CLP",
-  "organismo": "FONDO HOSPITAL DE LA DIRECCION DE PREVISION DE CARABINEROS DE CHILE",
-  "unidad": "Unidad de Compra de Bienes y Servicios",
+  "organismo": "SUPERINTENDENCIA DE SEGURIDAD SOCIAL",
+  "unidad": "Superintendencia de Seguridad Social",
   "region": "Región Metropolitana de Santiago",
-  "comuna": "Las Condes",
+  "comuna": "Santiago Centro",
   "categorias": [
-   "Equipamiento y suministros médicos / Productos para imágenes y de medicina nuclear / Artículos radiográficos de diagnóstico médico"
+   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Sistemas de información"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Equipo para radiografías mamográficas",
-     "categoria": "Equipamiento y suministros médicos / Productos para imágenes y de medicina nuclear / Artículos radiográficos de diagnóstico médico",
-     "cantidad": 12.0,
-     "unidad": "Mes",
-     "detalle": "Servicio de Arriendo de una Cabina Sanitaria con Equipo Mamógrafo para Uso de Mamografía Digitalizada Portátil"
+     "producto": "Diseño de redes de comunicación de cobertura amplia (WAN)",
+     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Sistemas de información",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "servicios SD-WAN, LAN, telefonía en la nube y enlaces internet para la Superintendencia de Seguridad Social."
     }
    ],
    "items_total": 1,
@@ -5201,27 +4987,27 @@
    "entrega_antecedentes": null,
    "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-28T16:01:00",
-   "apertura_economica": "2026-09-28T16:01:00",
-   "respuestas": "2026-09-21T17:00:00",
-   "estimada_adjudicacion": "2027-02-08T17:00:00",
-   "duracion": "12 meses",
+   "apertura_tecnica": "2026-09-28T15:35:00",
+   "apertura_economica": "2026-09-28T15:35:00",
+   "respuestas": "2026-09-09T18:40:00",
+   "estimada_adjudicacion": "2026-10-22T18:38:00",
+   "duracion": null,
    "renovable": false,
-   "prohibiciones": "",
+   "prohibiciones": "El oferente adjudicado no podrá ceder ni transferir en forma alguna, total ni parcialmente, los derechos y obligaciones que nacen del desarrollo de la presente licitación, y en especial los que se establecerán en el contrato definitivo.",
    "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
-   "monto_nota": "",
-   "financiamiento": "",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "36 meses",
+   "financiamiento": "21796",
    "obras": false,
-   "reclamos_comprador": 395,
-   "contacto": "Dra. Constanza Damm Araneda",
+   "reclamos_comprador": 27,
+   "contacto": "Henry Gonzalez",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-09-07",
-  "actualizado": "2026-09-14",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=PizkyRsEyLHQbR4bpkP53HNmo%2fTtu1%2btSenUTCoJTTxS7O3sMVkt7xQyhBtcv6RkiQF7vXZnVNyzWX%2bnbOmKaFRPFkG2jLdJU6JTfbibKweBaLDvtDHmRv3y5dfz%2bdhjmqQrGr7amkkGLUKArjPxiHSkS6k8djZ4lC3tTrLr0NkQxSz%2f28dNUhAvQSP83IS26aZVh2yonclCpBtpE%2fwo9fVuuN22ZMt1FTDbXkUARGcqGfkzfs01yjFLt3v50430tOEOb%2fSNbShiv03VAFhM9c70IknkqiKHk6a2lPfMj5wBvRxZnqCnKGY6BGhWfnYd"
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=NLwK5UrEm%2fe2lk4xxxQz5DfZR1tYkkwhQmgb6gHomsz%2fS13wkQBG%2frrbHo1zgsn7co1o3bxhbVsfc%2fUj%2b0E1%2bAhfl22rAYnWGkTkHD0EJsU5UzwcR7yrCxPiE1tqg1RkNoFHdGcWw9PCET9eL8CeqMMDHzvrHXF5bBR2gEtyeRWkiNXysZo5gNWZNxnq5oqUS%2fN9imGAl3JEaQVfvpVMNJMrmMvWQg17hz2AIRpUC4cKv3fIimw3YzwwO2OompquVcNEOq0I8Z3dosnphImDHkpQPY0COmlAczvlGY%2fPFbv%2fgTaTYRxezr89BiHb7pDi"
  },
  {
   "codigo": "726931-1-LE26",
@@ -5280,6 +5066,64 @@
   "visto": "2026-09-05",
   "actualizado": "2026-09-19",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=z4zzwn4HqD7VLNVdcGhb%2bgdzQZ13GW%2bQLVGq4GmUSs2ZDqo9LPg8a0TknPHTpt57fTf9BM2rD7ORg8vsaAiGUNReVrzkKj1rWnMiIgq4fTT7MxhSi%2faw5y9Jyuos94oBBIIIZ6XsImLbfDvNY%2bqP3lfbTaw%2bj4gV5Oi2d%2bpeYtUmrYi2J6uLx3V6oG3fvSEzJNCTryqvTKuVGPE229BH0keak8Aq1tpYFxfiW%2f76cWL9oBsgWGoVKhTj5Molzsh2NLq3VhFeAJEdGMJt6NPgEGOJz4aA%2bUZYoCafIVKTuNDA7UVfKb96k7D8TFuEZu70"
+ },
+ {
+  "codigo": "948354-135-LP26",
+  "nombre": "CONTRATACIÓN DEL SERVICIO DE ARRIENDO DE UNA CABINA SANITARIA CON EQUIPO MAMÓGRAFO PARA USO DE MAMOGRAFÍA DIGITALIZADA PORTÁTIL PARA EL HOSPITAL DIPRECA",
+  "descripcion": "El Hospital de la Dirección de Previsión de Carabineros de Chile, ubicado en Vital Apoquindo N°1.200, Comuna de Las Condes, Región Metropolitana, en adelante “EL HOSPITAL”, llama a licitación pública para la Contratación del Servicio de Arriendo de una Cabina Sanitaria con Equipo Mamógrafo para Uso de Mamografía Digitalizada Portátil, en adelante “EL SERVICIO”, para un período de 12 meses, esta contratación se ejecutará bajo la modalidad de Contrato de Suministro para el referido Centro Asistencial, cuyas características y requisitos técnicos constan en las Bases Administrativas y Técnicas de esta Licitación con sus respectivos anexos.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-09-07T16:32:46.53",
+  "cierre": "2026-09-28T16:00:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "FONDO HOSPITAL DE LA DIRECCION DE PREVISION DE CARABINEROS DE CHILE",
+  "unidad": "Unidad de Compra de Bienes y Servicios",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Las Condes",
+  "categorias": [
+   "Equipamiento y suministros médicos / Productos para imágenes y de medicina nuclear / Artículos radiográficos de diagnóstico médico"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Equipo para radiografías mamográficas",
+     "categoria": "Equipamiento y suministros médicos / Productos para imágenes y de medicina nuclear / Artículos radiográficos de diagnóstico médico",
+     "cantidad": 12.0,
+     "unidad": "Mes",
+     "detalle": "Servicio de Arriendo de una Cabina Sanitaria con Equipo Mamógrafo para Uso de Mamografía Digitalizada Portátil"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-28T16:01:00",
+   "apertura_economica": "2026-09-28T16:01:00",
+   "respuestas": "2026-09-21T17:00:00",
+   "estimada_adjudicacion": "2027-02-08T17:00:00",
+   "duracion": "12 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 395,
+   "contacto": "Dra. Constanza Damm Araneda",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-07",
+  "actualizado": "2026-09-14",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=PizkyRsEyLHQbR4bpkP53HNmo%2fTtu1%2btSenUTCoJTTxS7O3sMVkt7xQyhBtcv6RkiQF7vXZnVNyzWX%2bnbOmKaFRPFkG2jLdJU6JTfbibKweBaLDvtDHmRv3y5dfz%2bdhjmqQrGr7amkkGLUKArjPxiHSkS6k8djZ4lC3tTrLr0NkQxSz%2f28dNUhAvQSP83IS26aZVh2yonclCpBtpE%2fwo9fVuuN22ZMt1FTDbXkUARGcqGfkzfs01yjFLt3v50430tOEOb%2fSNbShiv03VAFhM9c70IknkqiKHk6a2lPfMj5wBvRxZnqCnKGY6BGhWfnYd"
  },
  {
   "codigo": "1375757-29-LE26",
@@ -5526,72 +5370,6 @@
   "visto": "2026-09-10",
   "actualizado": "2026-09-17",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=otXGz6nGsIu%2f9OMKyRZ9%2f%2bpXQBOTdpcvC2CDpS4SGvUZBRih3mbAeMx3oLw5AeT3fcbrPueu6mMP4IU%2fymEyx6NEMEKfRMSNWY76xkzmJjQIxne2aICH3kp2dF0TKdtFzRMH31JITrzNUPmFABxLyufWyGZtUE%2bfrwN0Z8Z0gayYU3%2bCxJdiahsQHXYfeOz6Rdr6lW68uI4oEmylTQ9ZZL92HbvhEel45M5mg9%2bQ%2fxCA%2f5J3S34PqUyVKoxaCfWso5ZvzvbICh5%2fritvHuHLPaZMMcFqT2b0YOh38iR21BQTZu2B%2bWz3Od5jkF1uQoIi"
- },
- {
-  "codigo": "1020-38-LP26",
-  "nombre": "Adquisición de Plataforma Next Generation Firewall",
-  "descripcion": "Se requiere adquirir una solución consistente en dos 2 Firewall de Seguridad en alta disponibilidad, con la capacidad de crear instancias virtuales de NGFW, que deben proveer funcionalidades de IPS, filtrado de URL, control de identidad, control de QoS, protección de malware y seguridad DNS. Lo anterior administrado a través de una sola consola, además de incluir soporte 7X24 por 1 año de misión critica. Esta solución debe incluir el proceso de migración de firewall de datacenter.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-08-18T10:37:00",
-  "cierre": "2026-09-29T15:00:00",
-  "monto": 240000000.0,
-  "moneda": "CLP",
-  "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-  "unidad": "MOP Subsecretaría ",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red",
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Equipo de seguridad de red de firewall",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red",
-     "cantidad": 2.0,
-     "unidad": "Unidad",
-     "detalle": "Equipos."
-    },
-    {
-     "producto": "Software de vigilancia de redes",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Licenciamiento de software para la Plataforma Next Generation Firewall (NGFW)"
-    }
-   ],
-   "items_total": 2,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-29T15:01:00",
-   "apertura_economica": "2026-09-29T15:01:00",
-   "respuestas": "2026-09-17T20:00:00",
-   "estimada_adjudicacion": "2027-01-07T18:00:00",
-   "duracion": "16 meses",
-   "renovable": false,
-   "prohibiciones": "Conforme al punto 10.5 de las Bases Administrativas, el oferente adjudicado no podrá subcontratar los servicios derivados de la ejecución del Contrato",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
-   "monto_nota": "Conforme al punto 5.1 de las Bases Administrativas",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 158,
-   "contacto": "Francisco Borques",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=ncIX5qn18VUm%2bNSNjYNTmt9B%2bU6CwrnJ%2bVoDukGxRihITiFkdkA8SfyPIuKUcMWcgFw00Q50N1OE1%2bdRsbGuK1jpquKZA5q2Mf4OzeJGYcqWGG4%2bakjNOgFzwezJVvT9an0rNq%2bxkTaeW7e9LX11kjA0%2fQvqiuBXHfjtZ71DQVVYDKjZrJz1m0Y%2bZv3tNhcIv5Gh%2fARvSEUvAUFpRzWERPH3xRXXeJnUFVfxUwGyRh2SHE7kUZuNdbp0xtMxkhzsx4TC8LVGvOptHQ52f8x6EOcu%2ftQZt4Q4vT4k7M9SYJfFFnPetew44nINCjzk07jn"
  },
  {
   "codigo": "1575-15-LE26",
@@ -6075,8 +5853,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=rP3%2fXcdpF9J6Cr64XPkJmLPVym4PKRJgQQUcKc%2fFvM3DNyMZmuteyjO9ikjVZF84cWI2XEtZ27yf%2fSrlekJh1HJBhqI4MCMuMqbdOHR6DyR8cMLx2s9%2bgwiIuPSmyHOl2%2fdNLHHO8AYg%2bbVztZevUTMbYdDX2PIYZ2%2bRDnmea7pHq%2frNi9vZ4nvECxiDkdziWxnmhBDYOlZDljOBTXyZijlCZtsoK%2fydiQqn%2bn1yodoTRVkE9NjzmgQPQzyi4TLL5dHyTSbHDZ8KA0TSnD7NbjAKxL%2fdx6fmaMmTVMktkMUzLigYvOjV7WrKRhTgQF%2br"
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=3vYym9UAejANazl80A7dho%2fdIPUGTbN%2fXgA%2bysU98%2fiCzqBa0omn0a45667eGKsoyH0tL33I0FW8dhY5aTluOSlNA%2bxzBjRxbR8d4zVRPI977J25dpW1QndG1XTCHxo6xNYQTWj0NAsVqe07gnyhbAWCxO2jltxoLSKKTFtCURycy2TRS0ke0O4xCpJs9Tncx3T%2fykLWNnJ5h0TnDRhR5srzS8Yl1rOPc%2f8aVGScU4pR2j56TNRbVpVm3r3tX0vebJnDvyDHMWc2lrZs195C0L4ZjF6l6naRcawpDEx0%2fF7lH5Jf7HxJWzC3czAefD2E"
  },
  {
   "codigo": "5482-103-LP26",
@@ -6318,6 +6096,64 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=VyrAC2HE2985uaIezQinifRyUfZ2sX9In%2bmz2ce32%2fgdFU1uSN0FDtKl68y%2fzJJeKuesV1gXomUuBDsJ3zvXVmuFXtLmIqaF9RgH1b7zWcc2%2fnvgDFWlqrVfZ%2fLhWskSCo%2bIkfanjRYqfa%2fIA47AXef88Bb6d7W1Is6eI7LGT7dyPq0NCJEM1N2DB0VxL4GEwpaFODghrHGKYIvWiGHqovvkvqvTCQqNwkwUlWqHKhVIGf%2bJgWWuC27bQWJxxUUw6%2b8P19or6uyFHA%2bCMxEKHNv1Mq7Ic%2f%2bsKYB%2bHKKwXwMIRY76s1529fspvN3Ebxke"
  },
  {
+  "codigo": "4051-16-LP26",
+  "nombre": "SERVICIO ADMINISTRADO DE INTERNET RED DE DATOS Y",
+  "descripcion": "El Municipio requiere contratar el Servicio Administrado de Internet, Red de Datos y Telefonía IP para la Ilustre Municipalidad de Ollagüe y que implica la ejecución de diseños preliminares, adquisición de materiales, instalación, montaje, configuración y puesta en servicio con el objeto de garantizar el funcionamiento óptimo de la infraestructura de red en las dependencias de la municipalidad.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-09-04T12:46:00",
+  "cierre": "2026-09-30T16:00:00",
+  "monto": null,
+  "moneda": "CLF",
+  "organismo": "I MUNICIPALIDAD DE OLLAGUE",
+  "unidad": "Municipalidad de Ollagüe",
+  "region": "Región de Antofagasta ",
+  "comuna": "Ollague",
+  "categorias": [
+   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Servicios para internet"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Proveedores de servicio de Internet (ISP)",
+     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Servicios para internet",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "El Municipio requiere contratar el Servicio Administrado de Internet, Red de Datos y Telefonía IP para la Ilustre Municipalidad de Ollagüe y que implica la ejecución de diseños preliminares, adquisición de materiales, instalación, montaje, configuración y"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-09-30T16:05:00",
+   "apertura_economica": "2026-09-30T16:05:00",
+   "respuestas": "2026-09-23T16:00:00",
+   "estimada_adjudicacion": "2026-10-14T20:00:00",
+   "duracion": "48 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "Presupuesto Municipal",
+   "obras": false,
+   "reclamos_comprador": 11,
+   "contacto": "Jhean Ramírez Domínguez",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-05",
+  "actualizado": "2026-09-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=mqll1gFcjA4cdo%2fE471fJqOsSOn0opiti7MdwipHUyD5H%2fsHnq6yLIexkeF%2fP%2bqp4%2bfPypAGosTTIscqty%2foqXEt9k4Xtd96MwQ%2bbK%2bCsUPMgQ79JtbfXUGC%2f7zjJ4aIj6TM3tFSxkYes3uWjDS7TrSatlPZQm07kaqPVsn2Vad9y%2fGrNV%2bAfv%2bcvMaBHQi6gw%2bIuCrbvgkTEdasHPThQ837zYGpyRUbnM1gT9LR1caF3y%2bOz%2fZOtMBwcpmRyo7kKwa94jVk3zo9FI%2fksSNFl8baU9XoRv5OHqnWmBbQzYFK8VqprFPpcwkE3OY5ZWtw"
+ },
+ {
   "codigo": "591-26-LP26",
   "nombre": "PLATAFORMA DE OBSERVABILIDAD AVANZADA MULTICLOUD PARA FONASA.",
   "descripcion": "El Oferente para la provisión de una plataforma de observabilidad SaaS y la prestación de servicios profesionales especializados para su configuración, despliegue multicloud y transferencia tecnológica",
@@ -6432,64 +6268,6 @@
   "visto": "2026-09-16",
   "actualizado": "2026-09-16",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=NYQGP9CcWinDn8pqeaxMvOtlho7qAx4znL6oDMM7IMIwYFdmWnG%2baPxiLJ5Cqcw6Mw9cMg72%2fH0QAwCzVn8FOBYjwAQ77O0JaMq3VbcDzfc1%2f0knpTNCBoytyWVwgVrsdFqVIUbGe9vcsLSmvMHpoyLHBejJ5azQbc5a%2fWm7UealyDfLdYRplw6kyzP3kf%2b52mG5iWBskGwc9WqcvgftiGGN50r3YghNqPhLcXqt4xf0qr5uQC1sbgb500WLnd28k2%2brl%2f1RCdCoA9BIQpkczz98EjCMjLk4SFxbqSyqCFyCgqdnicy9OLzUQAcOUxyU"
- },
- {
-  "codigo": "4051-16-LP26",
-  "nombre": "SERVICIO ADMINISTRADO DE INTERNET RED DE DATOS Y",
-  "descripcion": "El Municipio requiere contratar el Servicio Administrado de Internet, Red de Datos y Telefonía IP para la Ilustre Municipalidad de Ollagüe y que implica la ejecución de diseños preliminares, adquisición de materiales, instalación, montaje, configuración y puesta en servicio con el objeto de garantizar el funcionamiento óptimo de la infraestructura de red en las dependencias de la municipalidad.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-09-04T12:46:00",
-  "cierre": "2026-09-30T16:00:00",
-  "monto": null,
-  "moneda": "CLF",
-  "organismo": "I MUNICIPALIDAD DE OLLAGUE",
-  "unidad": "Municipalidad de Ollagüe",
-  "region": "Región de Antofagasta ",
-  "comuna": "Ollague",
-  "categorias": [
-   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Servicios para internet"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Proveedores de servicio de Internet (ISP)",
-     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Servicios para internet",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "El Municipio requiere contratar el Servicio Administrado de Internet, Red de Datos y Telefonía IP para la Ilustre Municipalidad de Ollagüe y que implica la ejecución de diseños preliminares, adquisición de materiales, instalación, montaje, configuración y"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-09-30T16:05:00",
-   "apertura_economica": "2026-09-30T16:05:00",
-   "respuestas": "2026-09-23T16:00:00",
-   "estimada_adjudicacion": "2026-10-14T20:00:00",
-   "duracion": "48 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "Presupuesto Municipal",
-   "obras": false,
-   "reclamos_comprador": 11,
-   "contacto": "Jhean Ramírez Domínguez",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-09-05",
-  "actualizado": "2026-09-19",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=mqll1gFcjA4cdo%2fE471fJqOsSOn0opiti7MdwipHUyD5H%2fsHnq6yLIexkeF%2fP%2bqp4%2bfPypAGosTTIscqty%2foqXEt9k4Xtd96MwQ%2bbK%2bCsUPMgQ79JtbfXUGC%2f7zjJ4aIj6TM3tFSxkYes3uWjDS7TrSatlPZQm07kaqPVsn2Vad9y%2fGrNV%2bAfv%2bcvMaBHQi6gw%2bIuCrbvgkTEdasHPThQ837zYGpyRUbnM1gT9LR1caF3y%2bOz%2fZOtMBwcpmRyo7kKwa94jVk3zo9FI%2fksSNFl8baU9XoRv5OHqnWmBbQzYFK8VqprFPpcwkE3OY5ZWtw"
  },
  {
   "codigo": "1551861-2-LE26",
@@ -7193,6 +6971,228 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=WdOgZHaE%2flbVyESRMiRcRT1y%2bG6Nb3Gwr%2bWWwK7swjiQEJLGU9DuiwjaiZ5TRHEkaRniDxR3DcHcuZwY8FMf9aQxCdmkDakE3DDilMXHQJuHVa5fYDYbB1uSBp5IOw3VUrD%2flYr345CPZ%2bYPdS0dCulAlpy1YXZtVTB7jCRfMmgx1sO1qE8sG9Eiiqf6inQ2Y2Iq2JFzzhvi9PppZfgVn%2fKvWV2a6pXSZU1s3%2bUObGy8ZX8s4MYpyQDypxwA0n9Yizu6YgxoP7QhWfv%2f2CvoDDYKKf%2fJRV1BkQeuvg%2fJXbacX6%2b0FHSA8gLrUcj4tDQi"
  },
  {
+  "codigo": "1020-38-LP26",
+  "nombre": "Adquisición de Plataforma Next Generation Firewall",
+  "descripcion": "Se requiere adquirir una solución consistente en dos 2 Firewall de Seguridad en alta disponibilidad, con la capacidad de crear instancias virtuales de NGFW, que deben proveer funcionalidades de IPS, filtrado de URL, control de identidad, control de QoS, protección de malware y seguridad DNS. Lo anterior administrado a través de una sola consola, además de incluir soporte 7X24 por 1 año de misión critica. Esta solución debe incluir el proceso de migración de firewall de datacenter.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-08-18T10:37:00",
+  "cierre": "2026-10-02T15:00:00",
+  "monto": 240000000.0,
+  "moneda": "CLP",
+  "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+  "unidad": "MOP Subsecretaría ",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red",
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Equipo de seguridad de red de firewall",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Equipos de seguridad de red",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "Equipos."
+    },
+    {
+     "producto": "Software de vigilancia de redes",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Licenciamiento de software para la Plataforma Next Generation Firewall (NGFW)"
+    }
+   ],
+   "items_total": 2,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-10-02T15:01:00",
+   "apertura_economica": "2026-10-02T15:01:00",
+   "respuestas": "2026-09-23T20:00:00",
+   "estimada_adjudicacion": "2027-01-11T18:00:00",
+   "duracion": "16 meses",
+   "renovable": false,
+   "prohibiciones": "Conforme al punto 10.5 de las Bases Administrativas, el oferente adjudicado no podrá subcontratar los servicios derivados de la ejecución del Contrato",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "Conforme al punto 5.1 de las Bases Administrativas",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 158,
+   "contacto": "Francisco Borques",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=jOsrZ0p08QRV5ewhgP37YBou1A4Fxs8BUft%2bNrUYEsRYYYnvg2ybFLgFDUMeccYLly4DSIHYDi%2f0coCAkqRPRQqeltno%2bSFAoonEhgXrDHIXKX5Wn8Ajm%2bv%2bXf0E2lm2w7WpkzY0Q2C2yhCsAPrS%2b7o7YA36skvITi5UbxUbHWBooknhwlkREWYnCQR0KQB0anvj462nzKpDlP37H8OgrCclwAkhVJrIOaDllB2qnqlmvSjIVhEZtKQ5WRmD%2fB2pna4mFvUvU6Jvst%2bUXGpt4BPTyzHkcOKbGo35F3SQ9h7NByLK7Lg0vb81ns3rCSja"
+ },
+ {
+  "codigo": "2563-34-LR26",
+  "nombre": "EQUIPOS PARA REDES INFORMÁTICAS Y LICENCIAS",
+  "descripcion": "ADQUISICIÓN DE EQUIPOS DE COMUNICACIONES PARA REDES INFORMÁTICAS Y LICENCIAS DE SOFTWARE MODALIDAD LLAVE EN MANO, PARA EL PROYECTO CONTROL DE ACCESO A LA RED Y PROYECTOS AEROPORTUARIOS PARA LA DIRECCIÓN GENERAL DE AERONÁUTICA CIVIL",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LR",
+  "publicacion": "2026-08-20T15:09:00",
+  "cierre": "2026-10-02T15:00:00",
+  "monto": 453590167.0,
+  "moneda": "CLP",
+  "organismo": "DIRECCION GENERAL DE AERONAUTICA CIVIL",
+  "unidad": "UNIDAD DE COMPRA CONTRATOS NACIONALES",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Providencia",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 10.0,
+     "unidad": "Unidad",
+     "detalle": "Switch 48G PoE 4SFP+ (equivalente al modelo JL727B) / Control de Acceso"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 11.0,
+     "unidad": "Unidad",
+     "detalle": "Switch 48G PoE 4SFP+ (equivalente al modelo JL727B) /Aeroportuarios"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Switch 24G PoE 4SFP+(equivalente al modelo JL261A) /Aeroportuario"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 7.0,
+     "unidad": "Unidad",
+     "detalle": "Switch 12G PoE 2SFP+ (equivalente al modelo R8Q72A) /Aeroportuario"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 4.0,
+     "unidad": "Unidad",
+     "detalle": "Access Point Desktop (equivalente al modelo R3V46A) /Control de acceso"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 20.0,
+     "unidad": "Unidad",
+     "detalle": "Access Point\r\n(equivalente al modelo JZ336A) /Control de Acceso"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 11.0,
+     "unidad": "Unidad",
+     "detalle": "Access Point\r\n(equivalente al modelo JZ336A) /Aeroportuarios"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 6.0,
+     "unidad": "Unidad",
+     "detalle": "Access Point Exterior\r\n(equivalente al modelo R7T05A) /Control de Acceso"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 3.0,
+     "unidad": "Unidad",
+     "detalle": "Soporte anclaje para riel cielo falso plano 9/16'' Pack 10 unidades. /Aeroportuarios"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 3.0,
+     "unidad": "Unidad",
+     "detalle": "Soporte anclaje para superficie sólida Pack 10 unidades. /Aeroportuarios"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 10.0,
+     "unidad": "Unidad",
+     "detalle": "Módulo 10G SFP+ LC LR 10km\r\n(equivalente al modelo J9151E) /Control de Acceso"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 10.0,
+     "unidad": "Unidad",
+     "detalle": "Módulo FO (SM) 1G SFP LC LX 10km\r\n(equivalente al modelo J4859D) /Control de Acceso"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 24.0,
+     "unidad": "Unidad",
+     "detalle": "Módulo FO (SM) 1G SFP LC LX 10km (equivalente al modelo J4859D) /Aeroportuarios"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Equipo de protección de enlaces de red frente a ataques DDoS y amenazas avanzadas, actuando directamente en el borde de la red (edge), donde se conectan los enlaces de Internet principal y de respaldo. /Control de Acceso"
+    },
+    {
+     "producto": "Cajas de conmutación de computadores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Accesorios de computador",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Licencia para el funcionamiento del equipo de protección de enlaces de red frente a ataques DDoS y amenazas avanzadas. /Control de Acceso"
+    }
+   ],
+   "items_total": 17,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": "2026-09-25T00:00:00",
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-10-05T15:00:00",
+   "apertura_economica": "2026-10-05T15:00:00",
+   "respuestas": "2026-09-23T23:59:00",
+   "estimada_adjudicacion": "2026-11-26T23:59:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "Conforme presupuesto disponible.",
+   "financiamiento": "DGAC - Recursos Propios",
+   "obras": false,
+   "reclamos_comprador": 204,
+   "contacto": "Javier Pacheco Barahona",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-08-30",
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=GNQU1qc5Qfm3ndOpKMCW1u4zOxorgZQSWSygCdkiM87CmvDPVSRKY7dB5SPZNZ%2fzv0HHz0a5n0O098g%2bnLaTaB7h0FqYLBVKtx%2bpugISaPFIhZoizOHyaIJOSM5Gbz2YZXQxYl4WbslBY5Yigzq1ruDRfI%2fNSeKZjyEpSsL6dPb%2bV1qrwDALedScMM%2f03PbUvyoN%2fT1d1I7LeSzainwG%2bsCA37qwv%2fhc6KyW5hmuUYiex9CRRvHPO9nDzHbwt7Hj0ZC7o5MBN7P5EuI%2bPY3HKsdN4l0PUmAOkMbfoxRfBGLxF324Jx2LGoQfbhhQxJUu"
+ },
+ {
   "codigo": "548874-74-LR26",
   "nombre": "SERV DE PLATAFORMA SIEM NUEVA GENERACIÓN SAAS IPS",
   "descripcion": "E102RT8 - SERVICIO DE PLATAFORMA SIEM DE NUEVA GENERACIÓN EN MODALIDAD SAAS PARA EL INSTITUTO DE PREVISIÓN SOCIAL",
@@ -7247,8 +7247,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=jIs2UcUOP4zMuGF2qQqBvQscgyZ0DYrE%2bb%2fEhcxjpVMSuaoILMIYazcr%2brVJ88V2fGyG1BFoadtyAu1dH39aSJuwTMk8BLb67S4UxCuo7LuQ5G764CiKQPxZAUHLdDFBtKR6s7VKMkV2orH1GImYX7loRIMj3BjICoMRwpHvZxjhAc4QzsGGF7W8pRfYTkva6NIQJ4pofL2ukpQxt1gJMh7cBwSEhKyCzoEC46%2b1ehCeQVLdW4lzqxuhpruBZytzxYctwuOL79llrRR1RpN%2fEaBlEFu2rfdf2h%2bDZThoV5vh%2bsSPVDGOnb48gW72UFHR"
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=ceGfm2Vgujy4yOrzltx8H0pqqUfBz6RT8TMOoD%2fK41RCO1I0zWheURjIWO0WNrOLloK3R%2bQoz2fZFQ%2f7j861ZN%2fUrKKPlmGabB%2fC9XhAYwfIt%2fbdQW9StSWFnmKFEPYz5gZ0LohmztzQ4enlGYDmvxuFV3jZUgjI2KoN61Yp3QqTbcR9sB5fuLn96raSAdTwrINDpBgC6XlWzmcRYCWwG72pQ1YfZuYASXlWSapXRabfQoBbEe6RcZTbWx%2bJDmVDtg13gbUddJZGdsI%2b%2fJO0xUUheBGltl0F5Plc8zEFqICsfr0JoSZk5m7r8HhPRzW%2f"
  },
  {
   "codigo": "188-83-LP26",
@@ -8242,8 +8242,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=8b88evL9HymwKF4epdWjD5CQPjkSilaTfbhPkn0x10bFfh%2fVAiPMuIh2FwdXmUObPvW2QVX4ukEXl58SIbyJfS9ox6BDoruiLrinsEgQx4sOI3RwUcSWsrrBGJ50g41qPYY1Sa7v9k%2bNe%2fZchOBeQBlL0v4U%2f7DVQOgVixBX%2bGuKQaE0tvrFfEIJ1iSxK5suLGv2n%2fiW5ZALYuxPxgkY%2bEpI%2fgIep%2bxLFVfBE05i5o5YhOX6e4b3Nin8QfRuHED4Mu3r%2bJSiDTRZSTLltPjWy%2b80PeHsRTescGS8O8JIsO0zfkxess%2b%2bTXXTM%2bJITvIm"
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=sn7T6RUuLofv5ZLKz4qHNfudkOz%2bW9X3yNXR%2bmNS36H4d7obM7dzswudUynNbUZltMlwmMgpRm7AJVOHQGO%2bg%2b4coBuysF70kRdUD3eAbfkIKbS3Cc9JzHzSepSFSTdiZh7DwBFOktRNTpXT9treUwNDq3tdNto7JKVmskv7jQndqtWy3CmXzMUkM5fxSQqV3saAfS0YpLk%2bWL%2fFXe03XyU90d%2fvKDSPivnVbfPKtJM7IaD0CNvFZvnmC%2fVrIo6dMPVW2CCwVsC3boFxcU%2b8pO1HBOp1%2byQGSw70wkEqfTsym85FdN2ww%2baXXRxV54JI"
  },
  {
   "codigo": "976-15-O126",
@@ -8302,71 +8302,6 @@
   "visto": "2026-08-31",
   "actualizado": "2026-09-14",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=%2fuihXFSp5jMr%2brjaCxhAAB2BmdgNHyghuMXKdCANK1j1Mdi659MyHBQ0iiF28POSv1mcx%2bSOznPHnKwE9wteWvcfXQn%2fy5Zh8n0XIN6rH%2fKFlXq6dPLs%2bImJ2lRb7FxFMeVWfuj4kQSHmaaUMpn7adwGCqCeBOIYb5zkyytINGjqSQfogGZYYcueKIn6s5ZPnTWgCCUMefxIkZ7A0l5vt57cCeG%2bmDljXVsfcm1pm8SSA1GbLMy6JHxxFGLa7T7N9UiPVmJAL08nM0KF%2b7ERlAb0vMSHWgrnSkaXBjE782oJw%2boKswUShH8d8PPNi4tN"
- },
- {
-  "codigo": "5482-101-LR26",
-  "nombre": "Plataforma IA para video y seguridad urbana",
-  "descripcion": "La presente licitación contempla como objetivo general, contratar el suministro,\r\nimplementación, puesta en marcha y soporte continuo de una plataforma de Inteligencia Artificial para analítica de video y gestión inteligente de alertas, que opere sobre la red decámaras yo el sistema VMS ya existentes de la Municipalidad de Ñuñoa.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-09-10T17:31:31.393",
-  "cierre": "2026-10-13T15:01:00",
-  "monto": null,
-  "moneda": "CLF",
-  "organismo": "I MUNICIPALIDAD DE NUNOA",
-  "unidad": "SECPLANUNOA",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Ñuñoa",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de desarrollo de plataforma Web",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo",
-     "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "Setup o configuración inicial del servicio e instalación"
-    },
-    {
-     "producto": "Software de desarrollo de plataforma Web",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo",
-     "cantidad": 26.0,
-     "unidad": "Mes",
-     "detalle": "Servicio mensual (Operación)"
-    }
-   ],
-   "items_total": 2,
-   "etapas": 2,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-10-13T15:02:00",
-   "apertura_economica": "2026-10-13T15:05:00",
-   "respuestas": "2026-09-28T23:59:00",
-   "estimada_adjudicacion": "2026-11-16T17:28:00",
-   "duracion": "26 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
-   "monto_nota": "caracter referencial",
-   "financiamiento": "2026-2029",
-   "obras": false,
-   "reclamos_comprador": 284,
-   "contacto": "Katherinne Ayala",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-09-10",
-  "actualizado": "2026-09-17",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=8yaW0NKjZzXQfukc3owYlyhGfZYiX5O4EXLCI3%2bsKY0Im6f8GkBzLDD%2bz613GpfcIVc3%2bNTA58MLxzx%2fLeAHvpboBb7oLCqphm5a%2fBK7PYWMqvoFwMKjjrodOT6OemXeTuVfTFZffegParSjyvBYNTP%2fsAZeM3j%2fN6xqcZLzsNGG%2bT9KnQxnla30JBkOHDdXwLdZm9TBM8OdH2PQ4kMKV0WWtLFKJdHWvXbB42SaSOkgesVk6mBatgBHmCtYOQZakuE%2fSav%2btz%2b%2fkd8J5JdqBqJ1BE4R%2bxGj1%2bqPmkREfqsZb%2f0jNWM8c44Ouic1Di6e"
  },
  {
   "codigo": "29-81-LP26",
@@ -8483,6 +8418,71 @@
   "visto": "2026-09-12",
   "actualizado": "2026-09-19",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=uZd%2bUJ8z7MmDjC%2b17J2zsut%2fIERXfciZmnin4aKqzLRAX3G%2f2j9Qyqoc3WnwhUsFup0ipWka41uxrajn%2bGamO88xM2rMpeHdM84VS3WGXuxsijk1CfqlVdVsqAF3D1Mf9HxxNdG8UBew4LgN6emrtRI8P8aDSyYgcy7t08sgv1FPkT11bHwBboek6nl0dkOwLnTGmtBBV%2fX6v2T7jaftXXGEEBsi22d8FDlGCeNuv%2b%2fwiIKBVyzDFF7T%2bGx6fmUQ4mFPiW6hWUqnOTHHMit%2fC0BJA%2btCQjb1IuQOnl9xhTjP7mu8GwI2dj8iw3E%2b9T2V"
+ },
+ {
+  "codigo": "5482-101-LR26",
+  "nombre": "Plataforma IA para video y seguridad urbana",
+  "descripcion": "La presente licitación contempla como objetivo general, contratar el suministro,\r\nimplementación, puesta en marcha y soporte continuo de una plataforma de Inteligencia Artificial para analítica de video y gestión inteligente de alertas, que opere sobre la red decámaras yo el sistema VMS ya existentes de la Municipalidad de Ñuñoa.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LR",
+  "publicacion": "2026-09-10T17:31:31.393",
+  "cierre": "2026-10-13T15:01:00",
+  "monto": null,
+  "moneda": "CLF",
+  "organismo": "I MUNICIPALIDAD DE NUNOA",
+  "unidad": "SECPLANUNOA",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Ñuñoa",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de desarrollo de plataforma Web",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo",
+     "cantidad": 1.0,
+     "unidad": "Global",
+     "detalle": "Setup o configuración inicial del servicio e instalación"
+    },
+    {
+     "producto": "Software de desarrollo de plataforma Web",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo",
+     "cantidad": 26.0,
+     "unidad": "Mes",
+     "detalle": "Servicio mensual (Operación)"
+    }
+   ],
+   "items_total": 2,
+   "etapas": 2,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-10-13T15:02:00",
+   "apertura_economica": "2026-10-13T15:05:00",
+   "respuestas": "2026-09-28T23:59:00",
+   "estimada_adjudicacion": "2026-11-16T17:28:00",
+   "duracion": "26 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "caracter referencial",
+   "financiamiento": "2026-2029",
+   "obras": false,
+   "reclamos_comprador": 284,
+   "contacto": "Katherinne Ayala",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-09-10",
+  "actualizado": "2026-09-17",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=8yaW0NKjZzXQfukc3owYlyhGfZYiX5O4EXLCI3%2bsKY0Im6f8GkBzLDD%2bz613GpfcIVc3%2bNTA58MLxzx%2fLeAHvpboBb7oLCqphm5a%2fBK7PYWMqvoFwMKjjrodOT6OemXeTuVfTFZffegParSjyvBYNTP%2fsAZeM3j%2fN6xqcZLzsNGG%2bT9KnQxnla30JBkOHDdXwLdZm9TBM8OdH2PQ4kMKV0WWtLFKJdHWvXbB42SaSOkgesVk6mBatgBHmCtYOQZakuE%2fSav%2btz%2b%2fkd8J5JdqBqJ1BE4R%2bxGj1%2bqPmkREfqsZb%2f0jNWM8c44Ouic1Di6e"
  },
  {
   "codigo": "2760-118-LR26",
@@ -9038,7 +9038,7 @@
    "contacto_fono": ""
   },
   "visto": "2026-08-30",
-  "actualizado": "2026-09-13",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=xjKEEYaV4MlQSwmqYPQOsEYxhAwyGkTRrgoFwxCaNJ11dXpclfrEjH0Fx4D%2by2lQxazOgI9my9jOrEGNf1mYjJ73ThXUfkEAtqIKi95qXui0O0C%2bXzEZ1gsLobZ5r3J4wbCKX12OA2PUO9mpOPP%2fVhOtjlBGxsOPbs4VgLfwASW7gNF8W5755cTPQzQF4c1ZiiV0c1ThAwLYLczAfWRUZV7LOzJPvUh7l%2fqyMr9Y5xds%2bbfoGDqOTnyA6yVZ018x%2fyAW1xtPv5j8%2b%2fwQCr%2fr4atrMjdvUfsx3p%2bSus9Fi8sRday37K1UrWb8mgZyIgu3"
+  "actualizado": "2026-09-20",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=ffhRsVxr4pxrFNDlSLjI1sF%2f6zy2OiLJ1iZNnqbQa%2bT4RunzOZ6GJH3DbI%2fa8ECb7%2bE9zZ1fHjpHLbRVJpgDn5Kp6UvtByiPkxj2urzgd%2f42%2bvkMOM4v5q3bomNsDKEMFlrF4QzdJ2KI2mwtpl9l6KKjmAxj2%2feXgxAvuXU4pdUnd5izeyior4ngbvl4frQtQ9HMeBFgXrtnWTVx9ub376fXB%2bdydJEUhV4f09iC8Bx%2bWLcoiR08Tl9A4XRhuXUgz9C2r%2bOpPH%2fByxRIKOgiZ9yiWh63ZlCQoOO3dw6a7Zr5ywBmg%2f%2bSwKECfdRfqPAX"
  }
 ]
