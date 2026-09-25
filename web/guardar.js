@@ -345,9 +345,22 @@ async function recuperarMarcasGuardadas() {
   for (const codigo of Object.keys(disco.favoritas)) {
     if (!favoritas.has(codigo)) { favoritas.add(codigo); cambio = true; }
   }
+  // El archivo guarda historico, pero las licitaciones que ya cerraron no vuelven:
+  // si no se podan aqui, se reinyectan en cada visita y las cuentas se desordenan.
+  if (licitaciones.length > 0) {
+    const vivos = new Set(licitaciones.map((l) => l.codigo));
+    for (const codigo of [...descartadas]) {
+      if (!vivos.has(codigo)) { descartadas.delete(codigo); cambio = true; }
+    }
+    for (const codigo of [...favoritas]) {
+      if (!vivos.has(codigo)) { favoritas.delete(codigo); cambio = true; }
+    }
+  }
+
   if (cambio) {
     guardarDescartadas();
     guardarFavoritas();
+    guardarMarcasEnDisco();
     pintar();
   }
 }

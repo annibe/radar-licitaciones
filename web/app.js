@@ -46,7 +46,9 @@ function guardarFavoritas() {
     /* modo privado: no se puede guardar */
   }
   const cuenta = el("cuentaFavoritas");
-  if (cuenta) cuenta.textContent = favoritas.size;
+  if (cuenta) {
+    cuenta.textContent = licitaciones.filter((l) => favoritas.has(l.codigo)).length;
+  }
 }
 
 function alternarFavorita(codigo) {
@@ -79,7 +81,10 @@ function guardarDescartadas() {
     /* modo privado: no se puede guardar */
   }
   const cuenta = el("cuentaDescartadas");
-  if (cuenta) cuenta.textContent = descartadas.size;
+  if (cuenta) {
+    // solo las que siguen en la lista de hoy; el conjunto guarda historico
+    cuenta.textContent = licitaciones.filter((l) => descartadas.has(l.codigo)).length;
+  }
 }
 
 function descartar(codigo) {
@@ -501,18 +506,25 @@ function pintar() {
   lista.replaceChildren(...resultado.map(tarjeta));
 
   const viendoDescartadas = controles.verDescartadas.checked;
-  const universo = licitaciones.length - (viendoDescartadas ? 0 : descartadas.size);
+  // Contamos sobre las licitaciones de hoy, no sobre el tamano del conjunto de
+  // marcas: ese acumula codigos de licitaciones que ya cerraron, y restarlos daba
+  // resultados imposibles del tipo "122 de 39".
+  const eliminadasVigentes = licitaciones.filter((l) => descartadas.has(l.codigo)).length;
+  const universo = viendoDescartadas
+    ? eliminadasVigentes
+    : licitaciones.length - eliminadasVigentes;
+
   if (viendoDescartadas) {
     el("conteo").textContent =
       resultado.length + (resultado.length === 1 ? " eliminada" : " eliminadas") +
-      (resultado.length === descartadas.size ? "" : " de " + descartadas.size);
+      (resultado.length === universo ? "" : " de " + universo);
   } else {
     el("conteo").textContent =
       (resultado.length === universo
         ? resultado.length + " licitaciones"
         : resultado.length + " de " + universo + " licitaciones") +
-      (descartadas.size
-        ? " · " + descartadas.size + " eliminada" + (descartadas.size === 1 ? "" : "s")
+      (eliminadasVigentes
+        ? " · " + eliminadasVigentes + " eliminada" + (eliminadasVigentes === 1 ? "" : "s")
         : "");
   }
   el("avisoDescartadas").classList.toggle("oculto", !viendoDescartadas);
