@@ -129,6 +129,7 @@ hace falta podar nada.
 | `monto_min_clp` / `monto_max_clp` | Rango del monto estimado. `null` = sin tope |
 | `regiones` | Lista de regiones; vacío = todo Chile |
 | `ocultar_vencidas` | `true` descarta las de plazo vencido (una de cada seis) |
+| `dias_minimos_para_cierre` | Plazo mínimo que debe quedar para mostrarla. Con `3`, se descartan ~23 de 145: las que cierran en menos de un día y medio |
 | `correo.para` | Destinatario. Vacío en el repositorio: viene del secreto `CORREO_PARA` |
 | `correo.maximo_en_el_correo` | Cuántas se listan en el cuerpo; el resto va en el Excel |
 

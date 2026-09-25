@@ -47,6 +47,7 @@ Abre **`config.json`** con el Bloc de notas. Lo que importa:
 | `monto_min_clp` / `monto_max_clp` | Rango de monto estimado. `null` = sin tope. |
 | `regiones` | Lista de regiones; vacío = todo Chile. |
 | `ocultar_vencidas` | `true` descarta las que ya cerraron. Mercado Público las sigue listando como activas un buen rato después del cierre: una de cada seis. |
+| `dias_minimos_para_cierre` | Cuántos días de plazo te tienen que quedar para que aparezca. Con `3` se van las que cierran mañana o pasado, que no alcanzarías a preparar. `0` las muestra todas. |
 
 No hace falta tocar `pausa_entre_consultas_seg`, `max_detalles_por_corrida` ni
 `refrescar_detalle_cada_dias`: están puestos para no pasarse de las 10.000 consultas

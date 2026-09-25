@@ -92,6 +92,7 @@ def leer_config():
     cfg.setdefault("max_detalles_por_corrida", 600)
     cfg.setdefault("refrescar_detalle_cada_dias", 7)
     cfg.setdefault("ocultar_vencidas", True)
+    cfg.setdefault("dias_minimos_para_cierre", 3)
     return cfg
 
 
@@ -298,6 +299,33 @@ def limpiar(detalle):
     }
 
 
+def dias_hasta_cierre(ficha, ahora):
+    """Dias que faltan para que cierre. None si no hay fecha legible."""
+    cierre = ficha.get("cierre")
+    if not cierre:
+        return None
+    texto = str(cierre).replace("Z", "").split(".")[0]
+    for formato in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"):
+        try:
+            return (datetime.strptime(texto, formato) - ahora).total_seconds() / 86400
+        except ValueError:
+            continue
+    return None
+
+
+def alcanza_a_postular(ficha, ahora, dias_minimos):
+    """Descarta lo que cierra demasiado pronto para preparar una oferta.
+
+    Una licitacion que cierra manana no es una oportunidad: es ruido. El umbral
+    lo fija `dias_minimos_para_cierre` en config.json; 0 lo desactiva.
+    Las que no declaran fecha se conservan, por las dudas.
+    """
+    if not dias_minimos:
+        return True
+    faltan = dias_hasta_cierre(ficha, ahora)
+    return faltan is None or faltan >= dias_minimos
+
+
 def sigue_abierta(ficha, ahora):
     """Si la fecha de cierre ya paso, no es una oportunidad aunque la API la liste.
 
@@ -443,6 +471,16 @@ def main():
         if vencidas:
             log("  descarto " + str(vencidas) +
                 " con plazo vencido (la API las sigue listando como activas)")
+
+    dias_minimos = cfg["dias_minimos_para_cierre"]
+    if dias_minimos:
+        ahora = datetime.now(ZONA_CHILE).replace(tzinfo=None)
+        antes = len(fichas)
+        fichas = [f for f in fichas if alcanza_a_postular(f, ahora, dias_minimos)]
+        apuradas = antes - len(fichas)
+        if apuradas:
+            log("  descarto " + str(apuradas) + " que cierran en menos de " +
+                str(dias_minimos) + " dias: no alcanzarias a preparar la oferta")
     nuevas = [] if primera_vez else [f for f in fichas if f["codigo"] not in anterior]
 
     fichas.sort(key=lambda f: f.get("cierre") or "9999")
