@@ -1,30 +1,30 @@
 [
  {
-  "codigo": "1375758-7-LE26",
-  "nombre": "PLATAFORMA INTEGRAL PARA LA PLANIFICACIÓN CONTROL DE DOTACIÓN ESCOLAR Y GESTIÓN DE SOLICITUDES DE CONTRATACIÓN",
-  "descripcion": "SE REQUEIRE CONTRATAR PLATAFORMA INTEGRAL PARA LA PLANIFICACIÓN, CONTROL DE DOTACIÓN ESCOLAR Y GESTIÓN DE SOLICITUDES DE CONTRATACIÓN, SEGÚN BASES ADJUNTAS, APROBADAS POR RES. EXENTA N°",
+  "codigo": "1098710-30-LE26",
+  "nombre": "LICENCIAS SOFTWARE SLACK BUSINESS+ O EQUIVALENTE",
+  "descripcion": "ADQUISICIÓN DE LICENCIAS DE SOFTWARE SLACK BUSINESS+ O EQUIVALENTE",
   "estado": "Publicada",
   "codigo_estado": "5",
   "tipo": "LE",
-  "publicacion": "2026-10-06T16:01:00",
-  "cierre": "2026-10-26T16:30:00",
-  "monto": null,
+  "publicacion": "2026-10-19T10:39:16.307",
+  "cierre": "2026-10-26T15:00:00",
+  "monto": 38556000.0,
   "moneda": "CLP",
-  "organismo": "SERVICIO LOCAL DE EDUCACIÓN PÚBLICA SANTIAGO CENTRO",
-  "unidad": "NIVEL CENTRAL SLEP SANTIAGO CENTRO P01",
+  "organismo": "SUBSECRETARIA DE CIENCIA, TECNOLOGIA, CONOCIMIENTO E INNOVACION",
+  "unidad": "SUBSECRETARIA DE CIENCIA, TECNOLOGIA, CONOCIMIENTO E INNOVACION",
   "region": "Región Metropolitana de Santiago",
   "comuna": "Santiago",
   "categorias": [
-   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Ingeniería en computación e informática"
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Desarrollo de Aplicaciones de Recursos Empresariales (ERP)",
-     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Ingeniería en computación e informática",
-     "cantidad": 24.0,
-     "unidad": "Mes",
-     "detalle": "CONTRATACIÓN DE “PLATAFORMA INTEGRAL PARA LA PLANIFICACIÓN, CONTROL DE DOTACIÓN ESCOLAR Y GESTIÓN DE SOLICITUDES DE CONTRATACIÓN DEL SLEP SANTIAGO CENTRO”"
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "ADQUISICIÓN DE LICENCIAS DE SOFTWARE SLACK BUSINESS+ O EQUIVALENTE"
     }
    ],
    "items_total": 1,
@@ -35,85 +35,57 @@
    "entrega_antecedentes": null,
    "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-10-26T16:35:00",
-   "apertura_economica": "2026-10-26T16:35:00",
-   "respuestas": "2026-10-19T16:30:00",
-   "estimada_adjudicacion": "2026-11-09T18:00:00",
-   "duracion": "24 meses",
+   "apertura_tecnica": "2026-10-26T15:01:00",
+   "apertura_economica": "2026-10-26T15:01:00",
+   "respuestas": "2026-10-22T23:59:00",
+   "estimada_adjudicacion": "2026-11-02T18:00:00",
+   "duracion": null,
    "renovable": false,
-   "prohibiciones": "",
+   "prohibiciones": "Lo indicado en punto 18 de Res. Ex. N°4632026 que llama a licitación y aprueba Bases Administrativas y Técnicas",
    "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
    "estimacion": "presupuesto disponible",
    "monto_nota": "",
    "financiamiento": "",
    "obras": false,
-   "reclamos_comprador": 0,
-   "contacto": "Christian Rivillo",
+   "reclamos_comprador": 15,
+   "contacto": "Patricio Echenique",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-10-18",
-  "actualizado": "2026-10-18",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=sA6goAkK56PS5JqA5K5qyQI5nnDuHQaU36jViJ8rA%2bRfgPbcfs4p1agKudXkt3KWfzgnGbWaAUsgL%2byTvrMZEqJKCzCBm008h4tgZ1SIybh6H5qVWKYPUTsWx74IdgVf06FrMj%2bUWntwYT9%2fpoxpePPW%2b4l%2fSilA91a7L1mfxrfytIdgLhcZCmkX0Y5pVtND3dzv%2f0XUIjtvcGs4EP32UU7Hmw5RLxeH3jbm7m13yY917mxs8%2bTipWboMasIhtG%2b8QfVQFqtA%2bqYe5CwAz737azDz3iJORoPCq2qERclFKSPZQkRE61LtX1UmWMUWDSY"
+  "visto": "2026-10-19",
+  "actualizado": "2026-10-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=LaLxJEblT%2bVvpWf%2fIUGBouEV06XW4%2bTYxVq2pW8h7duM5GxQXbh8%2f18Hb64yHMWZ8aFLLb4j4MeB2XIT4JUhRY4QBTfIweNGzGpBiUD1AUuxXjbi08Lc14EldlHuckTWHpv%2bprfRBhq%2fMRee0uIK%2bdhMjJleC1sH3KH6feCSGpfTx3YHJiUZtltCvqXxvR%2b2X5gS5jtJ7lOLYaf44dzpEihjxHdb9z6h1tmSPJtMflEnQgZRYTgXCqLtleGl9NY73mhu0jFVEqCW%2fLYu5n1B6oPFNcrduD4RM5SOMgdLe%2bsVPpusJT9hBe32mKsAeSmu"
  },
  {
-  "codigo": "2446-315-LE26",
-  "nombre": "ADQUISICIÓN DE LICENCIAS DE SOFTWARE INSTITUCIONAL",
-  "descripcion": "Se requiere licitar la adquisición de adquisición de licencias de software para gestión audiovisual, soporte tecnológico, análisis de datos e inteligencia artificial, según lo solicitado en las presentes Bases Administrativas y Especificaciones Técnicas.",
+  "codigo": "1216085-67-LE26",
+  "nombre": "Adquis. De licencias de software de reloj control.",
+  "descripcion": "Las presentes Bases Administrativas establecen los requerimientos que regirán la contratación de un Sistema Electrónico de Registro y Control de Asistencia y Determinación de las Horas de Trabajo, destinado a los trabajadores de los establecimientos y dependencias de la Corporación Municipal para el Desarrollo Social de Villa Alemana, con el objeto de disponer de una herramienta que permita efectuar el registro, control, gestión y administración de la asistencia y jornada laboral de manera segura, confiable, íntegra, trazable y oportuna.\r\n\r\nLa contratación comprenderá la provisión de una licencia de software yo plataforma de administración para el sistema de registro y control de asistencia, incluyendo su habilitación, configuración, implementación, parametrización, integración con los relojes biométricos existentes, capacitación, soporte técnico, mantención, actualización y demás servicios necesarios para asegurar la correcta puesta en marcha, operación y continuidad del sistema durante toda la vigencia de la contratación, de acuerdo con las condiciones y especificaciones establecidas en las Bases Técnicas. La contratación no contempla la adquisición de nuevos relojes biométricos.",
   "estado": "Publicada",
   "codigo_estado": "5",
   "tipo": "LE",
-  "publicacion": "2026-10-17T19:20:20.163",
-  "cierre": "2026-11-02T15:01:00",
-  "monto": 19200000.0,
+  "publicacion": "2026-10-14T15:38:00",
+  "cierre": "2026-10-22T15:40:00",
+  "monto": 33613445.0,
   "moneda": "CLP",
-  "organismo": "I MUNICIPALIDAD DE COQUIMBO",
-  "unidad": "IMUNI_COQUIMBO",
-  "region": "Región de Coquimbo ",
-  "comuna": "Coquimbo",
+  "organismo": "CORP MUNICIPAL PARA EL DESARROLLO SOCIAL",
+  "unidad": "Adquisiciones",
+  "region": "Región de Valparaíso ",
+  "comuna": "Villa Alemana",
   "categorias": [
    "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Paquetes de software para oficinas",
+     "producto": "Software de gestión de recursos humanos",
      "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
      "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "LÍNEA 1: Adquisición de licencias de software de diseño y producción audiovisual (Adobe Creative Cloud o equivalente) (INGRESAR VALOR NETO TOTAL)"
-    },
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "LÍNEA N°2: Adquisición de licencias de plataforma de inteligencia artificial conversacional para desarrollo de software (Claude o equivalente) (INGRESAR VALOR NETO TOTAL)"
-    },
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "LÍNEA N°3: Adquisición de licencia de software de escritorio remoto para soporte técnico y administración de equipos institucionales (AnyDesk o equivalente) INGRESAR VALOR NETO TOTAL"
-    },
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "LÍNEA N°4: Adquisición licencia de software de visualización de datos, analítica e inteligencia de negocios (Power BI o equivalente) INGRESAR VALOR NETO TOTAL"
-    },
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "LÍNEA N°5: Adquisición de licenciamiento de software de generación de imágenes y videos con inteligencia artificial (Runway o equivalente). INGRESAR VALOR NETO TOTAL"
+     "unidad": "Unidad",
+     "detalle": "adquisición de licencias de software de reloj control."
     }
    ],
-   "items_total": 5,
+   "items_total": 1,
    "etapas": 1,
    "toma_razon": false,
    "visita_terreno": null,
@@ -121,167 +93,243 @@
    "entrega_antecedentes": null,
    "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-02T15:02:00",
-   "apertura_economica": "2026-11-02T15:02:00",
-   "respuestas": "2026-10-28T23:59:00",
-   "estimada_adjudicacion": "2026-12-07T23:59:00",
-   "duracion": "7 días",
+   "apertura_tecnica": "2026-10-22T15:41:00",
+   "apertura_economica": "2026-10-22T15:41:00",
+   "respuestas": "2026-10-16T18:00:00",
+   "estimada_adjudicacion": "2026-10-30T15:41:00",
+   "duracion": "24 meses",
+   "renovable": false,
+   "prohibiciones": "Queda expresamente prohibido al adjudicatario subcontratar, ceder o encomendar a terceros el cumplimiento total o parcial de las obligaciones principales derivadas de la presente contratación.\r\nSin perjuicio de lo anterior, el adjudicatario podrá recurri",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "Percápita u otras fuentes de financiamiento.",
+   "obras": false,
+   "reclamos_comprador": 29,
+   "contacto": "Matias Ignacio Ibaceta Estay",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-10-19",
+  "actualizado": "2026-10-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=Q%2fnrJxNpc7E5HD4QTfLeOwEvmK3TLleDD1ess977KvNA5Oi4ILdGhRWg%2fWEffPTjXA7AuZSIItrWg%2f4QzLA31q%2fuXH1irMahW1jAp1spN6qNXNle5lFLvraj099a2L9joqrMca5Z7yLj%2bZLdoq2g2RnBaCDks0YLDlAFxatQEs2YjwhgU0%2fmorOpQcEw3tFpY4zH7cKqML%2bHtjNCVaqM5smQGZ1xOs9MCtoInxYFJVfb7R0pHejrrUH2JH161XXTwN2XgUOfkv75lmNKQmLWhqyKoDK8TgHNr%2bEObFwhfDfNN%2fr2IIa4it7gaqIruawH"
+ },
+ {
+  "codigo": "2429-21-LE26",
+  "nombre": "ADQUISICIÓN DE LICENCIAS DE SOFTWARE DE ANTIVIRUS",
+  "descripcion": "ADQUISICIÓN DE LICENCIAS DE SOFWARE DE ANTIVIRUS (EDR) CON ADMINISTRACIÓN\r\nCENTRALIZADA",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-10-19T13:12:07.583",
+  "cierre": "2026-10-26T15:00:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "I MUNICIPALIDAD DE ANTOFAGASTA",
+  "unidad": "I MUNICIPALIDAD DE ANTOFAGASTA - FINANZAS",
+  "region": "Región de Antofagasta ",
+  "comuna": "Antofagasta",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de seguridad y protección"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de protección antivirus y de seguridad de transacciones",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de seguridad y protección",
+     "cantidad": 1.0,
+     "unidad": "Global",
+     "detalle": "LICENCIAS DE SOFTWARE DE ANTIVIRUS TS\r\n(EDR) CON ADMINISTRACIÓN CENTRALIZADA"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-10-27T10:05:00",
+   "apertura_economica": "2026-10-27T10:05:00",
+   "respuestas": "2026-10-22T18:00:00",
+   "estimada_adjudicacion": "2026-12-09T18:00:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "SEGUN BASES ADMINISTRATIVAS",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "PRESUPUESTO VIGENTE",
+   "financiamiento": "29.07.001",
+   "obras": false,
+   "reclamos_comprador": 307,
+   "contacto": "SMILKA KOVACEVIC",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-10-19",
+  "actualizado": "2026-10-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=Bq0Kgy7NxP6xjpqIavpfh6e3VX6wluCqK%2bLM5aqMY7T4j%2fZ%2bF6EvLqF7wQt9XWxonrVl8BBoYv5hzx6GcDomlZWtoFRGNqcWestvODwmYlhrH2lL4wFkh1iItsGiM7ScOvNkY%2fA729MGzmvF97Ym2y5%2fq06Npr7FFii40zNoChO2ANxbCvW%2fu8H0OQ1MPlN2%2fQgt3SSNDNaVqJCtDe5cxgCL6%2fb8EvBJGqrEHI%2bIZ1cyIvH3nFORIeRiW5wxONSDtG%2b4fpdm0SYJ2uF%2fd2LFrTuq0sljMU3gJOQ83w4qWtTgIQrHwSvlpoL8aai5R8SF"
+ },
+ {
+  "codigo": "4160-22-LP26",
+  "nombre": "SERVICIO DE INTERNET VOZ Y DATOS",
+  "descripcion": "La Municipalidad de Hualpén, RUT 69.264.400-K, representada por su Alcalde Miguel Rivera Morales, mediante las siguientes Bases Administrativas y Especificaciones Técnicas fija los procedimientos y términos que regulan la presente Licitación Pública, cuyo objetivo es la contratación del “SERVICIO DE INTERNET, VOZ Y DATOS PARA LA MUNICIPALIDAD DE HUALPÉN”, para lo cual se deberá considerar un plazo de prestación del servicio de 36 meses corridos.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-10-19T10:15:42.22",
+  "cierre": "2026-11-10T14:00:00",
+  "monto": null,
+  "moneda": "CLF",
+  "organismo": "MUNICIPALIDAD DE HUALPEN",
+  "unidad": "Secplan",
+  "region": "Región del Biobío ",
+  "comuna": "Hualpén",
+  "categorias": [
+   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Servicios para internet"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Proveedores de servicio de Internet (ISP)",
+     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Servicios para internet",
+     "cantidad": 36.0,
+     "unidad": "Mes",
+     "detalle": "La Municipalidad de Hualpén, RUT 69.264.400-K, representada por su Alcalde Miguel Rivera Morales, mediante las siguientes Bases Administrativas y Especificaciones Técnicas fija los procedimientos y términos que regulan la presente Licitación Pública, cuyo"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-10T14:30:00",
+   "apertura_economica": "2026-11-10T14:30:00",
+   "respuestas": "2026-10-30T18:00:00",
+   "estimada_adjudicacion": "2027-01-15T15:10:00",
+   "duracion": "36 meses",
    "renovable": false,
    "prohibiciones": "",
    "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
    "estimacion": "presupuesto disponible",
    "monto_nota": "",
-   "financiamiento": "Municipal",
+   "financiamiento": "MUNICIPAL",
    "obras": false,
-   "reclamos_comprador": 4071,
-   "contacto": "Felipe Alegre Monroy",
+   "reclamos_comprador": 277,
+   "contacto": "RENE IBAÑEZ RETAMAL",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-10-18",
-  "actualizado": "2026-10-18",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=tRGJ8U%2fm6tU8rqlDj2VDfRb6kaLDZ4jza%2ff6bBQOLmyxZPBjb1OAYBYEIVYY4bqgUYkGDNvULB5%2fZt%2bSu1Q%2bVd5LNLINbrLZabGeAKoy6xeOeQACROgT851Spu%2b2zVoI3JyEZuyzpomRjIDadVdo%2f8INFSOyPGLbftPT9NgyE339o4r0IyZm6uhbmjecipey76SHoMNIUQ3VoAijgbCmelAnVvK2tJKT2x5%2fv34tkSi5R8LsJ1JLu%2f%2buHyrgaFV8gdXeXMQrhGn%2fnjO0GB%2fmcn9lVpUKFQ2wtcqjAnFQCzSAnTH8xkJLxDYZdZOY2%2fFG"
+  "visto": "2026-10-19",
+  "actualizado": "2026-10-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=xYU%2bFf8%2bLDu4bcRRxdxBpDZaOd%2bcxbkE6ohqFMkOCA34wfmP7Sy5c%2fIUv6yqyqz1QDqaB1r%2f%2fHYuuzjjLAqfY11tWC3ZF5G5Ll7TBuim5nJN%2bz%2bZ9zdtNmj7GP2K7Cqcs1gwA2ISy4PjMAydELzozKxZH12aB5RdGMS9MTUvPP4WlOGdsKk%2b37C0ISAVj%2bDVwR1d1LBrVqhgBhbcAH4dW2iHAuaEgeVRkYkZkpv7YPH2ChPWW6U%2fFsTRYsUVj0doRXPtClT4msbhguMiolcK%2bdsgblILa10U5tfz7bKIOxHvRyv2uniSLzmiMQTqKJmi"
  },
  {
-  "codigo": "2563-43-LP26",
-  "nombre": "Adquisición de cámaras IA y radares de seguridad",
-  "descripcion": "adquisición, modalidad “llave en mano”, de cámaras  de videovigilancia con inteligencia artificial (IA) y radares de seguridad para el aeródromo El Loa de Calama, compuesta por grabador de video en red, servidor de gestión de video, discos duros, videowall, licencia, y demás elementos, componentes, y servicios asociados.",
+  "codigo": "5482-94-LP26",
+  "nombre": "SERVICIO DE ARRIENDO MANTENCIÓN Y SOPORTE DE PLATAFORMA DOM",
+  "descripcion": "contratar una solución tecnológica integral que permita la implementación,\r\nparametrización, operación, soporte, mantención y alojamiento de un sistema\r\ninformático especializado para la Dirección de Obras Municipales de Ñuñoa (en\r\nadelante DOM).",
   "estado": "Publicada",
   "codigo_estado": "5",
   "tipo": "LP",
-  "publicacion": "2026-09-28T12:55:00",
-  "cierre": "2026-10-26T15:00:00",
-  "monto": 192000000.0,
+  "publicacion": "2026-10-05T10:03:00",
+  "cierre": "2026-10-27T10:00:00",
+  "monto": null,
   "moneda": "CLP",
-  "organismo": "DIRECCION GENERAL DE AERONAUTICA CIVIL",
-  "unidad": "UNIDAD DE COMPRA CONTRATOS NACIONALES",
+  "organismo": "I MUNICIPALIDAD DE NUNOA",
+  "unidad": "SECPLANUNOA",
   "region": "Región Metropolitana de Santiago",
-  "comuna": "Providencia",
+  "comuna": "Ñuñoa",
   "categorias": [
-   "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección"
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 2.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 1, A.- Radar de Seguridad: \r\n\r\nRadar de seguridad para la detección, localización y seguimiento de objetivos, conforme a las especificaciones técnicas y funcionales establecidas en las presentes bases técnicas, de referencia STS-BG24X-L3/P o equivale"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 2.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 1, B.- Licencia: Licenciamiento para la integración, administración y operación de los radares de seguridad en el sistema de gestión de video (VMS), teniendo como referencia HikCentral-P-Radar-1Unit o equivalente de otras marcas o fabricantes que per"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "producto": "Software de desarrollo de plataforma Web",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Programas de desarrollo",
      "cantidad": 1.0,
      "unidad": "Unidad",
-     "detalle": "ítem 2: Servidor de gestión de video."
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 2.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 3, A.- Cámara de videovigilancia: Cámara IP con funcionalidad de reconocimiento automático de placas patentes (ANPR)teniendo como referencia iDS-TCM403-B(G)/POE/2812 o equivalente de otras marcas o fabricantes que cumplan íntegramente las especificac"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 2.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 3, B.- Licencia: Licenciamiento para habilitar la integración, gestión y operación de las cámaras con funcionalidad ANPR en el sistema de gestión de video (VMS), , teniendo como referencia  HikCentral-P-VSS-1Ch/ANPR o equivalente de otras marcas o fa"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 6.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 4, A.- Cámara de videovigilancia: Cámara IP con capacidad de reconocimiento facial, teniendo como referencia iDS-2CD7A46G2-IZHS o equivalente de otras marcas o fabricantes que cumplan íntegramente las especificaciones técnicas y funcionales estableci"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 6.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 4, B.- Licencia: Licenciamiento para habilitar la funcionalidad de reconocimiento facial de las 6 cámaras a instalar en el sistema de gestión de video (VMS),, teniendo como referencia HikCentral P-AcuSeek-1Ch/RealTime&Search o equivalente de otras ma"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 5, A.-Grabador de video: Grabador de vídeo en red (NVR), destinado a la grabación, almacenamiento, gestión y reproducción de las señales de video de la solución, teniendo como modelo de referencia iDS-9664NXI-M16/X o equivalente de otras marcas o fab"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 8.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 5, B.- Disco duro: B.- De 10 TB, 7200 RPM, 3.5”, SATA, apto para sistemas de videovigilancia y operación continua 24/7, teniendo como modelo de referencia  WUS721010ALE6L4, o equivalente de otras marcas o fabricantes que cumplan íntegramente las espe"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 6, A.-Videowall Licencia: A.- Licencia necesaria para habilitar la gestión, configuración y operación del módulo de videowall para VMS, teniendo como referencia HikCentral-P-SmartWall/Module o equivalente de otras marcas o fabricantes que permitan cu"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 6, B.-Videowall Licencia: Licencia para VMS, que permita habilitar y mantener operativo los canales requeridos y demás funcionalidades señaladas en las presentes bases, teniendo como referencia  HikCentral-P-Maintenance-16 Ch/Base /Promo) o equivalen"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 2.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 6, C.- Videowall: C.- Pantalla LCD 46”, teniendo como modelo de referencia DS-D2046TL-2B o equivalente de otras marcas o fabricantes que cumpla íntegramente las especificaciones técnicas y funcionales establecidas en las presentes bases técnicas."
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 2.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 6, D.- Videowall: Sistema de soporte y anclaje para monitor 46” compatible con la pantalla ofertada y adecuado a las condiciones del lugar de instalación, teniendo como modelo de referencia  DP-D2X46XXX-1X1 o equivalente de otras marcas o fabricantes"
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 2.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 6, E.- Videowall: Decodificador 4K,teniendo como modelo de referencia DS-6908UDI o equivalente de otras marcas o fabricantes que cumpla íntegramente las especificaciones técnicas y funcionales establecidas en las presentes Bases Técnicas."
-    },
-    {
-     "producto": "Cámaras de seguridad",
-     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Ítem 6, F.-Videowall:  F.- Control IP PTZ Joystick  para la gestión y operación de las cámaras de videovigilancia, compatible con el VMS HikCentral de propiedad de la DGAC, teniendo como modelo de referencia  DS-1600KI o equivalente de otras marcas o fabr"
+     "detalle": "contratar una solución tecnológica integral que permita la implementación,\r\nparametrización, operación, soporte, mantención y alojamiento de un sistema\r\ninformático especializado para la Dirección de Obras Municipales de Ñuñoa (en\r\nadelante DOM)."
     }
    ],
-   "items_total": 16,
+   "items_total": 1,
    "etapas": 1,
    "toma_razon": false,
    "visita_terreno": null,
    "direccion_visita": "",
    "entrega_antecedentes": null,
-   "soporte_fisico": "2026-10-26T00:00:00",
+   "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-10-27T15:00:00",
-   "apertura_economica": "2026-10-27T15:00:00",
-   "respuestas": "2026-10-20T23:59:00",
-   "estimada_adjudicacion": "2026-11-26T23:59:00",
-   "duracion": null,
+   "apertura_tecnica": "2026-10-27T10:01:00",
+   "apertura_economica": "2026-10-27T10:01:00",
+   "respuestas": "2026-10-21T20:00:00",
+   "estimada_adjudicacion": "2026-11-30T18:37:00",
+   "duracion": "36 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "MUNICIPAL",
+   "obras": false,
+   "reclamos_comprador": 284,
+   "contacto": "Katherine Ayala",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-10-19",
+  "actualizado": "2026-10-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=YZXL%2fxsaOjOEgo3UTxxP28wXplSJrVx%2fmnTTlmXSekwHsuw9ateEDn1aV%2fK9An4Z%2fV1mZ3KBS2WzAE1uL%2bWRLql0K0aWt6bng4Kk5C6JKAyinxs%2fzjxypCsajJbPdd3PIpTykNwTbdEM1N3GPfgsre3giuRjylMGeHIb2K98ZRXbKNGAqloXF4XM68%2bq4hTLKlQF2SLVyikRCXawUIWhbulVSTGAxW%2f1Rb3DIHXJOyajRyTSU0zbZhppOOK3IeVUMyqHCT0QrX2mQi%2biMC1VI6WVTabmaEQRf%2b3eX0xKhNeEW4so03EmvgROSrBFbSDC"
+ },
+ {
+  "codigo": "619-13-LP26",
+  "nombre": "Suscripción de licencias IA generativa Claude.",
+  "descripcion": "La Subsecretaría de Hacienda requiere contratar la suscripción de 124 licencias anuales de inteligencia artificial generativa Claude, equivalente o superior, distribuidas en 47 licencias Premium y 77 licencias Standard, por un período de 12 meses, destinadas a apoyar las labores técnicas y mejorar la productividad de los equipos institucionales, conforme a las especificaciones establecidas en las bases de licitación.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-10-19T12:06:21.777",
+  "cierre": "2026-11-09T15:00:00",
+  "monto": 105000000.0,
+  "moneda": "CLP",
+  "organismo": "SUBSECRETARIA DEL MINISTERIO DE HACIENDA",
+  "unidad": "SUBSECRETARIA DEL MINISTERIO DE HACIENDA",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Santiago",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 1.0,
+     "unidad": "Unidad no definida",
+     "detalle": "124 licencias de IA generativa Claude o equivalente: 47 Premium y 77 Standard, con vigencia de 12 meses."
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-09T15:01:00",
+   "apertura_economica": "2026-11-09T15:01:00",
+   "respuestas": "2026-11-02T18:00:00",
+   "estimada_adjudicacion": "2026-12-07T23:00:00",
+   "duracion": "13 meses",
    "renovable": false,
    "prohibiciones": "",
    "extension_plazo": false,
@@ -290,71 +338,13 @@
    "monto_nota": "",
    "financiamiento": "",
    "obras": false,
-   "reclamos_comprador": 206,
-   "contacto": "Javier Pacheco",
+   "reclamos_comprador": 11,
+   "contacto": "Óscar Escobar",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-10-18",
-  "actualizado": "2026-10-18",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=YVqLq69%2fWvvQff4DdAMrWxtVHc0zOGetROkhDZZuqGSS8SMqtzDncehrUW6o81ZjyHloZntkMfmHzYIxwIAq1g2GSqcT1RYarkRtcS8BdmrrdecXwTYLS3tEQ5HP8duYoyRve8a4ew9974nJ6P1ciFPGJnS1PA0nPOaUSEfLmZ3gKrNTLopRy7%2b%2fyT8U7bCL3pJB2p%2f8UiWjcvLKEPKVAlVkKBIxY60sptWN6gpGQbqRhpMZJODF6tLmsESKL4IGUNcIC08BeF8sSFMQbqoJhRPg45EwkZzu6ptJtKbWP%2bXc%2f4%2bIBr%2f1EvjSqGcjlkOc"
- },
- {
-  "codigo": "869591-12-LP26",
-  "nombre": "CONTRATACIÓN DE PLATAFORMA DE GESTIÓN DOCUMENTAL EXPEDIENTE ELECTRÓNICO Y GESTIÓN DE PROCESOS",
-  "descripcion": "CONTRATACIÓN DE PLATAFORMA DE GESTIÓN DOCUMENTAL, EXPEDIENTE ELECTRÓNICO Y GESTIÓN DE PROCESOS PARA LA DIRECCIÓN DE COMPRAS Y CONTRATACIÓN PÚBLICA",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-09-15T14:35:00",
-  "cierre": "2026-10-22T15:00:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "DIRECCION DE COMPRAS Y CONTRATACION PUBLICA",
-  "unidad": "Calidad del Gasto en las Compras Públicas",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Santiago Centro",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión de contenidos"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Programas de gestión de documentos",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión de contenidos",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "CONTRATACIÓN DE PLATAFORMA DE GESTIÓN DOCUMENTAL, EXPEDIENTE ELECTRÓNICO Y GESTIÓN DE PROCESOS PARA LA DIRECCIÓN DE COMPRAS Y CONTRATACIÓN PÚBLICA"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-10-22T15:30:00",
-   "apertura_economica": "2026-10-22T15:30:00",
-   "respuestas": "2026-10-01T18:00:00",
-   "estimada_adjudicacion": "2026-11-19T18:00:00",
-   "duracion": "44 meses",
-   "renovable": false,
-   "prohibiciones": "ver clausula 10 de las bases especiales",
-   "extension_plazo": true,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 72,
-   "contacto": "Marcela Cabrera",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-10-18",
-  "actualizado": "2026-10-18",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=DjxTNboYWsDGHOqki72H5lLSvRJj1T6X6L7Qo%2bPNvbbnNjAbXWZ588A%2bxDU5I5NYoGlRSl3SUvW5b5mWqq8jmRkoQpmJOttLbj9sENi3iyOeURcZa68GEOpKDZpus2MIyUS6SLyuMirveOh3hkOwYqHxBAJ8oOZPzKEDlixtwWkha%2fctswlBYwAb4yuVBTnhJw%2fRPOMpfeYg0DIt0H%2bNw3yspkHqyCKn%2fZPFJc8C3DAd34uUTpJu4ahgWVJxPlRtNFyWIXKGF8g7CpUJuXnsAtnmpd5WjXJ1iZVTORtIzHzQkG62mMNT3Z098Gj6%2fQHV"
+  "visto": "2026-10-19",
+  "actualizado": "2026-10-19",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=SPbwSIDkkiPy1fumkPbZb%2bHAmMULnqExxbwIgi5b5tXXRWISKCkpAzQGM6zqL%2f3%2bfvp2Ri1q8eZrXXdo6Q8Cl4sdi7c1NrUa8eEW56Jzls24K2rp%2f8K5BruHoqh2PMawP1dlOLFzchY6dH%2bUzi5Pqg9N44Ck58WPBZsAA3mR91%2bhco%2f095EIZ13Orzj4ABI3%2feDDdfEKOjHkbmg2dXTUHtR25Xa3NxAJMNzNE95Ni7W56AdpltEv0vWzpuWslC0TWBqwlXfCKeSjF0qEAp3%2b9pCUhRf5Y505PI81AJUDrE0q2Xa5uPUoHqQQC0Uifxa1"
  }
 ]
