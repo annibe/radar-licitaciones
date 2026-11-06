@@ -15,7 +15,7 @@ para consultarlas. Corre en GitHub Actions: **no necesita ningún computador enc
 | Pieza | Dónde corre | Qué hace |
 |---|---|---|
 | **Robot diario** | GitHub Actions | Barre ~4.700 licitaciones vigentes, filtra, compara con la foto de ayer y publica |
-| **Correo** | GitHub Actions | Solo las nuevas, con Excel de 3 hojas adjunto. Si no hay nada nuevo, no escribe |
+| **Correo** | GitHub Actions | **Apagado desde el 06-11-2026** (`correo.activo: false`). El Excel se sigue generando para la web |
 | **Web** | GitHub Pages | Filtros, cuadro de requerimientos, likes, eliminadas, descargas |
 | **Guardar en carpeta** | Navegador (Chrome/Edge) | Crea una carpeta por licitación en OneDrive con ficha, datos y notas |
 | **Organizador de anexos** | Computador local | Archiva los adjuntos descargados en la carpeta de cada licitación |
@@ -60,10 +60,11 @@ No hay que instalar nada: abre la web publicada. Funciona en cualquier navegador
    **marca "Add python.exe to PATH"**; sin eso el `.cmd` no encuentra Python.
 3. **Doble clic en `Organizador de anexos.cmd`**. La primera vez pide elegir la carpeta
    compartida (la de OneDrive donde se guardan las licitaciones) y la recuerda.
-4. Para que arranque solo y se recupere si lo cierran: una tarea programada de Windows
-   con dos disparadores, al iniciar sesión y cada 10 minutos (`Register-ScheduledTask`,
-   `MultipleInstances IgnoreNew`). Un candado con `msvcrt.locking` impide que corran dos
-   instancias a la vez, así que el disparador repetido es inofensivo.
+4. **No lo dejes arrancando solo.** Se probó con acceso directo en `shell:startup` y con
+   una tarea programada cada 10 minutos, y Ana pidió quitar ambos el 06-11-2026: la
+   tarea hacía parpadear una consola negra cada 10 minutos mientras trabajaba. Se abre
+   a mano desde el acceso directo del Escritorio, solo cuando va a descargar anexos.
+   Un candado con `msvcrt.locking` evita dos instancias.
 5. Archiva lo descargado hasta 2 horas después de apretar «Guardar y abrir anexos»,
    aunque el organizador se haya abierto después de la descarga.
 

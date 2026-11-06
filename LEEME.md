@@ -262,9 +262,10 @@ Por eso el flujo es asistido:
 
 ## El Organizador de anexos
 
-**Arranca solo** al iniciar sesion y, si alguna vez se cierra, **vuelve solo en menos
-de 10 minutos**: lo vigila una tarea programada de Windows ("Organizador de anexos").
-Corre minimizado en la barra de tareas. Si intentas abrir un segundo, se retira solo.
+**Se abre solo cuando lo necesitas**: doble clic en el acceso directo **Organizador de
+anexos** del Escritorio, antes de ponerte a descargar anexos. Al terminar, cierras la
+ventana. No arranca con Windows ni queda vigilando en segundo plano — asi no molesta
+mientras trabajas en otra cosa. Si intentas abrir un segundo, se retira solo.
 
 Ojo con el orden: aprieta **Guardar y abrir anexos** (o el boton de bases) **antes** de
 descargar. Lo que bajes antes de apretar el boton no sabe a que licitacion pertenece.

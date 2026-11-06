@@ -16,6 +16,7 @@ Se cierra con Ctrl+C o cerrando la ventana.
 """
 
 import json
+import os
 import re
 import zipfile
 import hashlib
@@ -44,7 +45,8 @@ INTENTOS_MAX = 45         # ~3 minutos: los PDF grandes tardan en pasar el antiv
 VENTANA_MINUTOS = 120     # cuanto rato despues de la marca seguimos archivando.
                           # Generoso a proposito: el validador de origen ya impide
                           # que se archive algo que no venga de Mercado Publico.
-PAUSA_SEG = 4
+PAUSA_ACTIVA_SEG = 4      # mientras hay una ventana de descarga abierta
+PAUSA_REPOSO_SEG = 20     # el resto del tiempo: nada que vigilar, no gastes disco
 
 
 def log(mensaje):
@@ -310,10 +312,12 @@ def main():
     esperando = {}
     por_borrar = set()
 
+    en_reposo = True
     while True:
-        time.sleep(PAUSA_SEG)
+        time.sleep(PAUSA_REPOSO_SEG if en_reposo else PAUSA_ACTIVA_SEG)
         marca = leer_marca(compartida)
         if not marca:
+            en_reposo = True
             continue
 
         if marca.get("momento") != (marca_anterior or {}).get("momento"):
@@ -322,13 +326,14 @@ def main():
             # Solo ignoramos lo descargado ANTES de apretar "Guardar y abrir anexos".
             # Asi, si el organizador se abre despues de la descarga, igual la toma:
             # lo que importa es cuando se bajo el archivo, no cuando arranco esto.
-            limite = marca["desde"] - 60          # un minuto de tolerancia
             ya_vistos = {a.name for a in DESCARGAS.iterdir()
                          if a.is_file() and a.stat().st_mtime < limite}
             esperando = {}
 
         if datetime.now().timestamp() - marca["desde"] > VENTANA_MINUTOS * 60:
+            en_reposo = True
             continue
+        en_reposo = False
 
         for original in list(por_borrar):
             try:
@@ -340,12 +345,23 @@ def main():
             except OSError:
                 pass                      # sigue tomado; lo intentamos de nuevo
 
+        limite = marca["desde"] - 60          # un minuto de tolerancia
         destino = compartida / marca["carpeta"] / "anexos"
-        for archivo in DESCARGAS.iterdir():
-            if not archivo.is_file() or archivo.name in ya_vistos:
+        # os.scandir trae el tipo y la fecha en la misma pasada del directorio, y
+        # descartamos por fecha antes de tocar el archivo: con 1.100 archivos en
+        # Descargas, mirarlos todos de verdad cada pocos segundos es mucho disco
+        # para nada.
+        for entrada in os.scandir(DESCARGAS):
+            if not entrada.is_file() or entrada.name in ya_vistos:
                 continue
-            if archivo.suffix.lower() not in UTILES:
+            if Path(entrada.name).suffix.lower() not in UTILES:
                 continue
+            try:
+                if entrada.stat().st_mtime < limite:
+                    continue                   # ya estaba ahi antes de la marca
+            except OSError:
+                continue
+            archivo = Path(entrada.path)
             valido, de_donde = viene_de_mercado_publico(archivo)
             if not valido:
                 ya_vistos.add(archivo.name)      # no volvemos a mirarlo
