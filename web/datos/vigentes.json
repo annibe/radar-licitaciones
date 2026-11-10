@@ -1,272 +1,5 @@
 [
  {
-  "codigo": "1867-54-LE26",
-  "nombre": "Servicio de Administración y Soporte Base de Datos",
-  "descripcion": "Contratación de Servicio de Administración y Soporte Base de Datos Informix para uso de la DGMN.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-10-30T12:18:37.62",
-  "cierre": "2026-11-12T17:30:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "DIRECCION GENERAL DE MOVILIZACIONN NACIONAL",
-  "unidad": "DIRECCION GENERAL DE MOVILIZACIONN NACIONAL",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Santiago Centro",
-  "categorias": [
-   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Administración de sistemas"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Mantenimiento y soporte de hardware",
-     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Administración de sistemas",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Servicio de Administración y Soporte Base de Datos Informix"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-12T17:31:00",
-   "apertura_economica": "2026-11-12T17:31:00",
-   "respuestas": "2026-11-09T18:00:00",
-   "estimada_adjudicacion": "2026-11-26T18:00:00",
-   "duracion": "12 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "Presupuesto maximo disponible",
-   "financiamiento": "Presupuesto disponible",
-   "obras": false,
-   "reclamos_comprador": 7,
-   "contacto": "Director General de Movilización Nacional.",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-10-30",
-  "actualizado": "2026-11-06",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=OdezZvx%2bqHwyA2B6qTMPcwO4VwZJwWy0MUvH1tDcBTGU0MvhIICB%2bajcDMzgyAdCZvczFLDvROKMmthhmGojuD4khzLYI8CXsGUPgEZrfwtOD4ngzINo7OIguqeBcgfeqRBncEBUdpb%2bslHaXWCnpDxte%2bw748D%2b8bhoM3tyWewePdfnBPt6scUkOsdEG1jmOpqaPSXrNZx4DnMr%2bs3rCM5tWXe%2bjgRkyqNeXA2qsTl9x0Q4ydQExOJ2GzkHbQuhwaXlqWPJrOBbNjSEi%2bpk4sCzBEyAE3jM74Nwzgv3%2fL8QwTxxC9nz0sGP%2fAIqgXwZ"
- },
- {
-  "codigo": "976-18-O126",
-  "nombre": "ATIF Ampliación Plataformas Comercial y General Ad. El Loa",
-  "descripcion": "ESTA DIRECCIÓN NECESITA CONTRATAR ASESORÍA TECNICA DE INSPECCIÓN FISCAL PARA EL CONTRATO DE OBRA AMPLICACION PLATAFORMAS COMERCIAL Y GENERAL AERÓDROMO EL LOA",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "O1",
-  "publicacion": "2026-09-25T09:09:00",
-  "cierre": "2026-11-13T11:00:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-  "unidad": "Dirección de Aeropuertos - MOPTT",
-  "region": "Región de Antofagasta ",
-  "comuna": "Santiago",
-  "categorias": [
-   "Consultoria / Consultoria / Planificación y Factibilidad"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Licitación Pública de Consultoria",
-     "categoria": "Consultoria / Consultoria / Planificación y Factibilidad",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Licitación Pública de Consultoria"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 2,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-13T11:01:00",
-   "apertura_economica": "2026-11-27T11:00:00",
-   "respuestas": "2026-10-09T08:00:00",
-   "estimada_adjudicacion": "2026-12-17T17:00:00",
-   "duracion": null,
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": null,
-   "estimacion": null,
-   "monto_nota": "",
-   "financiamiento": "Sectorial",
-   "obras": false,
-   "reclamos_comprador": 36,
-   "contacto": "",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-10-28",
-  "actualizado": "2026-11-04",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=lRxHAjZvfs5wphY4jznulZ8MMsv0BKSJv0r7nJtOSUI%2beWGffJJ5Ty%2bkqaIO4QuKhoVgrl7ZiQoxhz%2bhzkf2y%2bsDbfg7xzc%2fChpl4UT9Y0TNWCTPXrJUhaii%2fGYk%2b6ZSmRxPCI3faYNl0K%2fGyopPFgwL14B3ug9lqyW024EaRy5OJG00qGU97wMLzLz8SYHSWjOE8SoOmO47rqd2HaQ9VV%2fgQDDhNF5b9pj%2fqBReHU899Bilyk3tgEbcTluOkWL7XGsaHLL1LaqN2EJNeOg2IyuQQqIpcNiQZZ0BMW%2bew4siGgTx1VS9Kn1xO3j16Z3V"
- },
- {
-  "codigo": "1725-236-LE26",
-  "nombre": "ADQUISICIÓN  DE LICENCIAS DE SOFTWARE",
-  "descripcion": "APRUEBA  BASES  ADMINISTRATIVAS  Y  TÉCNICAS  DE LICITACIÓN  PÚBLICA  PARA  LA  ADQUISICIÓN  DE LICENCIAS DE SOFTWARE PARA LA SUBSECRETARÍA DE LAS CULTURAS Y LAS ARTES.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-11-02T18:00:15.863",
-  "cierre": "2026-11-13T12:00:00",
-  "monto": 56000000.0,
-  "moneda": "CLP",
-  "organismo": "SUBSECRETARÍA DE LAS CULTURAS Y LAS ARTES",
-  "unidad": "SUBSECRETARIA DE LAS CULTURAS Y LAS ARTES",
-  "region": "Región de Valparaíso ",
-  "comuna": "Valparaíso",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 24.0,
-     "unidad": "Unidad",
-     "detalle": "Creative Cloud Pro for teams – 1 año"
-    },
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 41.0,
-     "unidad": "Unidad",
-     "detalle": "Acrobat Pro for teams – 1 año"
-    },
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 5.0,
-     "unidad": "Unidad",
-     "detalle": "Veeam Back UP – 1 año"
-    },
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 5.0,
-     "unidad": "Unidad",
-     "detalle": "Power Automate Premium – 1 año"
-    },
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 5.0,
-     "unidad": "Unidad",
-     "detalle": "Gitbub Copilot – 1 año"
-    },
-    {
-     "producto": "Paquetes de software para oficinas",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 30.0,
-     "unidad": "Unidad",
-     "detalle": "Microsoft 365 F3 – 1 año"
-    }
-   ],
-   "items_total": 6,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-13T12:01:00",
-   "apertura_economica": "2026-11-13T12:01:00",
-   "respuestas": "2026-11-09T19:00:00",
-   "estimada_adjudicacion": "2026-11-27T18:00:00",
-   "duracion": null,
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "PRESUPUESTO 2026",
-   "obras": false,
-   "reclamos_comprador": 201,
-   "contacto": "NELSON CHAMORRO PINARES",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-11-03",
-  "actualizado": "2026-11-03",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=d6LAlz8srmMtnXTOf%2bZRD6QipveVRT8IpoEBuPb4WPF56jgn6XHEC%2fx5rzpXAicBkZA%2fdADm%2fXhtgyO9ibzCbhrAnH66jul6Vvp7peA6zKCFSGE9H%2bUrlODvBVzehewubEW3zh5jnjZKRPXybudqRYAThzkaV%2b81BVt41StZpx0fT8OPh88l0pPTSgTYXjJ8gdwefG0DGTH7cuYPXuxvazfyS0scp3RVDTrNw3VZxrIllAyJlCzTigDJ%2fmimfhtK5xqcpNa5mTvRX%2fQXTFZPncG78NOqv4SkVdmpwaQ9TUEJmqTHgD5s%2fPBh%2fJGYvoWB"
- },
- {
-  "codigo": "3756-48-LE26",
-  "nombre": "SERVICIO DE SOFTWARE GESTIÓN DOCUMENTAL PARA LA MUNICIPALIDAD DE PELARCO",
-  "descripcion": "SERVICIO DE SOFTWARE GESTIÓN DOCUMENTAL PARA LA MUNICIPALIDAD DE PELARCO",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-10-30T15:33:00",
-  "cierre": "2026-11-13T12:00:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "I MUNICIPALIDAD DE PELARCO",
-  "unidad": "I MUNICIPALIDAD DE PELARCO",
-  "region": "Región del Maule ",
-  "comuna": "Pelarco",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software para centrales de comunicación digital",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "SERVICIO DE SOFTWARE GESTIÓN DOCUMENTAL PARA LA MUNICIPALIDAD DE PELARCO"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-13T12:01:00",
-   "apertura_economica": "2026-11-13T12:01:00",
-   "respuestas": "2026-11-05T17:00:00",
-   "estimada_adjudicacion": "2026-11-27T17:00:00",
-   "duracion": "12 meses",
-   "renovable": false,
-   "prohibiciones": "SE PROHIBE LA SUBCONTRATACIÓN",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "PRESUPUESTO MUNICIPAL",
-   "obras": false,
-   "reclamos_comprador": 174,
-   "contacto": "FELIPE ROJAS",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-10-31",
-  "actualizado": "2026-11-07",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=gDGvFRv44XvsAFfNWHWq8MrdjAZQlDpwgDGnK3NtydXlXzadkj0%2fksuM347A%2f83qHoEngpQFtfflZTn4rJ6YBi81%2bHl5U3S2nYu%2fUwoCwMSfY%2fUhgV7gfZkFFXmT8kjrYmUI8t4vtH9r3HqvqSUiHqNf1Q8Md%2ft6e0NF3hCMhL8f37ho0%2bFU0x3M9XcdXNNjz9EJpexeiOuyuxO45iOv8Ve22OPLDb80ifMI0uljGHiYBaz36yUFvOmjD4K%2fBtUYq8re%2bN5tOeeGHaoqSIFHaDojPu8MJLaypFSWKtCZ5RcBLl0RNzMupZ3efmpt8tdj"
- },
- {
   "codigo": "3159-30-L126",
   "nombre": "NORMALIZACION DE TABLERO ELECTRICO EN POBL. SANTA MARIA",
   "descripcion": "Normalización de tablero eléctrico en la población naval Santa Maria, ubicada en la cuidad de Arica, según especificaciones técnicas adjuntas.",
@@ -495,8 +228,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-11-03",
-  "actualizado": "2026-11-03",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=%2baip9TpydrNJR8qgDNqFlyxo%2ff5CKHc43JAHQiehYoTrD98yK8hmlpaYmW6BonhSjvP2vCe3vobA1J3NJNz5eSBAnZ5fLmNHdfjLPHkCPuWdN0y4CsJ9a%2bhabh9RNymnHPu1xUnsyM3ncPAgaIrVtJV5hWxrCwP0m6dEmf%2bs04KXtaof9bl7GzAGcTs662dtWO32iiXpzpMiUAIZsTHidnz0jtUH3nr%2fpYJHEz7po9JKzDqCz07eYtTLiEqK5FOv5l0DCWFs%2fQQr74I8CjS3%2fCIDvncXwhFV1glZciGo4YLjP6Fj7onRdGOZSjZcBzO7"
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=BWpikfp523DDGGHavk3%2biQkPOwtqC7FUH4g5Dps5o8q3Xssz4b7SdS%2fVb7bX6VOzzWQVAJ06uF4N9Mel%2bGGuwVWnUMALtgcpcyKuoNJTeOLl%2b0OmowyCtWpP%2fvxyUNfFDXwbNcYrMBltBntgbZ%2beTAoT3iMnG9sPK0xRQhZGaUMpUhr8Hm6ZUzCPGbkRCeuf8sYkOls2gQSf5Irf2sksTMrsOXpWHiz99o2KbAR6CRWEf0bzfKtR6wVPdEigTW%2fCFD3G9izpUWj114iuB2tA980BHAAupxl%2fH4AnNX%2fliKAB13jAFIlCZpsINp9WS%2bva"
  },
  {
   "codigo": "5240-109-LR26",
@@ -603,14 +336,14 @@
    "monto_nota": "",
    "financiamiento": "",
    "obras": false,
-   "reclamos_comprador": 3518,
+   "reclamos_comprador": 3523,
    "contacto": "Departamento gestion de contratos",
    "contacto_email": "",
    "contacto_fono": ""
   },
   "visto": "2026-10-13",
-  "actualizado": "2026-11-03",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=Z5IHHRjM4VuzKaSDsLPSy33AnN0H%2frhEacMtgJi7TQGk0qbw2elEMqaC6gTY3lqgXwKJSi2%2b4oyNT7z%2fhyf5FAJrl4ErKotNNksN7SkmbTAoyqyrzKWHWt7jpREsjEPayZCdPQTaxrVG1N6FkUy91%2fg17PI7MtRKe9c4%2fsdH1qaS%2b%2fQmAMYyrIuTzRcoXzCaDPOavpoQ7AVKMDfxsiEZp7drScXD0l7d2poKaBmJ3WL0ypD%2fx%2bxvynv0eB9FQoDTVRDZNvhCUy1qbpOM6hyvHO%2fR8MrAhVjNGywxjBCGRvAdOiDOwQwuoT%2bMi1p8Dbs4"
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=auMOIU234abf2m6a4%2f0cHYh1yav4n5j1q1C4tKMq%2b7VTRV3xmUJTMZ2Q9MFkZnWtjHvWUS7slTyTdhEqXblO5dq2PARumf%2ffB3t6rQEltDvxptWamDTB3hUnggQLJs7sS0BpY7vzOv8JZv8lW7Lq1N04AZxm6ry39shLoSZJPjNdKr49irVY2CrbEAPDq7wVxlzx0M3HKulCYSzyifBXyt551GwCSX9RDTbZ9fBoLnR6vSlY1trSUjcYi5OAg3N2scD21IKuULHIWOGVfiN483hxTVu853p9mHr8xOw2uegY1bdE6wTAoopNjN7sA%2fEc"
  },
  {
   "codigo": "3134-109-LE26",
@@ -683,6 +416,64 @@
   "visto": "2026-11-04",
   "actualizado": "2026-11-04",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=JKR8UQPLYIGVQIWTZRA8tc6CwlTghl%2bzax7SgQfxTzLwEvnQxTyxpGhnVMWDmxb%2fhFLm0pHpNwtxU7CmWHcdKxUMJELB8%2f%2fajNQ6hbbA1lD9DB0hsaBJbEybEujOnR2tMSshlHVLNLC8QaMJhIUxgDX1fnPTNWhFZEnnLCyZJ1ZPnRrEgJ1DXCdexphZpmQSaVEUIo5%2bfuu%2fN1Q7cJqKkcNuk%2b%2fKrwr0CfWaNmbEWKdpIGRlx7QLxfsBvjsJ8KHKGiZZ7oXrobRVgJlrowRGFhf%2fKsfi2FgCBKBZ5VMa%2bnaXsxINvPD22%2bvXuPWdmuDJ"
+ },
+ {
+  "codigo": "1084148-21-L126",
+  "nombre": "“CONTRATACIÓN DE SERVICIO VPS CLOUD CON DATA CENTER EN CHILE POR 36 MESES PARA SLEP CHINCHORRO”",
+  "descripcion": "“CONTRATACIÓN DE SERVICIO VPS CLOUD CON DATA CENTER EN CHILE POR 36 MESES PARA SLEP CHINCHORRO”",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "L1",
+  "publicacion": "2026-11-09T17:34:53.817",
+  "cierre": "2026-11-16T15:00:00",
+  "monto": 4320000.0,
+  "moneda": "CLP",
+  "organismo": "SERVICIO LOCAL DE EDUCACION DE CHINCHORRO",
+  "unidad": "SLEPCH - Programa 01",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Alhué",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Firmware y software de conmutación de WAN",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes",
+     "cantidad": 36.0,
+     "unidad": "Mes",
+     "detalle": "SERVICIO VPS CLOUD - SEGÚN TÉRMNOS DE REFERENCA"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-16T15:10:00",
+   "apertura_economica": "2026-11-16T15:10:00",
+   "respuestas": "2026-11-12T20:30:00",
+   "estimada_adjudicacion": "2026-11-26T17:30:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": null,
+   "estimacion": "precio referencial",
+   "monto_nota": "1",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 120,
+   "contacto": "",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-09",
+  "actualizado": "2026-11-09",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=IDwqqnQgsVP1KQZ11YGls7ax3s%2bY0Xh7HFa876QUXFxm66pciEP7OQntuYtQ%2f6cR6GvFugHr43Hfe029b6cPSJmDnmukJaMQk1DcZmGB9BP0p8K8xlRKGNRzdULSDMEF9fiwn3x3dWkSarTGpQYA1lRT5AORDCkoYeD5shGCDhZWnhvZDi7lXJuLp8uH0Qtt4B93gLm6yIlet05eQQtQXVNl8BiDDri7DQI4yViYWTc0O3m4%2bQ2Kzwq5CWqvFJZyxW7ZmtmJ9hzYH5W%2bZAk9%2feZ3B8tNNAEiCrCX3%2bYSqYZDnZX%2bLXUmmW3r7%2f3RJlBf"
  },
  {
   "codigo": "1494906-12-CO26",
@@ -915,122 +706,6 @@
   "visto": "2026-11-05",
   "actualizado": "2026-11-05",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=ghosW3XjbrlHRBjH7OFXoOdEpDXcHf79n8edlbcBWe92QYQpbIn2341%2bwRgSrQ3frwWst3UOagJY%2bsmVv7MkkKiCvIUaGaX6hQN2RMF9FcVSw4l%2f4BdK9T05QH7e7gegvP45gEiWy%2b4BGoDjBnotOx7eXiDCf7yEBMMCXFhhUGSV0nZ8gyltbQQHAVMpj2VPZ4OCqrAI54YY5%2bZ%2bM1byD5hsagj4UUU03BSLF8E%2fBXm%2bom572PEAOS8Avy%2bB8nVpRPSRbMEvp4P%2bo3%2fI%2bZhNex321MpvSHBp0SbWXT4fgrIbWyw5gatxvpR0QJgs5IEm"
- },
- {
-  "codigo": "1084148-21-L126",
-  "nombre": "“CONTRATACIÓN DE SERVICIO VPS CLOUD CON DATA CENTER EN CHILE POR 36 MESES PARA SLEP CHINCHORRO”",
-  "descripcion": "“CONTRATACIÓN DE SERVICIO VPS CLOUD CON DATA CENTER EN CHILE POR 36 MESES PARA SLEP CHINCHORRO”",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "L1",
-  "publicacion": "2026-11-09T17:34:53.817",
-  "cierre": "2026-11-16T15:00:00",
-  "monto": 4320000.0,
-  "moneda": "CLP",
-  "organismo": "SERVICIO LOCAL DE EDUCACION DE CHINCHORRO",
-  "unidad": "SLEPCH - Programa 01",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Alhué",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Firmware y software de conmutación de WAN",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software para trabajo en redes",
-     "cantidad": 36.0,
-     "unidad": "Mes",
-     "detalle": "SERVICIO VPS CLOUD - SEGÚN TÉRMNOS DE REFERENCA"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-16T15:10:00",
-   "apertura_economica": "2026-11-16T15:10:00",
-   "respuestas": "2026-11-12T20:30:00",
-   "estimada_adjudicacion": "2026-11-26T17:30:00",
-   "duracion": null,
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": null,
-   "estimacion": "precio referencial",
-   "monto_nota": "1",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 120,
-   "contacto": "",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-11-09",
-  "actualizado": "2026-11-09",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=IDwqqnQgsVP1KQZ11YGls7ax3s%2bY0Xh7HFa876QUXFxm66pciEP7OQntuYtQ%2f6cR6GvFugHr43Hfe029b6cPSJmDnmukJaMQk1DcZmGB9BP0p8K8xlRKGNRzdULSDMEF9fiwn3x3dWkSarTGpQYA1lRT5AORDCkoYeD5shGCDhZWnhvZDi7lXJuLp8uH0Qtt4B93gLm6yIlet05eQQtQXVNl8BiDDri7DQI4yViYWTc0O3m4%2bQ2Kzwq5CWqvFJZyxW7ZmtmJ9hzYH5W%2bZAk9%2feZ3B8tNNAEiCrCX3%2bYSqYZDnZX%2bLXUmmW3r7%2f3RJlBf"
- },
- {
-  "codigo": "2048-86-LP26",
-  "nombre": "Software de Gestión de Mantenimiento",
-  "descripcion": "Las presentes bases tienen por objeto la contratación de un convenio por un periodo de 60 meses de 01 Software de Gestión de Mantenimiento para el Nuevo Hospital de Ancud, perteneciente a la red del Servicio de Salud Chiloé.\r\nLa mencionada adquisición tiene como objetivo principal adquirir un software que permita la gestión integral, centralizada y homogénea de las operaciones de mantenimiento general del Hospital de Ancud. Este sistema deberá facilitar la administración de activos, infraestructura y servicios, incluyendo mantenimiento preventivo y correctivo, obras, entre otros.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-10-26T15:23:30.54",
-  "cierre": "2026-11-16T15:01:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "SERVICIO DE SALUD CHILOE",
-  "unidad": "Hospital de Ancud",
-  "region": "Región de los Lagos ",
-  "comuna": "",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de administración",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes",
-     "cantidad": 1.0,
-     "unidad": "Unidad no definida",
-     "detalle": "SOFTWARE DE GESTION DE MANTENIMIENTO (INGRESAR PRECIO TOTAL DEL CONVENIO, SEGUN ANEXO ECONOMICO N°1)"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-16T15:01:00",
-   "apertura_economica": "2026-11-16T15:01:00",
-   "respuestas": "2026-11-11T18:00:00",
-   "estimada_adjudicacion": "2026-12-31T17:00:00",
-   "duracion": "60 meses",
-   "renovable": false,
-   "prohibiciones": "El adjudicatario no podrá ceder ni transferir en forma alguna, total ni parcialmente los derechos y obligaciones que nacen del desarrollo de la licitación. No se permite subcontratación",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
-   "monto_nota": "",
-   "financiamiento": "Disponibilidad Presupuestaria",
-   "obras": false,
-   "reclamos_comprador": 2203,
-   "contacto": "Gissela Arriagada Vilches",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-10-27",
-  "actualizado": "2026-11-03",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=8cpF56z6MxtFC2pLvrET1rVAF3AId8o82j9K53rdlPr2GPmrk8DJbFcAXEL4qnlQ1uozA9Z9QrJ8fBvYM4uA1nOdvFo1ze3mvhwUXhTUiUx791LMJL5x44qxa0g79iuxdrX%2fsZYOycX25RcYKFO7d4qFzFyC2mIraA%2fTNP2VW99HdY8BPnt0c55Q7xof4UgUsLDrEnRkeLZ5q4wzw2PRxUC5nx6J9ROONVm28OdCw240P2wePDkNSn2teXJcr3utve4TbDQZuEPf9OXwPdk0LSmQ5Lc7Y3gfb4%2fzugnbjWPTyTjpKy07%2bpSUQhI1KZs%2f"
  },
  {
   "codigo": "2563-43-LP26",
@@ -1305,31 +980,31 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=o3GF20MlwHMvwqOQEWpxXbMK1qry0%2bmh6V5vCjWFz8QTJAWrJN1EY6fleLGYsGAHUk10ssQ2xSpS5PX6Ynt0Nf90n29Nf2vwjgpPhn5lMwugu2yh%2baCZwPx3q4ffGebLhTR8nClE9MA1yIFwdy1i1XdIw5q2vYzSFcKi9LvnVoW0OM8Q1mZERYEQGuFMsbKdVdHaUmconKBGn40DXb1huiq52Wk5AEr696HXJJoQHVbXjIuHIEkrKsvVdf%2bQPQxZhdczWDk2uKJP2bmCSeGdgfA%2fGIQU%2b8VxqPnlJxUshHkDTtMPp6%2bMkpOtW2Rf1%2bPc"
  },
  {
-  "codigo": "869591-15-LP26",
-  "nombre": "CONTRATACIÓN DEL SERVICIO DE CIBERSEGURIDAD",
-  "descripcion": "CONTRATACIÓN DEL SERVICIO DE CIBERSEGURIDAD AVANZADA Y RESPUESTA A INCIDENTES PARA MERCADO PÚBLICO",
+  "codigo": "2048-86-LP26",
+  "nombre": "Software de Gestión de Mantenimiento",
+  "descripcion": "Las presentes bases tienen por objeto la contratación de un convenio por un periodo de 60 meses de 01 Software de Gestión de Mantenimiento para el Nuevo Hospital de Ancud, perteneciente a la red del Servicio de Salud Chiloé.\r\nLa mencionada adquisición tiene como objetivo principal adquirir un software que permita la gestión integral, centralizada y homogénea de las operaciones de mantenimiento general del Hospital de Ancud. Este sistema deberá facilitar la administración de activos, infraestructura y servicios, incluyendo mantenimiento preventivo y correctivo, obras, entre otros.",
   "estado": "Publicada",
   "codigo_estado": "5",
   "tipo": "LP",
-  "publicacion": "2026-10-26T17:47:56.96",
+  "publicacion": "2026-10-26T15:23:30.54",
   "cierre": "2026-11-16T15:01:00",
-  "monto": 340000.0,
-  "moneda": "USD",
-  "organismo": "DIRECCION DE COMPRAS Y CONTRATACION PUBLICA",
-  "unidad": "Calidad del Gasto en las Compras Públicas",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Santiago Centro",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "SERVICIO DE SALUD CHILOE",
+  "unidad": "Hospital de Ancud",
+  "region": "Región de los Lagos ",
+  "comuna": "",
   "categorias": [
-   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Administración de sistemas"
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Seguridad para computadores, redes e Internet",
-     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Administración de sistemas",
+     "producto": "Software de administración",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes",
      "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "CONTRATACIÓN DEL SERVICIO DE CIBERSEGURIDAD AVANZADA Y RESPUESTA A INCIDENTES PARA MERCADO PÚBLICO"
+     "unidad": "Unidad no definida",
+     "detalle": "SOFTWARE DE GESTION DE MANTENIMIENTO (INGRESAR PRECIO TOTAL DEL CONVENIO, SEGUN ANEXO ECONOMICO N°1)"
     }
    ],
    "items_total": 1,
@@ -1340,27 +1015,27 @@
    "entrega_antecedentes": null,
    "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-16T15:30:00",
-   "apertura_economica": "2026-11-16T15:30:00",
-   "respuestas": "2026-11-05T18:00:00",
-   "estimada_adjudicacion": "2026-11-30T18:00:00",
-   "duracion": "24 meses",
+   "apertura_tecnica": "2026-11-16T15:01:00",
+   "apertura_economica": "2026-11-16T15:01:00",
+   "respuestas": "2026-11-11T18:00:00",
+   "estimada_adjudicacion": "2026-12-31T17:00:00",
+   "duracion": "60 meses",
    "renovable": false,
-   "prohibiciones": "Según bases adjuntas",
-   "extension_plazo": true,
+   "prohibiciones": "El adjudicatario no podrá ceder ni transferir en forma alguna, total ni parcialmente los derechos y obligaciones que nacen del desarrollo de la licitación. No se permite subcontratación",
+   "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "Según bases adjuntas",
-   "financiamiento": "PROGRAMA 02",
+   "estimacion": "precio referencial",
+   "monto_nota": "",
+   "financiamiento": "Disponibilidad Presupuestaria",
    "obras": false,
-   "reclamos_comprador": 72,
-   "contacto": "Paolo Jeldres",
+   "reclamos_comprador": 2203,
+   "contacto": "Gissela Arriagada Vilches",
    "contacto_email": "",
    "contacto_fono": ""
   },
   "visto": "2026-10-27",
-  "actualizado": "2026-11-03",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=52Cnqj9Bnu4IcvubJJXE1eOighAGRm9owYxvbbmIiLPtcXKn6mUBJxCaoflp68rs31YdibRXVNz9e7U%2bbuuSoaiwN9806MjHHeKd%2f6MhOzaYkc16tAD9BKW%2ffspN%2bWVNradNTrS5sTGs3X05E7NAmm6gNPA6jq%2b54bj0vhueb7mcLt1SxuAFOcFbaNCQvrn2nOJ%2fCT9TkbVQcItO1pVhU8IP2gDUXJzeGGjTR%2bZVZTzysKg1RDrEszdybdTkJUr7yNHnpSy54kKhkLY0A9F1WO3wnjYCOj7%2fNay0yiQfZcYgoz63nzsEapMoeD9OEQOc"
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=9E%2bjR%2bZDURdUY187HjQqizNIiLmITTjNeq%2bhWsag63KXQWvQHsx%2b9waNFyU2DA%2b52TuulHnDt9gici1FWKUbVar963bTt4kBkZmcjz04E8UzWvH%2fCSrC0kqBdPa86OPnCU8b02okqBZmF4lkgFlUYEv1xQWzIrgCtkIhayhvTBihaDQm%2f6FxOM6RifNpwU9rTm4cP4UJ7cp9Ivbj8btug71peRZUzqQc7olUFlxtG60W1ojTg6fAniQB%2fvC1QAFBDb6H9mIWL%2f6RvPtxZwZ4xSWosmremEz7V4ooGRQn7tBM2h%2bmQnpGC21f1LG8qJ61"
  },
  {
   "codigo": "2348-40-LE26",
@@ -1707,6 +1382,80 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=pLxLB%2fwnzpy4lTJfNe6TsQQef1q8KGyNomo07iiqSX%2bLzT%2b27N4tZpZj%2f3eJF80V7L%2fD2EayedFz%2b9%2fvDDRPu3D1TaNOcmRIpHcdlaKRJhV4a5ySQMeZLsSfcv0a4qRZN5ayaf%2btO4QN1OhYyeseOxny4XTTgflFXZbNEygnIM7JJwoKpHisCsoywDhBb1ubmBIiJtC9%2b8GcbW9X%2b2BxXgo%2bfETnTWoe7i1d9ANyeH%2bDAW8uFO7nTVBh7k6l1yZx8rslFWEqs%2fvsYcg%2byvX4%2bWzRFUdTR%2brqOd%2fpZXwFKPmZ0A7Ljz75fpoDpCnBoyBZ"
  },
  {
+  "codigo": "1084148-22-L126",
+  "nombre": "“ADQUISICIÓN DE ELECTRODOMÉSTICOS Y EQUIPOS INFORMÁTICOS PARA NIVEL CENTRAL SLEP CHINCHORRO”",
+  "descripcion": "“ADQUISICIÓN DE ELECTRODOMÉSTICOS Y EQUIPOS INFORMÁTICOS PARA NIVEL CENTRAL SLEP CHINCHORRO”",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "L1",
+  "publicacion": "2026-11-09T17:35:08.83",
+  "cierre": "2026-11-16T16:00:00",
+  "monto": 2186485.0,
+  "moneda": "CLP",
+  "organismo": "SERVICIO LOCAL DE EDUCACION DE CHINCHORRO",
+  "unidad": "SLEPCH - Programa 01",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Alhué",
+  "categorias": [
+   "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Equipo de enfriamiento para laboratorio",
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Dispositivos informáticos de entrada de datos",
+   "Vehículos y equipamiento en general / Componentes para vehículos en general / Sistema de refrigeración del motor"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Refrigeradores o congeladores de uso general",
+     "categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Equipo de enfriamiento para laboratorio",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "REFRIGERADOR - DE ACUERDO A TÉRMINOS DE REFERENCIA"
+    },
+    {
+     "producto": "Escáner",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Dispositivos informáticos de entrada de datos",
+     "cantidad": 1.0,
+     "unidad": "Global",
+     "detalle": "EQUIPO MULTIFUNCIONAL DE IMPRESIÓN, DIGITALIZACIÓN Y ACCESORIOS"
+    },
+    {
+     "producto": "Ventilador",
+     "categoria": "Vehículos y equipamiento en general / Componentes para vehículos en general / Sistema de refrigeración del motor",
+     "cantidad": 6.0,
+     "unidad": "Unidad",
+     "detalle": "VENTILADORES -  DE ACUERDO A TÉRMINOS DE REFERENCIA"
+    }
+   ],
+   "items_total": 3,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-16T16:10:00",
+   "apertura_economica": "2026-11-16T16:10:00",
+   "respuestas": "2026-11-12T20:30:00",
+   "estimada_adjudicacion": "2026-11-26T16:11:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": null,
+   "estimacion": "precio referencial",
+   "monto_nota": "1",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 120,
+   "contacto": "",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-09",
+  "actualizado": "2026-11-09",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=RnLGn2wedK423xVesMbHM8feZ6N7SSSNtbS6pD%2fYfKlkauGnXPCojE%2fYBlgPXLMt3hC8ziMvEKYxq4fYeQAjsRfr2R8Watz5vHjN7FEH6BB%2fUjJTZ%2f%2fLcGKd2GNOBsafrsdqQUh3ZcExj6MUBjwMaG4TQ2sQc%2b03kNbvb2sApZ5PiShuviy2fn%2f5H2JyDKcpNU%2fgC2aadxyKgCBOVBWa4xrU0zyMlp8r1FSTBOPhrYOR3OnMgeT7aYZZDDs96h%2fOWB638g4NnekFLeADEvUgZUdcWB3%2fANZk2Omaervn6mu8DDHdzy8p3g4%2bfZ%2bPI6ZF"
+ },
+ {
   "codigo": "1882-3-LP26",
   "nombre": "DPP LA ARAUCANIA SERVICIO DEFENSA RPA LLAMADO 2026",
   "descripcion": "Defensa Responsabilidad Penal Adolescente Zona Angol de acuerdo a la REX N°198 de fecha 15 de octubre de 2026.",
@@ -1821,80 +1570,6 @@
   "visto": "2026-10-16",
   "actualizado": "2026-11-06",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=vN5jVXBdvYBSAmOCCjVW1nNDL3FuRUqwl1blZYbNSFrK5P%2fWwDc2kTEUxebouTWhaa%2bK9ueJzsCdnc4%2fsg7NfxX3toWFmZpPFF3T0RaxIMN0fM93P5RPYR9kBMZxuf65HVJoVErL7JMb8quS5n2sbE1sQEuXEnYJJK1kjhluiIJNJUJE%2f5gWntojVNFQhCE1Zg166%2fDByJbcgcv17a%2bqIu1K4YPmnZCcnjXK%2bEwxO8L4Wnzp1giywCNF%2f%2fqZi115eWxDGcMayApmhspzTu4h4RsUGpi9lj5XgHFS2K3G77Dv1l99tGVkqWgimoiHZkY4"
- },
- {
-  "codigo": "1084148-22-L126",
-  "nombre": "“ADQUISICIÓN DE ELECTRODOMÉSTICOS Y EQUIPOS INFORMÁTICOS PARA NIVEL CENTRAL SLEP CHINCHORRO”",
-  "descripcion": "“ADQUISICIÓN DE ELECTRODOMÉSTICOS Y EQUIPOS INFORMÁTICOS PARA NIVEL CENTRAL SLEP CHINCHORRO”",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "L1",
-  "publicacion": "2026-11-09T17:35:08.83",
-  "cierre": "2026-11-16T16:00:00",
-  "monto": 2186485.0,
-  "moneda": "CLP",
-  "organismo": "SERVICIO LOCAL DE EDUCACION DE CHINCHORRO",
-  "unidad": "SLEPCH - Programa 01",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Alhué",
-  "categorias": [
-   "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Equipo de enfriamiento para laboratorio",
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Dispositivos informáticos de entrada de datos",
-   "Vehículos y equipamiento en general / Componentes para vehículos en general / Sistema de refrigeración del motor"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Refrigeradores o congeladores de uso general",
-     "categoria": "Equipamiento para laboratorios / Equipos e insumos para laboratorio / Equipo de enfriamiento para laboratorio",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "REFRIGERADOR - DE ACUERDO A TÉRMINOS DE REFERENCIA"
-    },
-    {
-     "producto": "Escáner",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Dispositivos informáticos de entrada de datos",
-     "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "EQUIPO MULTIFUNCIONAL DE IMPRESIÓN, DIGITALIZACIÓN Y ACCESORIOS"
-    },
-    {
-     "producto": "Ventilador",
-     "categoria": "Vehículos y equipamiento en general / Componentes para vehículos en general / Sistema de refrigeración del motor",
-     "cantidad": 6.0,
-     "unidad": "Unidad",
-     "detalle": "VENTILADORES -  DE ACUERDO A TÉRMINOS DE REFERENCIA"
-    }
-   ],
-   "items_total": 3,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-16T16:10:00",
-   "apertura_economica": "2026-11-16T16:10:00",
-   "respuestas": "2026-11-12T20:30:00",
-   "estimada_adjudicacion": "2026-11-26T16:11:00",
-   "duracion": null,
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": null,
-   "estimacion": "precio referencial",
-   "monto_nota": "1",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 120,
-   "contacto": "",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-11-09",
-  "actualizado": "2026-11-09",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=RnLGn2wedK423xVesMbHM8feZ6N7SSSNtbS6pD%2fYfKlkauGnXPCojE%2fYBlgPXLMt3hC8ziMvEKYxq4fYeQAjsRfr2R8Watz5vHjN7FEH6BB%2fUjJTZ%2f%2fLcGKd2GNOBsafrsdqQUh3ZcExj6MUBjwMaG4TQ2sQc%2b03kNbvb2sApZ5PiShuviy2fn%2f5H2JyDKcpNU%2fgC2aadxyKgCBOVBWa4xrU0zyMlp8r1FSTBOPhrYOR3OnMgeT7aYZZDDs96h%2fOWB638g4NnekFLeADEvUgZUdcWB3%2fANZk2Omaervn6mu8DDHdzy8p3g4%2bfZ%2bPI6ZF"
  },
  {
   "codigo": "4052-54-LE26",
@@ -2218,8 +1893,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-10-27",
-  "actualizado": "2026-11-03",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=wgS1LjLkg0gwM4y14P1RETOFwqYHSjRwrSvh81cTtPwmSTv3nHhnUCdzyswjcnGwPfHt7nQqLrypB9DC9K29N8LJ18eXDOb9fDlsj7c2cN1xJjCjRo2h%2biEwussq%2bPiFvpcLJ9mpFUYZGQcE%2bSChCSeUTuoP5B9mKLiaYXK9bfIiGfuABMRw7NBGCywBuwRPwVaKnClj3h9dTCitbiputlqeXAFIx4WoFjgei5VtqdauqgYJTqWedEiVL05Cn0F6jl0OCjJnsTYNx6ajy3sCDCRuITM%2bi%2bzKmnHuRctwWoHXACch%2f5LICSKyS31Ni4aR"
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=gq2ibZjSZwrbdAZ4zPD0gPoChS9J1v%2byIA%2bvA%2br957SWFTC5UxquYeQoIzSbzBoqcY9KLKtwhVBi3uBfmw%2btyI%2b3fbUrz3kcyKGFAkQHegWIjDB%2f2R%2fZYdhk9i0Aiu61aPBAl2qL%2bgitDto5DTJhi2ibRvcSw%2fPZXzlnnv85Ri3f82uRzICTstr3TB0GGi84hcp5NQwFCriiqhCAlc4MHP5tRhpqRz5kJcssKKfMoUSB0puoIu2YnFse1Fd2269i8WYbItmitxoe4VWepDbNBk4myh0GzXq2pR2U9qnNt1RjE9zJKj8X4yLi2oSlKo%2bb"
  },
  {
   "codigo": "1233623-47-LP26",
@@ -2334,8 +2009,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-10-27",
-  "actualizado": "2026-11-03",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=24TSrUILdMmjg2jZZp7t%2favJVJmycN5fhwjReuaecSyL9SOQXqIX4Q0K36qYTbO1BvQeEKyjMQanfxfNvUn%2fQuSiPIjSPiVgjRX9IjDNOASMSxpKPhrV8fLst5WvWB6DeWhj%2b4dfjiKMqRErlXlppoENTv1RUZQFG%2bikEDcpcjqvGPpsc0Xz9Z%2fR3uxNuy%2bHLYDwTp4lSiWoV5lsOm%2fcVwWvFg0RD1TGRWuo5qy9uDzsC3SGVkCB86n5jg1Zy658H025pl16MS9WXvC5o%2f47XiEP8LttDrXVKr1AYL8M5HOt96tReSwjef1DZUkIXCbm"
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=HVfkEgVPBDZxTipxX8j3Ngk0aj9A8aD0CSnK%2bfoabG7kP1ItM8nuv9mMXBo7Bhd0VC5S4s2EUE46EZC7FXGpBQx6KDSUscxgs4%2fycgZta%2b%2blyggyCJx72UStGq0%2fA6lw3kMDRJSPR2gg5J3tQJVJfucfIZOS3sylcawhRt9yAj1rLMPSQuzXfsyDwAeGy6ktm2D2fuFWbqc5yZH9QBl%2bgh6ymNPbRltkvqE9mevGBC%2f0qbr%2bep5KfFpis6Yf2J3r0b3LAunx3uTgmE5d0kv0jFWe%2b7fsPVoy0%2fU26Y%2bhGFyqkk98kQAL9kgRd9qfmIWt"
  },
  {
   "codigo": "514862-145-LE26",
@@ -2402,6 +2077,72 @@
   "visto": "2026-11-05",
   "actualizado": "2026-11-05",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=R8WOAEBfBkpBdTKtR8MuuxaIdqgAkZ5OuwHbm123yqwGUBsCKxNn1ZVaU9fqSzcusZfg8DpJTjZf27HVu8VbtUEpbMd%2bofXWwF5AiVrMWgZg7H01rEmVhCCvC%2f9w1mzV07mXxZ35%2b7r60mRXcs61vpJQ4p2ntWNJiF1HMggDU7bBdifpUSfHROZeNGVSMhXgYIWSAxR7iEPiqkRHfNh6YUn2Ljh9pFlhHy01k94HrTIFWOQ7Ay0WCbvHFbV31LOBvJb4y%2bdxPVMOhK9eH3Gl6boCX0udIod%2f5MRq%2bnDXkZOxouB3SwTXZ2Jw4Ex%2bHtBP"
+ },
+ {
+  "codigo": "1057503-164-LE26",
+  "nombre": "Contratación de Servicio de Conectividad Móvil de Datos y Telefonía Móvil Destinado a las Tablets de Hospitalización Domiciliaria del Hospital Padre Alberto Hurtado",
+  "descripcion": "El objetivo de la presente licitación es proveer del Servicio de Conectividad Móvil de Datos y Telefonía Móvil Destinado a las Tablets de Hospitalización Domiciliaria, que cumpla con las exigencias precisadas en las Bases Administrativas y Técnicas de la Propuesta.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-02T16:53:49.873",
+  "cierre": "2026-11-17T16:00:00",
+  "monto": 44000000.0,
+  "moneda": "CLP",
+  "organismo": "HOSPITAL PADRE ALBERTO HURTADO",
+  "unidad": "Bienes y Servicios",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "San Ramón",
+  "categorias": [
+   "Servicios básicos y de información pública / Bibliotecas y otros centros de información pública / Comunicación social y de masas",
+   "Servicios básicos y de información pública / Telecomunicaciones / Comunicaciones móviles"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Servicios relacionados con Internet",
+     "categoria": "Servicios básicos y de información pública / Bibliotecas y otros centros de información pública / Comunicación social y de masas",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "SERVICIO DE INTERNET MENSUAL (ver numeral 3 de las bases Técnicas)"
+    },
+    {
+     "producto": "Servicios de telefonía móvil",
+     "categoria": "Servicios básicos y de información pública / Telecomunicaciones / Comunicaciones móviles",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "BOLSA DE LLAMADAS(ver numeral 3 de las bases Técnicas)"
+    }
+   ],
+   "items_total": 2,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-17T16:01:00",
+   "apertura_economica": "2026-11-17T16:01:00",
+   "respuestas": "2026-11-09T16:00:00",
+   "estimada_adjudicacion": "2027-02-15T16:00:00",
+   "duracion": "36 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 2296,
+   "contacto": "Luis Romero",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-02",
+  "actualizado": "2026-11-09",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=tfA3o%2fO0v9bStfyOTBu5A22nZWRCVM0GyE9kgrGwQnL689k2tGmBtP3Z3KYvOWFP83CHhgUPLmL22hwicnNzGuL%2fBRxZUwi6aNnZ3RGtNHU79flKvsZeGvkDo6boNQpEnk1OXe8QOXY1pQwQwzo8%2bp7O9eL%2bNjNXOcRmh%2fO17n%2bkOrK2eS2cIaMk71e8sdFBQRsAzFMI39hQOb7%2buChwOQc6mH9AGJD7rO3TzEe73h%2bJi6Req4YLQq8vblmLUgQBjWchCQ9uql6auRVEytydNgevOZdH0I8mYuGHDjc3rvhVR1%2bkRCdLF2bvccwWYDEZ"
  },
  {
   "codigo": "709603-13-LE26",
@@ -2520,42 +2261,34 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=4Ldc3Iryw44dzg75s0GPFdyHEXlY8rLqazKo1iTCpe0E4HZgZgi4zqrzJcgiNR0Ik8nG4cMy5cHsK19VzfSQsdmlI8C%2f7pH8DlauwW52O%2bdv5Wi%2fBE13%2bGFvhWBvqLkI2DAY%2bXFOmj9rB6CwgzMKXX6cOiHUl9qwYA%2bp9x2u5i34uFbOi7pEAlFHGpwLSfUnhvDtmCk9%2fWxM1EhA02yaJ1IuTCFhDR%2fksjtlBZchwnvmjRMTM8nVq7mckxx%2bYlVgyKiSnWW2Z1o1iLgmmxnfIlcg0BbiwnTFdQiCG%2f%2bj4M%2fMPIpdCx56saK4UcBzGTUj"
  },
  {
-  "codigo": "1057503-164-LE26",
-  "nombre": "Contratación de Servicio de Conectividad Móvil de Datos y Telefonía Móvil Destinado a las Tablets de Hospitalización Domiciliaria del Hospital Padre Alberto Hurtado",
-  "descripcion": "El objetivo de la presente licitación es proveer del Servicio de Conectividad Móvil de Datos y Telefonía Móvil Destinado a las Tablets de Hospitalización Domiciliaria, que cumpla con las exigencias precisadas en las Bases Administrativas y Técnicas de la Propuesta.",
+  "codigo": "1080095-14-L126",
+  "nombre": "SISTEMA DE GESTIÓN DE FILAS Y ATENCIÓN DIGITAL",
+  "descripcion": "Se requiere la contratación de un servicio integral de gestión de filas, check-in, llamado y vocería digital para la Farmacia del COSAM Miraflores por el período de 12 meses.",
   "estado": "Publicada",
   "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-11-02T16:53:49.873",
-  "cierre": "2026-11-17T16:00:00",
-  "monto": 44000000.0,
+  "tipo": "L1",
+  "publicacion": "2026-11-10T11:29:42.093",
+  "cierre": "2026-11-17T20:00:00",
+  "monto": null,
   "moneda": "CLP",
-  "organismo": "HOSPITAL PADRE ALBERTO HURTADO",
-  "unidad": "Bienes y Servicios",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "San Ramón",
+  "organismo": "SERVICIO DE SALUD MAGALLANES",
+  "unidad": "Bienes y servicios - PSIQ",
+  "region": "Región de Magallanes y de la Antártica",
+  "comuna": "Punta Arenas",
   "categorias": [
-   "Servicios básicos y de información pública / Bibliotecas y otros centros de información pública / Comunicación social y de masas",
-   "Servicios básicos y de información pública / Telecomunicaciones / Comunicaciones móviles"
+   "Equipos y suministros de defensa, orden público, protección y seguridad / Equipos para orden público / Equipo para control de disturbios"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Servicios relacionados con Internet",
-     "categoria": "Servicios básicos y de información pública / Bibliotecas y otros centros de información pública / Comunicación social y de masas",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "SERVICIO DE INTERNET MENSUAL (ver numeral 3 de las bases Técnicas)"
-    },
-    {
-     "producto": "Servicios de telefonía móvil",
-     "categoria": "Servicios básicos y de información pública / Telecomunicaciones / Comunicaciones móviles",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "BOLSA DE LLAMADAS(ver numeral 3 de las bases Técnicas)"
+     "producto": "Sistemas de control de formación de filas",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Equipos para orden público / Equipo para control de disturbios",
+     "cantidad": 12.0,
+     "unidad": "Mes",
+     "detalle": "SERVICIO SISTEMA DE GESTIÓN DE FILAS Y ATENCIÓN DIGITAL"
     }
    ],
-   "items_total": 2,
+   "items_total": 1,
    "etapas": 1,
    "toma_razon": false,
    "visita_terreno": null,
@@ -2563,27 +2296,27 @@
    "entrega_antecedentes": null,
    "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-17T16:01:00",
-   "apertura_economica": "2026-11-17T16:01:00",
-   "respuestas": "2026-11-09T16:00:00",
-   "estimada_adjudicacion": "2027-02-15T16:00:00",
-   "duracion": "36 meses",
+   "apertura_tecnica": "2026-11-18T09:00:00",
+   "apertura_economica": "2026-11-18T09:00:00",
+   "respuestas": "2026-11-13T20:00:00",
+   "estimada_adjudicacion": "2026-12-17T09:00:00",
+   "duracion": null,
    "renovable": false,
    "prohibiciones": "",
    "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
+   "modalidad_pago": null,
+   "estimacion": "precio referencial",
+   "monto_nota": "0",
    "financiamiento": "",
    "obras": false,
-   "reclamos_comprador": 2296,
-   "contacto": "Luis Romero",
+   "reclamos_comprador": 273,
+   "contacto": "",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-11-02",
-  "actualizado": "2026-11-09",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=tfA3o%2fO0v9bStfyOTBu5A22nZWRCVM0GyE9kgrGwQnL689k2tGmBtP3Z3KYvOWFP83CHhgUPLmL22hwicnNzGuL%2fBRxZUwi6aNnZ3RGtNHU79flKvsZeGvkDo6boNQpEnk1OXe8QOXY1pQwQwzo8%2bp7O9eL%2bNjNXOcRmh%2fO17n%2bkOrK2eS2cIaMk71e8sdFBQRsAzFMI39hQOb7%2buChwOQc6mH9AGJD7rO3TzEe73h%2bJi6Req4YLQq8vblmLUgQBjWchCQ9uql6auRVEytydNgevOZdH0I8mYuGHDjc3rvhVR1%2bkRCdLF2bvccwWYDEZ"
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=q0m9TWAcOW97y1vpTI6iFXY6gv5SXkLAg39FBtzQOgBcmhbBAJccNtMBpTU7JAE44bcikk8WLevfg18QLEk%2bNFghqnA9%2f%2bVaIae6kCH5JN%2fLZ8LpD4M1warMtzKnwGD9G8qNpqDRnhKnS7RRv5oWbDFDKiUKLSeMyhiiKv3dX4x0Iv8PTpk%2ffKiR%2bjArENbSKySOj7Sa8oIn%2fcl%2f68m3HIiv8NYn4RFYYTwQRfjwjF%2bUrVqmfgNS3HzVR8JE4TYMdk%2fgw%2bUc3MCxTnYFa9JTqE2PF7Q%2f%2f%2fBKSqikkv4I%2f0M3j8ZkS4dOdD1vemKhGBfj"
  },
  {
   "codigo": "520149-52-LE26",
@@ -3173,6 +2906,64 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=UejwMQwavslsSIJJ7tOt0S0V0yd%2f%2fmUYvY4plwVl%2beRZDRdft89Voo08eR08P9znK7srIHzvzta0K%2frzDHRBtlpfn6aEdKiqJ0ikpqZXIlMrUY6fAOcdFpnyUrRJBCgqQz1OC1d3LEbdItdCtVsu3M6rJhnOg%2fgCeDVp0RBEhysH3aZBfDf5j0I37%2fU7x%2feMPBmsTffY2MlgGYg%2fg3h6lQzdnCpkO8%2fvGM32DfCR3brNCB6i9axH%2b5ziFmfy%2fiJrx3hc3C6o6%2f%2f25aLPh90NHOW%2fUBoE20Ed98G73QHlonor4J8Sk1lydfDNxk1QxyVr"
  },
  {
+  "codigo": "696217-6-LE26",
+  "nombre": "Servicio de Digitalizacion de Carpetas",
+  "descripcion": "El MINISTERIO PÚBLICO requiere contratar un servicio integral de clasificación, preparación, registro, digitalización, carga, respaldo institucional, custodia, cubicación, traslado, destrucción y disposición final de documentación correspondiente a la Fiscalía Local de Iquique. Para planificación se considera un volumen referencial de hasta aproximadamente 71 m³, equivalente a cerca de 71.000 carpetas y 3.550.000 páginas, usando como referencia promedio 1.000 carpetas y 50 páginas por carpeta. Estas cifras son estimativas y no constituyen cantidades mínimas garantizadas. El trabajo material se ejecutará en el inmueble de la Fiscalía Local de Iquique, Patricio Lynch N° 53, comuna de Iquique.\r\nLos servicios deberán prestarse de acuerdo con las especificaciones y términos señalados en las Bases Técnicas, detalladas en el apartado II de estas Bases, para lo cual las empresas participantes deberán presentar propuestas que se ajusten íntegramente a ellas y a las presentes Bases Administrativas.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-09T18:33:40.847",
+  "cierre": "2026-11-19T15:01:00",
+  "monto": 71000000.0,
+  "moneda": "CLP",
+  "organismo": "MINISTERIO PUBLICO",
+  "unidad": "FR TARAPACA",
+  "region": "Región de Tarapacá  ",
+  "comuna": "Pozo Almonte",
+  "categorias": [
+   "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de apoyo a la administración de empresas / Servicios de apoyo a la gestión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Servicios de destrucción de documentos",
+     "categoria": "Servicios profesionales, administrativos y consultorías de gestión empresarial / Servicios de apoyo a la administración de empresas / Servicios de apoyo a la gestión",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "El MINISTERIO PÚBLICO requiere contratar un servicio integral de clasificación, preparación, registro, digitalización, carga, respaldo institucional, custodia, cubicación, traslado, destrucción y disposición final de documentación correspondiente a la Fis"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-19T15:02:00",
+   "apertura_economica": "2026-11-19T15:02:00",
+   "respuestas": "2026-11-16T22:00:00",
+   "estimada_adjudicacion": "2026-12-04T12:16:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "Los derechos y obligaciones que nacen con ocasión del desarrollo de esta licitación serán intransferibles.",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "El MINISTERIO PÚBLICO adjudicará el ítem completo a un solo oferente. La adjudicación fijará el precio unitario neto por m³ y los impuestos aplicables. El pago se calculará sobre el volumen efectivamente procesado y recibido conforme, cuyo destino autor",
+   "financiamiento": "Ministerio Publico",
+   "obras": false,
+   "reclamos_comprador": 15,
+   "contacto": "Cristian Olmedo Gamboa",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=6hZNvkwGD%2bMuMiY%2bajjOo8e%2bUosSPYZLIIKTXUm%2fcAQ%2bKvYoFRdDx7qnXy9wZZp0%2bD29u9rBfMwVD6kdviM6bAJ1SGxRr4ulZzKrgzcAYxELS3qbANICe57lOiOxYo6VzlUKIljyaRWlfLzx1VHFEV5oY4Y86LQEw3VcO9B1VSNrEgArdWJH23OCPVJCvDZi85a1By9vf0pwV4dyLh5bMT7r2XoVKDbppmoGxRAEBJgRUrQ8UIqTNF8tFOkXbZN9WIWkETLQ3W23YsZtrX%2fRXx59dpLM4wxMPvmba460Xe06YeGdqVkCX2Vw4U1LKwYF"
+ },
+ {
   "codigo": "1075337-59-LE26",
   "nombre": "NUEVO PROC. ARRIENDO SOFTWARE INTEGRACION DTE Y CLOUD SERVER",
   "descripcion": "La presente licitación tiene como objetivo la contratación del servicio de arriendo de software de integración de integración DTE y Cloud Server, para el Hospital Dr. Mauricio Heyermann Torres de Angol.",
@@ -3229,64 +3020,6 @@
   "visto": "2026-11-09",
   "actualizado": "2026-11-09",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=i8aK6IWYS21aXC65h8B1SkZLIwQKe5MXTxVKrt22PwIVCtWYoXcILqMqJKFaJv1mDlhjtoUYnYh8Zkk4HuAp7ct8%2fqzn7QVHpr1C0P%2fMiJ5%2fgVDoao1PXb6GpbEEuW3uCkYv0Ieg%2fADUPEKPMxtIHkmOvOUxcG6JRLbFpt1XRIcJJi60gH54cvWEA0BwsgZMHQ7fT2FUzsdQW7Z35s9ms6PusnjHpeoWfdnog0mA47D1WQFK1nSZG%2f3JXapp4CJIe8lxGWy%2bT2VQkYMw%2fkCpDFM01hOzkDisqzkdoLXEkby6eiQB4b06%2b%2be%2fhmuwsWFI"
- },
- {
-  "codigo": "5420-25-LP26",
-  "nombre": "Modernización Integral de Infraestructura TI",
-  "descripcion": "El Gobierno Regional de Arica y Parinacota requiere contratar la adquisición, implementación y modernización integral de su infraestructura tecnológica, incluyendo virtualización, almacenamiento, respaldo, redes y seguridad, con el propósito de fortalecer la continuidad operativa y modernizar los servicios tecnológicos institucionales.\r\n\r\nLa contratación comprende el suministro de equipos, licencias, instalación, configuración, integración, migración, pruebas, documentación, capacitación, garantías y soporte, de acuerdo con las Bases Administrativas, Bases Técnicas y anexos de la presente licitación.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-10-30T18:02:56.13",
-  "cierre": "2026-11-19T15:30:00",
-  "monto": 303000000.0,
-  "moneda": "CLP",
-  "organismo": "GOBIERNO REGIONAL DE ARICA-PARINACOTA",
-  "unidad": "Gobierno Regional de Arica y Parinacota",
-  "region": "Región de Arica y Parinacota",
-  "comuna": "Arica",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Computadores"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Servidores",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Computadores",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Adquisición e implementación integral de infraestructura tecnológica, servidores, almacenamiento, virtualización, sistemas de respaldo, redes, seguridad informática, licencias, migración, configuración, puesta en marcha y soporte técnico, según bases."
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-19T15:31:00",
-   "apertura_economica": "2026-11-19T15:31:00",
-   "respuestas": "2026-11-09T19:00:00",
-   "estimada_adjudicacion": "2026-12-14T19:00:00",
-   "duracion": "20 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 19,
-   "contacto": "Pamela Guillén Montecino",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-10-31",
-  "actualizado": "2026-11-07",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=Cl0quR0Lig%2bKGAf55uYZjazRLWep2FDybSrSUDsw2x3YfDnkzBELaW8yYFww6h4XhR04gnQ5DTg7%2fSOPDKp%2fuPMpYd4FS07c%2b1OiQ4wSRcOkZPXm02p9R1JvztkVc7UKfplaZoXpnv3QhIAIxfe1Q9zUCbLDF%2f6LHR1%2fAApNaVt5SJigstFcz8yp8%2b0RqvdM422R3kFtnzfHPrSVYKR9ejE5Rm19OZcYwgBnaMIH9ahjZEy1%2btciyaTi8pbzcTdSCZTbRQV%2fdBLQqG1gPmzJPzOX6BbvKkjBO%2bk2WhB7WGlqfyrHuc6SZcYIVGhLfTrl"
  },
  {
   "codigo": "1057049-422-LE26",
@@ -3347,6 +3080,64 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=b2naV4pDDf5IhZ6eShW7Ev1LwDivlknSDkbCxQ0Tg3GTawsFbGVZihrc4fwn3AlsoWLTugdTeVUIp5ppwwKepKWrrVZIUA9rZ7i2%2fjnS%2f39sBwstCRfsDDVxrOOBZ4f9aDpjEPt8Abn4SD2kDdZv2Ays63Cf2Lt1eiOM4%2fu1WP%2fSjzYXbb09JgKR05TnlffqmtsntjHaUE2R4aR8xcL4qOPjP92bS0%2bDPe6rdmmWhQQ0hFhP35UYI1zvl8JBgV73WUPOpAYriTOy%2fQJ1CeTqQy2E8ZOldRQN%2fm4v9BuRikzdcJOTotDvKW7CU%2fnaSd4M"
  },
  {
+  "codigo": "5420-25-LP26",
+  "nombre": "Modernización Integral de Infraestructura TI",
+  "descripcion": "El Gobierno Regional de Arica y Parinacota requiere contratar la adquisición, implementación y modernización integral de su infraestructura tecnológica, incluyendo virtualización, almacenamiento, respaldo, redes y seguridad, con el propósito de fortalecer la continuidad operativa y modernizar los servicios tecnológicos institucionales.\r\n\r\nLa contratación comprende el suministro de equipos, licencias, instalación, configuración, integración, migración, pruebas, documentación, capacitación, garantías y soporte, de acuerdo con las Bases Administrativas, Bases Técnicas y anexos de la presente licitación.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-10-30T18:02:56.13",
+  "cierre": "2026-11-19T15:30:00",
+  "monto": 303000000.0,
+  "moneda": "CLP",
+  "organismo": "GOBIERNO REGIONAL DE ARICA-PARINACOTA",
+  "unidad": "Gobierno Regional de Arica y Parinacota",
+  "region": "Región de Arica y Parinacota",
+  "comuna": "Arica",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Computadores"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Servidores",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Computadores",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Adquisición e implementación integral de infraestructura tecnológica, servidores, almacenamiento, virtualización, sistemas de respaldo, redes, seguridad informática, licencias, migración, configuración, puesta en marcha y soporte técnico, según bases."
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-19T15:31:00",
+   "apertura_economica": "2026-11-19T15:31:00",
+   "respuestas": "2026-11-09T19:00:00",
+   "estimada_adjudicacion": "2026-12-14T19:00:00",
+   "duracion": "20 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 19,
+   "contacto": "Pamela Guillén Montecino",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-10-31",
+  "actualizado": "2026-11-07",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=Cl0quR0Lig%2bKGAf55uYZjazRLWep2FDybSrSUDsw2x3YfDnkzBELaW8yYFww6h4XhR04gnQ5DTg7%2fSOPDKp%2fuPMpYd4FS07c%2b1OiQ4wSRcOkZPXm02p9R1JvztkVc7UKfplaZoXpnv3QhIAIxfe1Q9zUCbLDF%2f6LHR1%2fAApNaVt5SJigstFcz8yp8%2b0RqvdM422R3kFtnzfHPrSVYKR9ejE5Rm19OZcYwgBnaMIH9ahjZEy1%2btciyaTi8pbzcTdSCZTbRQV%2fdBLQqG1gPmzJPzOX6BbvKkjBO%2bk2WhB7WGlqfyrHuc6SZcYIVGhLfTrl"
+ },
+ {
   "codigo": "1605-52-LR26",
   "nombre": "LR-5231 LICENCIAS DE SOFTWARE CONTROL M",
   "descripcion": "Adquirir licencias de Software Control-M modalidad Platform, las cuales serán utilizadas para automatizar, programar y monitorear procesos de negocio por un periodo de 36 meses.",
@@ -3401,8 +3192,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-10-20",
-  "actualizado": "2026-11-03",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=sG0HF01eW8fMfF1K%2f13RN9E767axFu88N4yef%2fDIimM4I0Poe%2b67weq%2fWx0bS%2bZxhyRgTQYz8dFLj0wtD7Bgv%2fZr9hYwFNs5W2ygar6PCuhnJTILmkldFSF4Ozn9D7T17nwFELS7dWs2zIjmLY%2fPkkegrUbi3xqtqVcoOoX6GICvYsKI7O0XQw4UkmRoApz2Y6qKGjGhNJFHCzGxvNNo9QnVGUwZw39QxOOLCF%2fixi8QCD%2bsJi%2bZ6x9BeQdY2HMn%2bNhnuFCAkxMzCPjmeYmXfaQqUsOzW6muHrlNv7iUQ4tE8KhDqsXfKgthfdO7r3d8"
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=FxJjGJW94nctcDnHNJPzzqee%2fiVpkTcf0EV3bKez5aL8xFKqHiwzQIuogustslKAKOnGtnMu2v6DC3PFxT0Hw0oyrVfNgG1gO1Zw%2f0cLXkKbUv%2bK7KcoZAjt1TvMwnmy%2f0A1%2f%2bJJyfG7Y8PSd%2fRBgPRo5Nzr9HbX3DFeQnNp80DK7ptOMMtLGyj1oYqsThhjVSK%2bJHm1m2UK%2fPPRt42ZGmZ1d%2f4UdGnIOgSc6%2bkZmm9Ca%2bKW1b8tMehRwD%2bzyBA9zHjx9oRGkXFrec%2bYSoDfwvoH7D4geLzYfMlUuSGoay5XXwi6fJlpMtgr1%2fYtKU0r"
  },
  {
   "codigo": "3608-28-LE26",
@@ -3651,6 +3442,122 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=tqmZlAlMYtVqRf1QQNpV42ZOYtD6TKhxoKq%2brrIX9PeeA5UA%2bGyd4Djtck%2bbXJQKWXU17Xfr5orSHaFclkoDh5SxXQ3QKNwc02DKFlVjdB5P%2bA5DTmDZKF2LuF0IIUoi%2fFejzkjAPEz%2b0PS0nnS%2fC%2fdSFaLTf0FHmYQBDHUl97jVj%2b1P0EnXKMg4agzziK%2b8yTJNZvwS9oKFpL6Yi3rHZOkjPCVYeUFj5AG36inUiQDQlBaanVazmadQ2psbRFuvW4iXwjhuIGtumDINmxfHBrZnwgsqoq9a0NWCT8tsb8bcw2zopgaNMFE9F%2fEpQBYX"
  },
  {
+  "codigo": "1019-131-LE26",
+  "nombre": "ADQUISICIÓN DE PLATAFORMAS SATELITALES",
+  "descripcion": "Adquirir equipos de medición y transmisión para ser instalados en las estaciones de la Red Hidrométrica Nacional, según se detalla en las Bases Técnicas, los cuales son indispensables para su funcionamiento.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-10T12:13:15.663",
+  "cierre": "2026-11-20T14:29:00",
+  "monto": 31800000.0,
+  "moneda": "CLP",
+  "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+  "unidad": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Santiago",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Plataformas de mensajería por móvil"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Plataformas de servicio de mensajería por ubicación",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos, plataformas y accesorios de redes multimedia, voz y datos / Plataformas de mensajería por móvil",
+     "cantidad": 6.0,
+     "unidad": "Unidad",
+     "detalle": "Plataformas satelitales para estaciones de la Red Hidrométrica Nacional, según especificaciones de Bases Técnicas"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-20T14:30:00",
+   "apertura_economica": "2026-11-20T14:30:00",
+   "respuestas": "2026-11-17T16:34:00",
+   "estimada_adjudicacion": "2026-11-30T19:00:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": true,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "PRESUPUESTO DISPONIBLE",
+   "financiamiento": "2905002 Programa 02 Adm.de Infraestructura",
+   "obras": false,
+   "reclamos_comprador": 118,
+   "contacto": "Hernan Albornoz",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=ra5sNEOJ3tq5yjI3KekaVeveBn6eSRvjadS7%2fjjOFqa0OXAfChgzk7T6n0DNSGKoIKr0zbdIAllx2B98iTy6TsZmODkBbfkx16rv0uGHwb%2brft1QWqqBrJWQ7he5BHh%2f1GPMtFxttAQEwfJTPP50SpAz%2fXmMP5il4RzA%2fSZ2beLDa8eT5uTowxXyFAUu1VFocp15QjWALkbw3OzhijPlLymgiO9VZ5HhYsTxpX8OL08P85M%2f2byaud0jva3OCXDw%2bQf96cdkzxXNXfZXTpc5wcIprGWpUJfJKS%2blCqgZKpFRRXzj4I7eY1QSatTTvVSD"
+ },
+ {
+  "codigo": "757-109-LE26",
+  "nombre": "[DIFAI] ARRIENDO DE GPS Y PLATAFORMA DE MONITOREO",
+  "descripcion": "El Ministerio de Salud llama a licitación pública para la contratación de servicios de estándares de simple y objetiva especificación denominado “SERVICIO DE ARRIENDO DE GPS Y PLATAFORMA DE GESTIÓN DE MONITOREO SATELITAL (SGMS) PARA DOTACIÓN VEHICULAR DE LA SUBSECRETARIA DE SALUD PÚBLICA Y SUBSECRETARIA DE REDES ASISTENCIALES",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-10T10:10:43.62",
+  "cierre": "2026-11-20T15:00:00",
+  "monto": 38000000.0,
+  "moneda": "CLP",
+  "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+  "unidad": "Subsecretaría de Salud Pública",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Santiago Centro",
+  "categorias": [
+   "Vehículos y equipamiento en general / Componentes para vehículos en general / Sistemas de localización y navegación"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Sistema de posicionamiento global para vehículos",
+     "categoria": "Vehículos y equipamiento en general / Componentes para vehículos en general / Sistemas de localización y navegación",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "SERVICIO DE ARRIENDO DE GPS Y PLATAFORMA DE GESTIÓN DE MONITOREO SATELITAL (SGMS) PARA DOTACIÓN VEHICULAR DE LA SUBSECRETARIA DE SALUD PÚBLICA Y SUBSECRETARIA DE REDES ASISTENCIALES"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-20T15:01:00",
+   "apertura_economica": "2026-11-20T15:01:00",
+   "respuestas": "2026-11-18T09:00:00",
+   "estimada_adjudicacion": "2026-12-21T18:48:00",
+   "duracion": "24 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 1889,
+   "contacto": "Claudia Muñoz",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=VG9kvTa5alNMG6cFoihfhZZR5x1MZpOpDMPCxNtr9vpHHjBckksg5%2fz5RYQMvWqhRxxYmuJe%2bmk1VEsw1aKpgejuNOQdAYiE76maruJIM5qOs%2b4rxuDkrhdvHG6OFQG6G%2fGRZPMVaZVAiZS4zI%2f02EoBiIo2UY3Btb%2fjHg19oVaWGePQS0j4I8Xomhm6zH0Qu8P8DpzP5yNNqcT1QP%2f7fm0oIE40xs8y47QCQ7ho5MBGppCQkfYFL4LFj7McOXqpMa9bQ8ufC3EqQwO%2bYRwAa%2b0iai%2f0SPzWPCfX3aXqDRVcf34%2f7zJtTPnNY1f0NgfK"
+ },
+ {
   "codigo": "875646-81-LE26",
   "nombre": "SERVICIO DE CONTACTABILIDAD DE PACIENTES MEDIANTE INTELIGENCIA ARTIFICIAL POR 36 MESES",
   "descripcion": "Que, el Hospital Dr. Eduardo Pereira Ramírez requiere contratar el “Servicio de Contactabilidad de Pacientes mediante Inteligencia Artificial por 36 meses”, con el\r\nobjeto de optimizar los procesos de comunicación, confirmación de citas y gestión de la lista\r\nde espera, contribuyendo a disminuir el ausentismo (NSP) y asegurando una atención\r\noportuna e integrada a los usuarios del establecimiento",
@@ -3765,6 +3672,85 @@
   "visto": "2026-11-06",
   "actualizado": "2026-11-06",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=6WoqxmYCcxjrqV7ZJ43kcTg1uXpsZ8lfMoeHz6kC%2bF%2f3rYvZxsVpv77EMk4igmNTBJ5up325dAaG4avYEIKHUe9qvDrRa2%2fqxxSQOMaR%2fQ8y5PdM%2b%2bgRdtktOfHE1p%2f06EcnpDpBPY4Xu3ZndFF6KEIXylkg69VFDKAqqRqTi%2fyjKLz0OLajGw9RRKgsNJjIhn%2fykiPsQfqWQsFay7HIxjUvLrLfsippiw2MDS5bDcVrtmxKbWrFv%2fFrJkJQPRivfsOvcXZKCOsyEriEZX6CVI4ZPqmAn%2b7yzgiE3h60sxtWt4eoE6OsZZfMljXznfw7"
+ },
+ {
+  "codigo": "1596-69-LE26",
+  "nombre": "SOFTWARE PARA LA REPOL MAULE-PDI",
+  "descripcion": "“REPOSICIÓN Y ADQUISICIÓN DE EQUIPOS INFORMÁTICOS PARA LA REPOL MAULE-PDI”, Código BIP N° 40.033.198-0 SOFTWARE",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-10T12:32:14.57",
+  "cierre": "2026-11-23T15:00:00",
+  "monto": 70829000.0,
+  "moneda": "CLP",
+  "organismo": "GOBIERNO REGIONAL VII REGION",
+  "unidad": "Gobierno Regional del Maule",
+  "region": "Región del Maule ",
+  "comuna": "Talca",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Paquetes de software para oficinas",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 16.0,
+     "unidad": "Unidad",
+     "detalle": "Adobe Acrobat Pro-2024 o Equivalente"
+    },
+    {
+     "producto": "Paquetes de software para oficinas",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 10.0,
+     "unidad": "Unidad",
+     "detalle": "Photoshop versión 2025 o Equivalente"
+    },
+    {
+     "producto": "Paquetes de software para oficinas",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "Vector Works Architect 2025 o Equivalente"
+    },
+    {
+     "producto": "Paquetes de software para oficinas",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 5.0,
+     "unidad": "Unidad",
+     "detalle": "Adobe Creative Suite o Equivalente, versión más reciente"
+    }
+   ],
+   "items_total": 4,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-23T15:01:00",
+   "apertura_economica": "2026-11-23T15:01:00",
+   "respuestas": "2026-11-16T17:00:00",
+   "estimada_adjudicacion": "2026-12-23T17:00:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 22,
+   "contacto": "CRISTIAN ARELLANO ORREGO",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=pwtjzib3ECEyft4ovGtOsl0fcZSWtpNdDzvM68VSeuiQymPL1pWGGAvrk8YtsjyMdVicoCZ4qvLbZzeVLYPYQ0a32yyTZy6mWaMzFFDMojPiXw6q%2b8%2bX8d%2ftSYcnHESe0HytjyWZdGrfWe6eMyiWPCFhlv8LmNxMFKUWXqY4zVqooRhzQsXhXsomNvfPRRaDJPdMh1g3bxtv%2fAxMsvWTXlZloZQ14KFBuQFZuSPry4NZ0nnz%2fGqp3YQ5iHJ%2fs%2bnSUCPT5tK6LPv4X%2b%2bCyWt0WjQLATV1cJU%2f6lAIcQOlJGukFCk%2fj%2brj0PZNCAKrJ3cA"
  },
  {
   "codigo": "1456837-4-LR26",
@@ -3941,64 +3927,6 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=4xtr3qRoMoEV2r5zWk2oZatfpiN2uCBnr3%2b9cip571HZ%2fhk1m77%2bjsAUZ0mdupwxbfSEAW6NnuPG5If23kDxaquhOy%2fIjPn5HALHtqlCuHspGDQWKrzIJ%2bkzNwrGzVRZ7xBRfJrSF0NVIco4dd3tDxqUwk%2bneomVnDMtxq6t2i8qKI9EwlkHZdoiIalF9aimoByHwA2bO6oYkDCeSKivvKcNFFC4F0g3LxdnLtL5Q79PBrYzicB7eHpwsjxjoP%2fCkNpWLybxhv0Fd%2fEIYn7g4YGRf7BRHKaZfsIU0jXvZQnXYdZ7FR3YU26YPYPLOqT5"
  },
  {
-  "codigo": "885-106-LP26",
-  "nombre": "Renovación de licenciamiento de plataforma FortiNAC para la CGR",
-  "descripcion": "La Contraloría General de la República requiere renovar las licencias de su plataforma FortiNAC para una capacidad de 6.000 endpoints concurrentes, considerando la renovación de las licencias, suscripciones y coberturas asociadas por un período de 24 meses, debiendo todos los componentes mantener una fecha de término fijada para al 15 de febrero de 2029.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LP",
-  "publicacion": "2026-11-03T15:27:49.35",
-  "cierre": "2026-11-23T16:00:00",
-  "monto": 95000000.0,
-  "moneda": "CLP",
-  "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
-  "unidad": "Contraloría General de la República",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "Renovación de licencias de plataforma FortiNAC para una capacidad de 6.000 endpoints concurrentes, considerando la renovación de las licencias, suscripciones y coberturas asociadas"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-23T16:05:00",
-   "apertura_economica": "2026-11-23T16:05:00",
-   "respuestas": "2026-11-16T12:00:00",
-   "estimada_adjudicacion": "2026-12-23T18:00:00",
-   "duracion": "24 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "precio referencial",
-   "monto_nota": "Para la renovación de licenciamiento FortiNAC, la cobertura del servidor FortiNAC Control  Application y la suscripción FortiNAC para 6.000 endpoints.",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 33,
-   "contacto": "Tania Cornejo Abarca",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-11-04",
-  "actualizado": "2026-11-04",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=nBEgJMmAVS%2bTfd%2bL5eX04ivRWql7Vj2XtDjoVd7CEVBS44Ovj2nwq8NaKFir9R%2f3z36O4oU1EeEEvYkaVXuI%2fMchjWuNO%2b449%2bgaf1PddlM169nw%2fdbwV6aWPurgAa2VwkfM8bZpuYKhpTeYIIY%2bWVkKo0RRs1pp%2bKTnPuwqrZWRGPzAwemo5gfAiGL3YhuQOPzQQHO7%2fEer7yhLk9a8yUKWY44CGEjrY6E6ZxnF737IwqD9M9wnmVKX%2bZG2mzrPkWjY3HzOw2t97dVX7xmh3%2blMb2rMHd0L6s66Z1xtzZb512QWJHKwQZEkgRG9gSDd"
- },
- {
   "codigo": "3378-68-LP26",
   "nombre": "SERVICIO DE PAGO CON TARJETAS DE DÉBITO CRÉDITOS Y PREPAGOS DE FORMA PRESENCIAL AUTOATENCIÓN POR SITIO WEB Y CONCILIACIÓN BIDIRECCIONAL DE TRANSACCIONES PARA EL HMS” POR 60 MESES",
   "descripcion": "Que es de gran importancia para el HMS, poder contar con un servicio de pago unificado (débito, crédito, prepago) y conciliación automatizada, que permita garantizar la continuidad operativa, reducir pérdidas financieras por errores manuales y mejorar la experiencia del paciente.",
@@ -4055,6 +3983,64 @@
   "visto": "2026-11-02",
   "actualizado": "2026-11-09",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=ialKHr62w8nyO50SyTRu99NBvyFXS0pRtfEqMQrVh19X%2fOkhm%2fr49Jz72JSW2QVRSjo05l%2ffPJi%2faKlOi642KU5LzJS4SPkHznc2%2bnx4CNaMKuxZOlVc0hoDGN1VLtvWB1QHrjyEO8Pgy%2fuh2kDNQH39mfoo2j9w895DVjoyKa6KmCRJ5UNvOHz5c1rI42Jn34PhPP2uAXZaERr1zavMh1CVwTwUTj5sqcU1ea9uMPjXg3z3wkls29yDFRUmvXus5t18czCIjTtoLz8cw64QpGs%2b3i%2bLM%2fNJOkCcrk%2fZxdRulpU4MuerV%2fVKxMXYzlIH"
+ },
+ {
+  "codigo": "885-106-LP26",
+  "nombre": "Renovación de licenciamiento de plataforma FortiNAC para la CGR",
+  "descripcion": "La Contraloría General de la República requiere renovar las licencias de su plataforma FortiNAC para una capacidad de 6.000 endpoints concurrentes, considerando la renovación de las licencias, suscripciones y coberturas asociadas por un período de 24 meses, debiendo todos los componentes mantener una fecha de término fijada para al 15 de febrero de 2029.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-11-03T15:27:49.35",
+  "cierre": "2026-11-23T16:00:00",
+  "monto": 95000000.0,
+  "moneda": "CLP",
+  "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
+  "unidad": "Contraloría General de la República",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 1.0,
+     "unidad": "Global",
+     "detalle": "Renovación de licencias de plataforma FortiNAC para una capacidad de 6.000 endpoints concurrentes, considerando la renovación de las licencias, suscripciones y coberturas asociadas"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-23T16:05:00",
+   "apertura_economica": "2026-11-23T16:05:00",
+   "respuestas": "2026-11-16T12:00:00",
+   "estimada_adjudicacion": "2026-12-23T18:00:00",
+   "duracion": "24 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "Para la renovación de licenciamiento FortiNAC, la cobertura del servidor FortiNAC Control  Application y la suscripción FortiNAC para 6.000 endpoints.",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 33,
+   "contacto": "Tania Cornejo Abarca",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-04",
+  "actualizado": "2026-11-04",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=nBEgJMmAVS%2bTfd%2bL5eX04ivRWql7Vj2XtDjoVd7CEVBS44Ovj2nwq8NaKFir9R%2f3z36O4oU1EeEEvYkaVXuI%2fMchjWuNO%2b449%2bgaf1PddlM169nw%2fdbwV6aWPurgAa2VwkfM8bZpuYKhpTeYIIY%2bWVkKo0RRs1pp%2bKTnPuwqrZWRGPzAwemo5gfAiGL3YhuQOPzQQHO7%2fEer7yhLk9a8yUKWY44CGEjrY6E6ZxnF737IwqD9M9wnmVKX%2bZG2mzrPkWjY3HzOw2t97dVX7xmh3%2blMb2rMHd0L6s66Z1xtzZb512QWJHKwQZEkgRG9gSDd"
  },
  {
   "codigo": "1057898-85-LR26",
@@ -4122,6 +4108,64 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=0H9etRw%2bW%2f7BHQE3BHYt2FGuP8%2bPTJ80CpQXLeQJGu5ExOntKcyThpIXJXftFBDiTUG9uDl4taNAFh6GqsXSMhCTXw6QA638DDXlLSGm89EBrcHkh3sgZeA7Imq2xy%2bDq%2bWENcqOknGbOmp9oGcvfLTRzMHJz%2fU082pnBBW7%2fbUxOPdPEoQmnt1ob8HPLWDK%2fsmsNYKNg0UNbuPd4xJ8WaZ6a8HF6NljPAtrcNNXpAxQcNzaHs805LFMBegg62sfmt5Nd1VkjHAj2SZgMXWmmq07sara%2bJia7EfmZQyfjYuZbLS5wtBL2h86OZLLJbkw"
  },
  {
+  "codigo": "568658-79-LE26",
+  "nombre": "ESPIRÓMETRO DIGITAL DE SOBREMESA",
+  "descripcion": "DAR CUMPLIMIENTO A LA GESTIÓN DE BIOSEGURIDAD Y PREVENCIÓN DE INFECCIONES CRUZADAS. PARA ESPIROMETRÍA INFANTIL Y ADULTO EN CENTROS DE DEPENDIENTES DE LA DIRECCIÓN DE SALUD DE LA CMVM.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-10T10:11:18.36",
+  "cierre": "2026-11-23T17:30:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "CORPORACION MUNICIPAL VINA DEL MAR PARA EL DESARROLLO SOCIAL",
+  "unidad": "CORPORACION MUNICIPAL VINA DEL MAR PARA EL DESARRO",
+  "region": "Región de Valparaíso ",
+  "comuna": "",
+  "categorias": [
+   "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos de comprobación y tratamiento de las funciones pulmonares"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Espirómetros, accesorios o suministros",
+     "categoria": "Equipamiento y suministros médicos / Productos de resucitación, anestesia y respiratorios / Productos de comprobación y tratamiento de las funciones pulmonares",
+     "cantidad": 7.0,
+     "unidad": "Unidad",
+     "detalle": "ESPIRÓMETRO DIGITAL DE SOBREMESA \r\nDE ACUERDO A BASES TÉCNICAS"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-24T09:00:00",
+   "apertura_economica": "2026-11-24T09:00:00",
+   "respuestas": "2026-11-18T15:00:00",
+   "estimada_adjudicacion": "2026-12-04T14:00:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "De acuerdo al numeral 20 de las bases Administrativas",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "Presupuesto Disponible",
+   "financiamiento": "CONVENIO MAIS",
+   "obras": false,
+   "reclamos_comprador": 563,
+   "contacto": "Ronald Meza Puentes",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=rYn6YoR9p7kuoES%2bs0L9PvXVAU9K1R13XmhOZGELAkDWIz5Okec%2bGHZxOFNw%2fWngWhoYqRLHQq76HfjxR5pL5wqB0TlCK0fijcNQwjiFLoTFe%2f%2b51fpBaljwGCSWrvEv1FFJ%2frYj%2b9qzGadlk5gmtMOAkEPeBRG32ga%2fzaX%2fxwYtbRW9vQraYdSj9XWzEuhQc8Erxx%2bU8zn%2fU5yicdxnEi8XnXioTHPxDAno%2fRBqnENWcsOTVrzBLdz%2fhFcSBmmQtrq%2blT9vNlN339g%2fFqaC2tfeEQ%2fwb7MmSnAX1zPdAq%2fELo6gx5nr9c6G17380dZA"
+ },
+ {
   "codigo": "1020-38-LP26",
   "nombre": "Adquisición de Plataforma Next Generation Firewall",
   "descripcion": "Se requiere adquirir una solución consistente en dos 2 Firewall de Seguridad en alta disponibilidad, con la capacidad de crear instancias virtuales de NGFW, que deben proveer funcionalidades de IPS, filtrado de URL, control de identidad, control de QoS, protección de malware y seguridad DNS. Lo anterior administrado a través de una sola consola, además de incluir soporte 7X24 por 1 año de misión critica. Esta solución debe incluir el proceso de migración de firewall de datacenter.",
@@ -4186,6 +4230,122 @@
   "visto": "2026-08-30",
   "actualizado": "2026-11-08",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=tSicCC1LEy4NbcA70TOUf0AyBrhc87BHPh6p59hyeJmvMggrgVIkkvkVb4pXzbeApodCFBwJ0%2b9EURYcpik6LowFVv4a2YRxsEfGKkH6UmfY6H9gdZc0LXdHC%2bX5qXdWQwASCaJRNAGtmzCGXizs4ePgCUc96i8VsanOwSIL6La9lRIAvte%2b0rBm%2fy5UAIG0mqvn48Jmpz4A0VRML46lp77eZf9w4QwAwG1lpJTqwryVIx0VS1WZEoZ9F4Eb7IgOEtj%2fgh%2f4feNvLfW0RkHaYtBIE9sLN%2f4tl7%2fg1qaLSCyrFVIHmeLK62BPxec3R3et"
+ },
+ {
+  "codigo": "1306643-26-LE26",
+  "nombre": "PLATAFORMA DE GESTIÓN ADMINISTRATIVA",
+  "descripcion": "Plataforma integral para la gestión administrativa, control y ventas de Farmacias Populares, Óptica Popular y Droguería Comunal, con funcionalidades y obligaciones previstas en Bases Técnicas, Bases Administrativas y anexos.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-10T14:35:17.187",
+  "cierre": "2026-11-24T15:00:00",
+  "monto": 25704000.0,
+  "moneda": "CLP",
+  "organismo": "I.MUNICIPALIDAD DE CERRO NAVIA",
+  "unidad": "SERVICIOS TRASPASADOS DEPARTAMENTO DE SALUD",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Cerro Navia",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de gestión de adquisiciones",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 1.0,
+     "unidad": "Global",
+     "detalle": "Plataforma de gestión administrativa, control y ventas para Farmacias, Óptica Popular y Droguería Comunal"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-24T15:01:00",
+   "apertura_economica": "2026-11-24T15:01:00",
+   "respuestas": "2026-11-18T15:00:00",
+   "estimada_adjudicacion": "2027-01-08T15:00:00",
+   "duracion": "36 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "",
+   "financiamiento": "Municipalidad de Cerro Navia",
+   "obras": false,
+   "reclamos_comprador": 483,
+   "contacto": "Francisco Piña",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=txC2cYukggbJUFjv6uN7dSaUKY03bp66PW1Pzozbv%2b97tGOJem%2bIW5jKFLXN6jedAzYw7UxM%2f35fvFmVHKMYpOxLvxNoo%2b3hKGANS%2f6M4o%2bjFuuWawnVl5vdFX4AJ0Q7IrsilKJi%2bv1CGOTfq75Ylq%2fb07oddK32hdCJO4OBgMyGCikU6wpB3yTbdebI2YYZ8s6j%2bmvpxhKFUyzR6tr0WlFVD53iUJ8E%2bIMlGjbLUSvyjcKbuIQmDd08ccXP3w5hzLA59KaQwlNV1jPkJneH%2f2XqdQ2%2bCmxhoBbxTBqzWIjzzhtLSCZrP94ZG8Jra3Lg"
+ },
+ {
+  "codigo": "2345-192-LE26",
+  "nombre": "ADQUISICIÓN DE LICENCIAS SOFTWARE Y HERRAMIENTAS DE PRODUCTIVIDAD DESARROLLO ANÁLISIS DE DATOS E INTELIGENCIA ARTIFICIAL",
+  "descripcion": "El objetivo de este proceso de licitación es adquirir licencias de software y herramientas de apoyo al desarrollo de soluciones tecnológicas, que faciliten la gestión y el control de versiones de código fuente, el trabajo con bases de datos y la colaboración entre los integrantes de los equipos de desarrollo de la institución.\r\nAsimismo, incorporar herramientas de inteligencia artificial para apoyar las tareas de programación, documentación, revisión y optimización de código, contribuyendo a mejorar la productividad de los equipos y la calidad de las soluciones desarrolladas, por un periodo de suscripción de 12 meses.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-10T10:25:58.647",
+  "cierre": "2026-11-24T15:01:00",
+  "monto": 33000000.0,
+  "moneda": "CLP",
+  "organismo": "I MUNICIPALIDAD DE LAS CONDES",
+  "unidad": "I MUNICIPALIDAD DE LAS CONDES",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Las Condes",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de gestión de licencias",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Anexo N°3\r\nOFERTA ECONÓMICA NETA\r\n(Sumatoria Columna C)"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-24T15:30:00",
+   "apertura_economica": "2026-11-24T15:30:00",
+   "respuestas": "2026-11-18T20:00:00",
+   "estimada_adjudicacion": "2027-01-25T12:00:00",
+   "duracion": "12 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 148,
+   "contacto": "Jefe de Tecnologías de la Información y las Comuni",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=7%2blyJwm8jIT7l27fsQxWjceUVsJLYskeywIrpWInmzvzwTzuzYL1h6dACLYi7eIMfYp5fjt2XdqZ4zGmNdaVDf3fTMcvIbDMCiWmx%2bNq%2fVXzs4EVnhOCr43ow0dN5SOgcfkWzCxlPqzpRbThFquHdCNyJR5rfA5jUj9S9Lq0wuiBHMNuzNGE4V4AJRgWgq5yUlNu7pZi5%2b3a39FU2c11x3c3CXyz2S3bJJsQeMDNHDyTouA%2fOlKNtWzInxz7MX%2fR9MuZAhxsrTNpfKt5b%2bBYzjcI2w9PZGUtduyL0eZmlPueErUWR4L%2fJ5dkpeSwqyTL"
  },
  {
   "codigo": "1561172-3-L126",
@@ -4367,6 +4527,64 @@
   "visto": "2026-11-05",
   "actualizado": "2026-11-05",
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=uTdRr8ORfTjqS1cgUmkVSjlJAG9wnNmdiyH%2f13FsY7tE4dQvSXogEGVcziGA6TjjT9idL4VuUtrnzPRTHf%2flevsnol8EQEKf00uyDp%2f2JM07HWcHnkL5oHRlD1s6Lx7rVaiKHw4q4AGbAZNUrcUDbYD%2bo%2b6I59ZHeUAQZKKyc0A7HKvgBXmMr1mjKtrlBKIEgASWv0JkEFb%2fIiPwaRi4wnX4nO5tXEJJa4mbVYigNbDKdWd9ZccfqUQJXTQzDFAYRx9ZC5AgGtdiEtQPWmrop7SOqllTIQNo9Ybny4g0MRegI4trcldv%2bgvlwQ6xWhso"
+ },
+ {
+  "codigo": "2656-99-LE26",
+  "nombre": "PLATAFORMA DIGITAL PARA LA DOM TOMÉ",
+  "descripcion": "CONTRATAR EL SERVICIO DE PLATAFORMA DIGITAL PARA LA TRAMITACIÓN EN LÍNEA ANTE LA DIRECCIÓN DE OBRAS MUNICIPALES DE TOMÉ. EL SERVICIO INCLUYE IMPLEMENTACIÓN, INTEGRACIÓN CON EL SISTEMA MUNICIPAL, MIGRACIÓN DE DATOS Y CAPACITACIÓN, SEGUIDAS DE 18 MESES DE LICENCIAMIENTO, SOPORTE Y MANTENCIÓN, CONFORME A LAS BASES ADMINISTRATIVAS Y TÉCNICAS.\r\nIDDOC: 1463749\r\nFUSA: 13765",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-10T09:19:00",
+  "cierre": "2026-11-25T12:00:00",
+  "monto": 54000000.0,
+  "moneda": "CLP",
+  "organismo": "I MUNICIPALIDAD DE TOME",
+  "unidad": "Dirección de Administración y Finanzas",
+  "region": "Región del Biobío ",
+  "comuna": "Tomé",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de planificación de recursos empresariales (ERP) y contabilidad financiera"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de trámites fiscales",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de planificación de recursos empresariales (ERP) y contabilidad financiera",
+     "cantidad": 1.0,
+     "unidad": "Kit",
+     "detalle": "SERVICIO DE PLATAFORMA DIGITAL PARA LA DIRECCIÓN DE OBRAS MUNICIPALES DE TOMÉ, CON IMPLEMENTACIÓN, INTEGRACIÓN, MIGRACIÓN DE DATOS Y CAPACITACIÓN, MÁS 18 MESES DE LICENCIAMIENTO, SOPORTE Y MANTENCIÓN."
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-25T12:05:00",
+   "apertura_economica": "2026-11-25T12:05:00",
+   "respuestas": "2026-11-17T12:44:00",
+   "estimada_adjudicacion": "2026-12-15T18:53:00",
+   "duracion": "20 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "EL MONTO ESTIMADO CORRESPONDE AL PRESUPUESTO MÁXIMO DISPONIBLE DE 54.000.000, IMPUESTOS INCLUIDOS, FINANCIADO CON RECURSOS DEL PRESUPUESTO MUNICIPAL, SEGÚN EL NUMERAL 4.1 DE LAS BASES ADMINISTRATIVAS.",
+   "financiamiento": "I.MUNICIPALIDAD DE TOMÉ",
+   "obras": false,
+   "reclamos_comprador": 962,
+   "contacto": "JOSÉ CARLOS PÉREZ CANTIN",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=MzmKWN%2f1CQtrqVygoGlPnrH1XU9q3ZWC5faTPArP7blPFlNb%2fYQaE8FJsvbN82dPlEVJL9sfDlpbOgDg%2bLRvi6VQJV7DB1jMh5QqYmFlNx%2faKXXM1oFQZpj6nGbYU%2b0y9rRCQX8ePxzHB6h%2fMbu6g5rGMbjmqe04NxMFkPicmnmnlOugmPgl0wVUzySfPhH9dLZmDLhmbvvpYtLUAZrXbw%2fKqXUaEV7Ij58JW7M5kpiR2mAp1c7xIa%2ftF%2f6p5xyACORI8yoPMdWavXw1CzW05b9Jen9gpX9KyCOro6fhXQkS3ySp5VAo2L%2fK9U2VIhKS"
  },
  {
   "codigo": "4160-28-LE26",
@@ -4725,64 +4943,6 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=ZOchSixv%2fGw1EsomItlwLmuO%2bagbm2Gtv1yTSv0Jo1yv13SffBtV9iVEzwtsbP4mBuSh8VEMAwQZj7a6WNh5Kced0%2bcYOOKco6PWSCpQN4IcwWqorugGGlq6DTtRuUZRcpqXF3f3hr0hi7sC6JIaFOL5p8NZa%2fTKHUzvqkVqwVXJB9NRQFSior1cLos%2f3cdzyOZ5RJLwVP2XbozioCOcEyFPK%2fJA8xQXMYb9iZzq8NlhJshPM%2bL4uIamuc%2bBF5ZFjdtvoMVHpkdHG69PBLx%2bIot4Nne2AqcntFijW09MXxEt5HR3PrWSXIdrTlw714cH"
  },
  {
-  "codigo": "4301-70-LR26",
-  "nombre": "implementación y arriendo plataforma de software",
-  "descripcion": "La Ilustre Municipalidad de Zapallar, en adelante e indistintamente la “MUNICIPALIDAD” o el “MUNICIPIO”, llama a licitación pública para la contratación, denominada “implementación y arriendo plataforma de software de gestión municipal”",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-10-27T16:10:12.79",
-  "cierre": "2026-11-27T09:00:00",
-  "monto": null,
-  "moneda": "CLF",
-  "organismo": "I MUNICIPALIDAD DE ZAPALLAR",
-  "unidad": "IMUNI_ ZAPALLAR",
-  "region": "Región de Valparaíso ",
-  "comuna": "Zapallar",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de administración",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "implementación y arriendo plataforma de software"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-27T09:01:00",
-   "apertura_economica": "2026-11-27T09:01:00",
-   "respuestas": "2026-11-05T16:00:00",
-   "estimada_adjudicacion": "2026-12-31T18:50:00",
-   "duracion": "48 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 156,
-   "contacto": "informática",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-10-28",
-  "actualizado": "2026-11-04",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=PdW%2bOn9bzg5jbkgyHMFslOl0PucDU5VIRXdOI1pkW9jjVVpcIf24IDAWoMGl3HKO5HrBKhw2VYVcd7izpf3JNz1VB93xj6k2i4MdgWxVmCy%2fxdon76fF8xK5o759rUPfpKxhpC9CCu3BFpQEO%2bZLSzXVMxL%2bIiuSYORd31y6Qehup7BODOJYNjvfRG5KjTxkKYyuet0D%2b25c4GaiXAPizagjiwXIjbBW%2bKW3xu%2fwnVDz7XRXgKkkIz771ypi5PNJirHl5vQQpKK6xn9Z0Og%2fRrht2yjF0xffLv2dVUvG89yCLzcqoqrhAW5bgWiElSGF"
- },
- {
   "codigo": "622-73-LR26",
   "nombre": "CRÉDITOS CLOUD COMPUTING AWS PLATAFORMAS DE TGR",
   "descripcion": "Adquisición de Créditos Cloud Computing AWS, en adelante “AWS”, a ser utilizados como recursos cloud de alta disponibilidad que sean de fácil acceso y de altos estándares respecto del desempeño, niveles de servicio y seguridad, los que se utilizarán de forma mensual por un período de 12 meses o hasta que se consuman los créditos, lo que suceda primero. Esta licitación comprende UN ÍTEM, con dos componentes,  que será adjudicado a un solo proveedor quien deberá ofertar por cada uno de los componentes y proveer todo lo solicitado, conforme a lo indicado en las bases técnicas. \r\n\r\nEl item de esta licitación será adjudicado a un solo proveedor quien deberá ofertar por cada uno de los componentes y proveer todo lo solicitado.",
@@ -5050,6 +5210,180 @@
   "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=%2bevwEN%2b4pIiWK8GVR0Vf2oR0aJdWphNYA0BI9BHpLuUznuSQzHTROmPcMhWWVXOhwiCGJBiQ99wwnQGXmLEj9LlNjGF7fXaNvSbX1Kxzrn5voN0OdwrSH9K6UB6k1FvV6ErGnSpmEfVZA4BDNf2%2fE%2fwEtuG7u8ILSxTQxYqVZ%2b5i6yQknWlXV2LMZvz2jjbdAjsfrWHudZ%2fAydyYXN0qP6po7UbQyAq6IFvrdqKk%2bapITRZWDQKY5yzrhut4ULWMaHLYjdU8FvKmWSqsa39ej1Bi3KIuaXYzeUeM6sKUQqfd9BRe24hAy41u9IJqL9Fu"
  },
  {
+  "codigo": "2898-17-LE26",
+  "nombre": "CONSTRUCCIÓN TOTEM DE SEÑALIZACIÓN CRUCE VILLA CERRO GUIDO",
+  "descripcion": "El Proyecto considera la construcción de un tótem de señalización al llegar a villa Cerro Guido ubicado  \r\nen Ruta 9 norte Km 348,6 de la Comuna de Torres del Paine. El proyecto consiste en la instalación de \r\n4 columnas tipo tótem en forma de cruz con la finalidad de orientar sus caras hacia los diferentes lugares  \r\nde atractivos turísticos.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LE",
+  "publicacion": "2026-11-10T14:32:37.257",
+  "cierre": "2026-11-30T15:01:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "ILUSTRE MUNICIPALIDAD DE TORRES DEL PAIN",
+  "unidad": "SECPLAN",
+  "region": "Región de Magallanes y de la Antártica",
+  "comuna": "Torres del Payne",
+  "categorias": [
+   "Servicios de construcción y mantenimiento / Construcción de edificios en general / Construcción de obras civiles y infraestructuras"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Construcción de obras civiles",
+     "categoria": "Servicios de construcción y mantenimiento / Construcción de edificios en general / Construcción de obras civiles y infraestructuras",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": ""
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-12-01T10:00:00",
+   "apertura_economica": "2026-12-01T10:00:00",
+   "respuestas": "2026-11-25T16:00:00",
+   "estimada_adjudicacion": "2026-12-07T16:00:00",
+   "duracion": null,
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "presupuesto disponible",
+   "monto_nota": "",
+   "financiamiento": "PMU Subere",
+   "obras": false,
+   "reclamos_comprador": 25,
+   "contacto": "Patricia Avila Montero",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=FB%2bvH6f7N4%2fdYvk8GldEzpCOjW0QHKLibmSZ%2buTmpdyHwNa%2fe6YxG6%2fp%2bwj63j%2bsbRSW4h530D1gBc8GaqFU%2btudStz6w7ujcBNFCntmJ6VncmNuQWIMzZaLSnYaBMU9Zfs0yufo1qP4B5xiuaSrYbHff0TfYdtM8miEhBg9dJO8aAwOe0Fjc0%2bRdZ1FtGo2Qd%2f%2fKe7eakwHetvdK1j0TEBt9NtmtkPBnVa42R2DyX4tVHSDrsfx2oLTv4yUdMzuFhoWbHSMzTlQ9t9M9kEE4O1U638O7tgmLbPdImMt%2fvtpi%2b0%2bZgKB1%2bBmgdBePNie"
+ },
+ {
+  "codigo": "5251-105-LP26",
+  "nombre": "Tótems solares sustentables RED22993",
+  "descripcion": "Contratación del servicio de ingeniería de detalle, fabricación, suministro, embalaje y transporte de 18 Tótems Solares Sustentables y al menos 20 miniaturas asociadas para el Proyecto Red Compromiso con el Desarrollo Sustentable. Busca visibilizar el compromiso institucional, proveer energía solar y educación ambiental en campus, y fortalecer el trabajo colaborativo entre universidades del Estado.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-11-10T09:43:35.57",
+  "cierre": "2026-11-30T15:30:00",
+  "monto": 154800005.0,
+  "moneda": "CLP",
+  "organismo": "UNIVERSIDAD TECNOLOGICA METROPOLITANA",
+  "unidad": "DEPARTAMENTO DE ABASTECIMIENTO",
+  "region": "Región Metropolitana de Santiago",
+  "comuna": "Santiago",
+  "categorias": [
+   "Maquinaria para generación y distribución de energía / Transmisión de energía eléctrica, mecánica y cinética / Grupos electrógenos"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Generadores solares",
+     "categoria": "Maquinaria para generación y distribución de energía / Transmisión de energía eléctrica, mecánica y cinética / Grupos electrógenos",
+     "cantidad": 18.0,
+     "unidad": "Unidad",
+     "detalle": "Totem solar sustentable multipropósito: fabricación, suministro y transporte en 18 universidades, con carga USB, iluminación LED, pantalla informativa, estructura metálica y sistema fotovoltaico autónomo, más miniaturas y manuales."
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-30T15:31:00",
+   "apertura_economica": "2026-11-30T15:31:00",
+   "respuestas": "2026-11-20T20:00:00",
+   "estimada_adjudicacion": "2026-12-31T20:00:00",
+   "duracion": "6 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "Determinado en base a precio referencial con IVA incluido. Las ofertas deberán ser subidas en valores netos.",
+   "financiamiento": "Universidad Tecnológica Metropolitana",
+   "obras": false,
+   "reclamos_comprador": 466,
+   "contacto": "Catalina Fuentes Castro",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=RyoKi0Y%2bbGHLvag0bmhBAzDK3vOhmLuSEXg0AOSdLRZBVqjuSqZRKnavje16tAwVcZBKTXQ9EkBSBiEawkSvrvNw3V%2fG8tJtrS6GqAgk9THHr8ExYPNSpx98X1yr4kXSNMvjh9kpPEXzItEvxAQmhJyvfglDziyyKOQ6mlYpZaXjUcDHzyiXSDig3q8wrk2PFGWs2kDEto20G0%2brpRctbkPJD41LxYjd7Za5vz6xNMXkvhStIryM%2feCFpD9LNgFyO7TmUxKEk%2bKXcHzJbIqupnwjI4nG5b5zE0lQoYSO0OiieAMLT0%2bqBmgBz5j46dMf"
+ },
+ {
+  "codigo": "903556-2-LP26",
+  "nombre": "SOFTWARE DE SALAS",
+  "descripcion": "La necesidad de contar con servicio de asignación de espacios para la docencia a través de un software para la Universidad de Valparaíso, que permita asignar eficientemente los cursos en salas de acorde a su capacidad y espacios universitarios (casinos, box de estudios, salas de consejo, espacios deportivos, laboratorios, auditorios, entre otros) y, otras actividades universitarias según requerimientos del equipo directivo, académico y estudiantil de la Universidad en modalidades presenciales, online e híbridas, por un periodo de 24 meses.",
+  "estado": "Publicada",
+  "codigo_estado": "5",
+  "tipo": "LP",
+  "publicacion": "2026-11-10T08:57:26.167",
+  "cierre": "2026-11-30T17:00:00",
+  "monto": null,
+  "moneda": "CLP",
+  "organismo": "UNIVERSIDAD DE VALPARAISO",
+  "unidad": "15 Administración de Edificios Nivel Central",
+  "region": "Región de Valparaíso ",
+  "comuna": "Viña del Mar",
+  "categorias": [
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes"
+  ],
+  "requerimientos": {
+   "items": [
+    {
+     "producto": "Software de administración",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes",
+     "cantidad": 24.0,
+     "unidad": "Mes",
+     "detalle": "Software que permita la administración de los espacios para la docencia de acuerdo a lo solicitado en numeral 11 de bases de licitación (Indicar valor mensual neto)"
+    }
+   ],
+   "items_total": 1,
+   "etapas": 1,
+   "toma_razon": false,
+   "visita_terreno": null,
+   "direccion_visita": "",
+   "entrega_antecedentes": null,
+   "soporte_fisico": null,
+   "direccion_entrega": "",
+   "apertura_tecnica": "2026-11-30T17:01:00",
+   "apertura_economica": "2026-11-30T17:01:00",
+   "respuestas": "2026-11-22T23:59:00",
+   "estimada_adjudicacion": "2027-02-28T15:07:00",
+   "duracion": "24 meses",
+   "renovable": false,
+   "prohibiciones": "",
+   "extension_plazo": false,
+   "modalidad_pago": "pago a 30 días",
+   "estimacion": "precio referencial",
+   "monto_nota": "",
+   "financiamiento": "",
+   "obras": false,
+   "reclamos_comprador": 2775,
+   "contacto": "Dirección de Administración y Logística",
+   "contacto_email": "",
+   "contacto_fono": ""
+  },
+  "visto": "2026-11-10",
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=QcE6hiAUJ9pAfPUvnStNMKzSX%2fw27oWcNL%2bEzC2WvtBrlrDSPz0Ws0plM%2fyl%2fZXbtqacoH5Z5w%2bCPzwh48qFKDgOnjzkM6BN8DADWSAk0zv8wudCFAVOEc1vENJ8rNLf6w%2brjt3G7jwFV8i%2fxaSuh5rLCbpxZ8UVw5d0rMg%2fPclt2%2fdoDHevGb4YJRrsyYNa%2b64LA11ks2J07%2bTNvIce4Qwu8IJPqORHDk3vzrUa4ok5RqzG8OfdvZ%2fUZuU3OdS497j2byWMD4%2bpZeJWncya%2fqjnSuPVMKAr%2fTTCfNkNbjE9eGeklYFAPbL1oLkb1Ite"
+ },
+ {
   "codigo": "2345-181-LP26",
   "nombre": "ADQUISICIÓN EQUIPOS INFORMÁTICOS PARA LA MUNICIPALIDAD DE LAS CONDES",
   "descripcion": "El objetivo de este proceso de licitación es la adquisición de equipos computacionales destinados a satisfacer los requerimientos tecnológicos de la Municipalidad, contribuyendo al fortalecimiento y renovación de su infraestructura informática.\r\nLa contratación contempla la provisión de notebooks de gama alta, computadores tipo torre y notebooks de gama media, de acuerdo con las características, condiciones y requerimientos contenidos en las Bases Técnicas",
@@ -5176,8 +5510,8 @@
    "contacto_fono": ""
   },
   "visto": "2026-11-03",
-  "actualizado": "2026-11-03",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=hsDEhKs9kqyoFdtlVrSoTbjjhnAmScIx5DlOjCy9WjN9cT2SHuShvCDUHBkwAEEgwkRLy5blScqMIvCQI1m6UlUXypuYLH9zSvo4C2CzW5GUhPWbImqeYGEzzZLmJmhmRtawUklKNRcfM0hX0H5u%2fX88sKKDGVvGWG4bKhNbfmeRhOLro3tRIURAoxKvTHpMRe%2boNXdM6PNywj6bFym85ze3eSknBUg4HSQL7XvurIDy%2fBixf3JOWM3W5f8mLCr7r%2baIWvwfLv34YATPjmymvqfqeHVWBZzyELn4JlcXw3HoSqxoRtFlPtYEyIY2AC%2f1"
+  "actualizado": "2026-11-10",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=pbXDqhE%2fTPTxtg5FXAcOokzDvXmKlt3iUOGy5PpJkHsdqXiM%2bS42u%2buS0URp1uG7GjCRtDx3uO0H55x1b6DPvDFMTVPPeBnmlJQ6qdLHOq5XF%2bPARWpHRKU%2blVlXYcrDsS8lIGCArsh8lQPqqf838hE4jdpXX3mrO9f%2bpACoVS2E63xpGNpnVLraHaBeKM2hOBP%2brZey9gP1GgS1gyRvYWfGvaZNpOQhMssfo%2bDgVXoO4mm6b96HvGlkwIHG03t%2bxKoGY4ZqkpWZJZ1kq6gmimk%2fy0Iu2ahidFeKSzlQIuG8W5f3E2MDkgEhTXi1Nt76"
  },
  {
   "codigo": "2426-52-LR26",
