@@ -1,30 +1,30 @@
 [
  {
-  "codigo": "1082957-37-LE26",
-  "nombre": "SERVICIOS DE DESARROLLO DE REPORTERÍA AVANZADA ANALÍTICA Y RE-VIRTUALIZACIÓN DE CURSOS PARA EL AULA VIRTUAL DE PROCHILE",
-  "descripcion": "ProChile invita a participar en el proceso de contratación para servicios de desarrollo de reportería avanzada, analítica y re-virtualización de cursos para el Aula Virtual de ProChile, con el objetivo de optimizar el control de gestión de convocatorias, trazabilidad de la participación y calidad e la oferta formativa institucional en el Aula Virtual de ProChile. “E1O2RT9”.",
+  "codigo": "2048-86-LP26",
+  "nombre": "Software de Gestión de Mantenimiento",
+  "descripcion": "Las presentes bases tienen por objeto la contratación de un convenio por un periodo de 60 meses de 01 Software de Gestión de Mantenimiento para el Nuevo Hospital de Ancud, perteneciente a la red del Servicio de Salud Chiloé.\r\nLa mencionada adquisición tiene como objetivo principal adquirir un software que permita la gestión integral, centralizada y homogénea de las operaciones de mantenimiento general del Hospital de Ancud. Este sistema deberá facilitar la administración de activos, infraestructura y servicios, incluyendo mantenimiento preventivo y correctivo, obras, entre otros.",
   "estado": "Publicada",
   "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-11-13T18:36:09.63",
-  "cierre": "2026-11-24T13:00:00",
-  "monto": 16000000.0,
+  "tipo": "LP",
+  "publicacion": "2026-10-26T15:23:00",
+  "cierre": "2026-11-23T15:01:00",
+  "monto": null,
   "moneda": "CLP",
-  "organismo": "DIRECCION GENERAL DE PROMOCION DE EXPORTACIONES",
-  "unidad": "MN PROMOCION DE EXPORTACIONES",
-  "region": "Región Metropolitana de Santiago",
+  "organismo": "SERVICIO DE SALUD CHILOE",
+  "unidad": "Hospital de Ancud",
+  "region": "Región de los Lagos ",
   "comuna": "",
   "categorias": [
-   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Ingeniería en computación e informática"
+   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Implantación de aplicaciones",
-     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Servicios informáticos / Ingeniería en computación e informática",
+     "producto": "Software de administración",
+     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de administración de redes",
      "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Servicio de desarrollo de reportería avanzada, analítica y re-virtualización de cursos para el Aula Virtual de ProChile, por un periodo de 3 meses."
+     "unidad": "Unidad no definida",
+     "detalle": "SOFTWARE DE GESTION DE MANTENIMIENTO (INGRESAR PRECIO TOTAL DEL CONVENIO, SEGUN ANEXO ECONOMICO N°1)"
     }
    ],
    "items_total": 1,
@@ -35,392 +35,182 @@
    "entrega_antecedentes": null,
    "soporte_fisico": null,
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-24T13:01:00",
-   "apertura_economica": "2026-11-24T13:01:00",
-   "respuestas": "2026-11-19T18:00:00",
-   "estimada_adjudicacion": "2026-12-11T18:00:00",
-   "duracion": "14 semanas",
-   "renovable": false,
-   "prohibiciones": "El adjudicatario no podrá subcontratar, salvo autorización escrita de ProChile.",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 5,
-   "contacto": "Diaz, Andrés",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-11-14",
-  "actualizado": "2026-11-14",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=KBbB2N%2fw7eOcMcUxj9LnSLnCymIi%2fZCc34bw6AbBGrHHoSatl8VKxLho3QGgyQc5CY7UyhT1WODWLJw8BiY0ogSc8SZww%2f%2fuOa%2fJLvY9kY1GLRCo2EK1Pwgys3WhHIE%2bWmbA2cpb6%2bfoI%2b8UINz8NLDi4O2A8f1h7kJrKaprjyMJht%2bpqNJe3L4ENjSJjo6QypnbGooEcP15swMGtRN%2bOThzyKz6gjjAIfrCc%2fh5QhxNyjejoLE1IXqFUirWntIEZgs2KRVO%2bLsiupoHWPgdjcn9ruVREwDF4yKEtt9A1PKZCBOPMbM583V097Be%2br%2bA"
- },
- {
-  "codigo": "1500443-3-LE26",
-  "nombre": "Kit de Habilitación Digital para el DAI",
-  "descripcion": "La Subsecretaría del Interior llama a licitación pública con el objetivo de adquirir equipos tecnológicos y accesorios que conforman el Kit de Habilitación Digital para el Departamento de Asuntos Indígenas de la Subsecretaría del Interior.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-11-13T16:03:51.69",
-  "cierre": "2026-11-23T17:00:00",
-  "monto": 58823529.0,
-  "moneda": "CLP",
-  "organismo": "SUBSECRETARIA DEL INTERIOR",
-  "unidad": "Unidad de Coordinación Asuntos Indigenas",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Santiago",
-  "categorias": [
-   "Equipos y suministros de imprenta, fotográficos y audiovisuales / Equipos de composición y presentación audiovisual / Proyectores y suministros",
-   "Equipos y suministros de imprenta, fotográficos y audiovisuales / Equipos de video, filmación o fotografía / Cámaras",
-   "Maquinaria para generación y distribución de energía / Alambres y cables eléctricos y electrónicos / Conductores eléctricos",
-   "Muebles, accesorios, electrodomésticos y productos electrónicos / Equipos y accesorios audiovisuales / Equipos audiovisuales y de electrónica menor",
-   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Metodologías y tecnologías para mejorar la producción y la fabricación / Administración de edificios e instalaciones",
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Computadores",
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Impresoras"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Proyectores multimedia",
-     "categoria": "Equipos y suministros de imprenta, fotográficos y audiovisuales / Equipos de composición y presentación audiovisual / Proyectores y suministros",
-     "cantidad": 36.0,
-     "unidad": "Unidad",
-     "detalle": "Línea N°1, Telón para proyector de 200 × 150 cm"
-    },
-    {
-     "producto": "Proyectores multimedia",
-     "categoria": "Equipos y suministros de imprenta, fotográficos y audiovisuales / Equipos de composición y presentación audiovisual / Proyectores y suministros",
-     "cantidad": 36.0,
-     "unidad": "Unidad",
-     "detalle": "Línea N°2, Proyector"
-    },
-    {
-     "producto": "Webcams",
-     "categoria": "Equipos y suministros de imprenta, fotográficos y audiovisuales / Equipos de video, filmación o fotografía / Cámaras",
-     "cantidad": 36.0,
-     "unidad": "Unidad",
-     "detalle": "Línea N°3, Cámara web HD o superior"
-    },
-    {
-     "producto": "Acústica y control de ruidos",
-     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Metodologías y tecnologías para mejorar la producción y la fabricación / Administración de edificios e instalaciones",
-     "cantidad": 36.0,
-     "unidad": "Unidad",
-     "detalle": "Línea N°4, Caja acústica activa de mínimo 100 W RMS"
-    },
-    {
-     "producto": "Micrófonos",
-     "categoria": "Muebles, accesorios, electrodomésticos y productos electrónicos / Equipos y accesorios audiovisuales / Equipos audiovisuales y de electrónica menor",
-     "cantidad": 36.0,
-     "unidad": "Unidad",
-     "detalle": "Línea N°5, Micrófono"
-    },
-    {
-     "producto": "Notebook, laptop o computador portátil excepto Tablet PC",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Computadores",
-     "cantidad": 36.0,
-     "unidad": "Unidad",
-     "detalle": "Línea N°6, Notebook"
-    },
-    {
-     "producto": "Impresoras de láser",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Equipos informáticos y accesorios / Impresoras",
-     "cantidad": 36.0,
-     "unidad": "Unidad",
-     "detalle": "Línea N°7, Impresora láser monocromática / Cartucho de tóner adicional para impresora"
-    },
-    {
-     "producto": "Cuerda de extensión",
-     "categoria": "Maquinaria para generación y distribución de energía / Alambres y cables eléctricos y electrónicos / Conductores eléctricos",
-     "cantidad": 36.0,
-     "unidad": "Unidad",
-     "detalle": "Línea N°8, Alargador eléctrico de 20 m y una toma"
-    },
-    {
-     "producto": "Cuerda de extensión",
-     "categoria": "Maquinaria para generación y distribución de energía / Alambres y cables eléctricos y electrónicos / Conductores eléctricos",
-     "cantidad": 72.0,
-     "unidad": "Unidad",
-     "detalle": "Línea N°9, Alargador de 10 m con interruptor y mínimo 5 tomas"
-    }
-   ],
-   "items_total": 9,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-24T09:00:00",
-   "apertura_economica": "2026-11-24T09:00:00",
+   "apertura_tecnica": "2026-11-23T15:01:00",
+   "apertura_economica": "2026-11-23T15:01:00",
    "respuestas": "2026-11-18T18:00:00",
-   "estimada_adjudicacion": "2027-01-22T18:00:00",
-   "duracion": null,
+   "estimada_adjudicacion": "2026-12-31T17:00:00",
+   "duracion": "60 meses",
    "renovable": false,
-   "prohibiciones": "Según lo establecido en el numeral 18 de las bases administrativas, adjuntas.",
+   "prohibiciones": "El adjudicatario no podrá ceder ni transferir en forma alguna, total ni parcialmente los derechos y obligaciones que nacen del desarrollo de la licitación. No se permite subcontratación",
    "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "Considerando la disponibilidad presupuestaria dispuesta por la Subsecretaría del Interior para los servicios referidos, el presupuesto total neto máximo disponible para la adquisición asciende a 49.431.537.",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 100,
-   "contacto": "Hans Weber Orellana",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-11-14",
-  "actualizado": "2026-11-14",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=Y59%2fg2UHfQ4GibgoYBCMq5ECxmi6sZR%2fAkr0oVyrMcbijHTMYd7sF5nipFGt7Nfk3k%2fwCm8ggXbeSxlpvi37hbpeZl0skWebMsjElkniGVSMG7EcpCxKf4%2fH%2bKtQp1Hc4F4KAdsbw36aCUPTQCuEqaxjHnu8ib7IUiXfhRWTB%2flRw4NOaXYjzMjxzB%2bQxkabELaGwHaiPKYQG8ypP%2fGgbUluUDuKYXJBIcL9CRVoMmiqFHRHwvZdadKHOH4%2bEdHFqejJ%2b2IzM8P51%2fMzCZ1Jqd9U%2be%2fb%2fvedau4XUcJuhDSapiSZrXGLy1EJrSFMZQYS"
- },
- {
-  "codigo": "1614-10-LE26",
-  "nombre": "SC-198 LICENCIAMIENTO SOFTWARE VEEAM BACKUP",
-  "descripcion": "CONVOCA A LICITACIÓN PÚBLICA Y DESIGNA COMISIÓN EVALUADORA PARA LA ADQUISICIÓN DE LICENCIAMIENTO DE SOFTWARE DE RESPALDO VEEAM BACKUP POR 12 MESES.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-11-13T15:38:39.86",
-  "cierre": "2026-11-23T17:22:00",
-  "monto": 15000000.0,
-  "moneda": "CLP",
-  "organismo": "SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES",
-  "unidad": "Superintendencia de Electricidad y Combustibles",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "Santiago Centro",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de gestión de licencias",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "CONVOCA A LICITACIÓN PÚBLICA Y\r\nDESIGNA COMISIÓN EVALUADORA\r\nPARA LA ADQUISICIÓN DE\r\nLICENCIAMIENTO DE SOFTWARE DE\r\nRESPALDO VEEAM BACKUP POR 12\r\nMESES."
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-24T12:00:00",
-   "apertura_economica": "2026-11-24T12:00:00",
-   "respuestas": "2026-11-19T23:59:00",
-   "estimada_adjudicacion": "2026-12-23T23:59:00",
-   "duracion": null,
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
+   "estimacion": "precio referencial",
    "monto_nota": "",
-   "financiamiento": "PRESUPUESTO SEC 22.11.003",
+   "financiamiento": "Disponibilidad Presupuestaria",
    "obras": false,
-   "reclamos_comprador": 25,
-   "contacto": "WILLIAMS REBOLLEDO",
+   "reclamos_comprador": 2203,
+   "contacto": "Gissela Arriagada Vilches",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-11-14",
-  "actualizado": "2026-11-14",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=wRT92jL%2fMDHRQNUVUYR52ZDOfyEWyPu84DQ6W3lW6OoM%2bjYnDmbBhYDRTjmE0d7LcWyfULKJLzilh0X3IdkE3KIGoGDbLEId8YTwIYZgVGJotzZ6Zq837a%2bfyKLTn%2fJvEIMlhXUWqmC5bg%2fi3ZYYa8OJqkRL73fKK2ZOb5X%2b%2fTwQkINv87u5Oh2i0RGnMp0un61WV6mOLwmTYQZDgcd%2fGayaMevrEJyIbgY5h2qP9ekBE7sf7RzV3L57zj8n7n1k7x%2fxiTgtOTzPcXxKt4Pv%2fUgbA5a5y3K8Wrem9oCI2WbPjUCKrbqKvX7nVpeIeU%2bJ"
+  "visto": "2026-11-15",
+  "actualizado": "2026-11-15",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=eAzn8jZ9BCRVIg6kHwlEYh1259ns65uvL5XRnUAwI153IqycNBpsXYbDM1Cop1eGcEAzeA7EywWt6uVUMbDqTleStnwRZboFL0lEehEHxp78mWrcJfGzymaNl6OExDLiXWXGa%2bSUg2EluuvguzMPaLmszBJEfZrovkPspIP1CxYFJn3OUPkV%2fnvqyFL5Ec8BV%2fAhamiD8Ue6n3drS2vAjm9QOESFpbpLhK5i1RWx%2bexw63TWBbdO2atyyApMQcQB4Y0DTHKywDK03vgyHlSZ9WCX%2fuMq5MnH74Bbn3E5tyEIv2JvoIzbSEv6fuEgWsi6"
  },
  {
-  "codigo": "2413-33-LE26",
-  "nombre": "INSTALACIÓN Y MANTENCIÓN DE TABLEROS ELÉCTRICOS PARA FERIAS NAVIDEÑAS 2026",
-  "descripcion": "El objeto de la presente licitación comprende los servicios de instalación, reparación y \r\nmantención eléctrica de 61 tableros de empalme (53 en el sector Neptuno y 8 en Parque \r\nBueras) y 51 tableros auxiliares, destinados a la habilitación de los puestos para las dos Ferias \r\nNavideñas de la comuna de Lo Prado. Dichas ferias se desarrollarán entre el miércoles 9 al \r\njueves 24 de diciembre de 2026, operando en un horario de 18:00 a 23:30 horas. \r\n3 \r\nJunto con la propuesta principal, el oferente deberá detallar en su Oferta Económica \r\nlos precios unitarios de:  \r\na) 1 tablero eléctrico de empalme, y  \r\nb) 1 tablero auxiliar con cordón y conectores hembra/macho.  \r\nEstos valores permitirán cubrir eventuales incrementos en el número de puestos o la \r\nsustitución y reposición de equipamiento durante el evento. \r\nEl adjudicatario deberá dar cumplimiento integral a estas Especificaciones Técnicas, a \r\nlas directrices dictadas por la ITO y a la legislación eléctrica vigente. Asimismo, será de su \r\nexclusiva responsabilidad tramitar y entregar las correspondientes declaraciones Anexo TE-1 \r\ndebidamente visadas por la SEC para la totalidad de las instalaciones ejecutadas.",
+  "codigo": "2563-43-LP26",
+  "nombre": "Adquisición de cámaras IA y radares de seguridad",
+  "descripcion": "adquisición, modalidad “llave en mano”, de cámaras  de videovigilancia con inteligencia artificial (IA) y radares de seguridad para el aeródromo El Loa de Calama, compuesta por grabador de video en red, servidor de gestión de video, discos duros, videowall, licencia, y demás elementos, componentes, y servicios asociados.",
   "estado": "Publicada",
   "codigo_estado": "5",
-  "tipo": "LE",
-  "publicacion": "2026-11-13T18:16:38.553",
-  "cierre": "2026-11-20T15:00:00",
-  "monto": null,
+  "tipo": "LP",
+  "publicacion": "2026-09-28T12:55:00",
+  "cierre": "2026-11-23T15:01:00",
+  "monto": 192000000.0,
   "moneda": "CLP",
-  "organismo": "I MUNICIPALIDAD DE LO PRADO",
-  "unidad": "SECRETARIA PLANIFICACION COMUNAL",
+  "organismo": "DIRECCION GENERAL DE AERONAUTICA CIVIL",
+  "unidad": "UNIDAD DE COMPRA CONTRATOS NACIONALES",
   "region": "Región Metropolitana de Santiago",
-  "comuna": "Lo Prado",
+  "comuna": "Providencia",
   "categorias": [
-   "Servicios de construcción y mantenimiento / Servicios de atención, mantenimiento y reparaciones de edificios / Servicios eléctricos"
+   "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección"
   ],
   "requerimientos": {
    "items": [
     {
-     "producto": "Instalación o servicio de sistemas de energía eléctrica",
-     "categoria": "Servicios de construcción y mantenimiento / Servicios de atención, mantenimiento y reparaciones de edificios / Servicios eléctricos",
-     "cantidad": 1.0,
-     "unidad": "Global",
-     "detalle": "Valor global por la instalación, reparación y mantención eléctrica de los 61 tableros eléctricos y tableros auxiliares que se instalarán en las Ferias Navideñas de Lo Prado."
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 1, A.- Radar de Seguridad: \r\n\r\nRadar de seguridad para la detección, localización y seguimiento de objetivos, conforme a las especificaciones técnicas y funcionales establecidas en las presentes bases técnicas, de referencia STS-BG24X-L3/P o equivale"
     },
     {
-     "producto": "Instalación o servicio de sistemas de energía eléctrica",
-     "categoria": "Servicios de construcción y mantenimiento / Servicios de atención, mantenimiento y reparaciones de edificios / Servicios eléctricos",
-     "cantidad": 1.0,
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 2.0,
      "unidad": "Unidad",
-     "detalle": "Valor unitario de 1 tablero eléctrico."
+     "detalle": "Ítem 1, B.- Licencia: Licenciamiento para la integración, administración y operación de los radares de seguridad en el sistema de gestión de video (VMS), teniendo como referencia HikCentral-P-Radar-1Unit o equivalente de otras marcas o fabricantes que per"
     },
     {
-     "producto": "Instalación o servicio de sistemas de energía eléctrica",
-     "categoria": "Servicios de construcción y mantenimiento / Servicios de atención, mantenimiento y reparaciones de edificios / Servicios eléctricos",
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
      "cantidad": 1.0,
      "unidad": "Unidad",
-     "detalle": "Valor unitario de tablero auxiliar con cordón de 20 metros y enchufes hembra y macho."
+     "detalle": "ítem 2: Servidor de gestión de video."
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 3, A.- Cámara de videovigilancia: Cámara IP con funcionalidad de reconocimiento automático de placas patentes (ANPR)teniendo como referencia iDS-TCM403-B(G)/POE/2812 o equivalente de otras marcas o fabricantes que cumplan íntegramente las especificac"
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 3, B.- Licencia: Licenciamiento para habilitar la integración, gestión y operación de las cámaras con funcionalidad ANPR en el sistema de gestión de video (VMS), , teniendo como referencia  HikCentral-P-VSS-1Ch/ANPR o equivalente de otras marcas o fa"
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 6.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 4, A.- Cámara de videovigilancia: Cámara IP con capacidad de reconocimiento facial, teniendo como referencia iDS-2CD7A46G2-IZHS o equivalente de otras marcas o fabricantes que cumplan íntegramente las especificaciones técnicas y funcionales estableci"
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 6.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 4, B.- Licencia: Licenciamiento para habilitar la funcionalidad de reconocimiento facial de las 6 cámaras a instalar en el sistema de gestión de video (VMS),, teniendo como referencia HikCentral P-AcuSeek-1Ch/RealTime&Search o equivalente de otras ma"
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 5, A.-Grabador de video: Grabador de vídeo en red (NVR), destinado a la grabación, almacenamiento, gestión y reproducción de las señales de video de la solución, teniendo como modelo de referencia iDS-9664NXI-M16/X o equivalente de otras marcas o fab"
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 8.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 5, B.- Disco duro: B.- De 10 TB, 7200 RPM, 3.5”, SATA, apto para sistemas de videovigilancia y operación continua 24/7, teniendo como modelo de referencia  WUS721010ALE6L4, o equivalente de otras marcas o fabricantes que cumplan íntegramente las espe"
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 6, A.-Videowall Licencia: A.- Licencia necesaria para habilitar la gestión, configuración y operación del módulo de videowall para VMS, teniendo como referencia HikCentral-P-SmartWall/Module o equivalente de otras marcas o fabricantes que permitan cu"
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 6, B.-Videowall Licencia: Licencia para VMS, que permita habilitar y mantener operativo los canales requeridos y demás funcionalidades señaladas en las presentes bases, teniendo como referencia  HikCentral-P-Maintenance-16 Ch/Base /Promo) o equivalen"
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 6, C.- Videowall: C.- Pantalla LCD 46”, teniendo como modelo de referencia DS-D2046TL-2B o equivalente de otras marcas o fabricantes que cumpla íntegramente las especificaciones técnicas y funcionales establecidas en las presentes bases técnicas."
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 6, D.- Videowall: Sistema de soporte y anclaje para monitor 46” compatible con la pantalla ofertada y adecuado a las condiciones del lugar de instalación, teniendo como modelo de referencia  DP-D2X46XXX-1X1 o equivalente de otras marcas o fabricantes"
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 2.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 6, E.- Videowall: Decodificador 4K,teniendo como modelo de referencia DS-6908UDI o equivalente de otras marcas o fabricantes que cumpla íntegramente las especificaciones técnicas y funcionales establecidas en las presentes Bases Técnicas."
+    },
+    {
+     "producto": "Cámaras de seguridad",
+     "categoria": "Equipos y suministros de defensa, orden público, protección y seguridad / Seguridad, vigilancia y detección / Equipo de vigilancia y detección",
+     "cantidad": 1.0,
+     "unidad": "Unidad",
+     "detalle": "Ítem 6, F.-Videowall:  F.- Control IP PTZ Joystick  para la gestión y operación de las cámaras de videovigilancia, compatible con el VMS HikCentral de propiedad de la DGAC, teniendo como modelo de referencia  DS-1600KI o equivalente de otras marcas o fabr"
     }
    ],
-   "items_total": 3,
+   "items_total": 16,
    "etapas": 1,
    "toma_razon": false,
    "visita_terreno": null,
    "direccion_visita": "",
    "entrega_antecedentes": null,
-   "soporte_fisico": null,
+   "soporte_fisico": "2026-11-23T00:00:00",
    "direccion_entrega": "",
-   "apertura_tecnica": "2026-11-20T15:30:00",
-   "apertura_economica": "2026-11-20T15:30:00",
-   "respuestas": "2026-11-18T23:59:00",
-   "estimada_adjudicacion": "2026-12-10T23:59:00",
+   "apertura_tecnica": "2026-11-24T15:00:00",
+   "apertura_economica": "2026-11-24T15:00:00",
+   "respuestas": "2026-10-27T23:59:00",
+   "estimada_adjudicacion": "2026-12-24T23:59:00",
    "duracion": null,
    "renovable": false,
    "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "MUNICIPALIDAD DE LO PRADO",
-   "obras": false,
-   "reclamos_comprador": 191,
-   "contacto": "Maximiliano Huerta Carmona",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-11-14",
-  "actualizado": "2026-11-14",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=g5DRs3l6%2be3Xvkk1VjjhP0lECkI71waFr097HP2622XlP%2fq0VFaji1ucFkvHtGzJSxbsFfdtE5Ql0j1Pg7QBTLJUUHoA0QYNIbLBCd2PbbR6sofUskWaQV4h%2fRHKBaxMNvvMquHIj8Hvse93CmHrQ0jMls2QnUIOWCgfEtUOQlvzceR4tiPP2WJ1JAm2RlX74w2Pq547cSpTe%2fn3wljF1dH6WypF1c%2b86MoK9D6X67r%2bdVlR8RkYXFM8n3%2bMeR9P%2bbbGxp2ffXfGRECvfxlVzOGKd2bdsBqkbWRlIb5cWw3mHp1oq2ie6uqQsg2t6yHv"
- },
- {
-  "codigo": "2699-48-LR26",
-  "nombre": "SERVICIO DE ANALÍTICA SISTEMA DE VIDEOVIGILANCIA",
-  "descripcion": "SERVICIO DE ANALÍTICA PARA EL SISTEMA DE VIDEOVIGILANCIA DE LA COMUNA DE LA REINA",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-11-13T16:36:07.597",
-  "cierre": "2026-12-15T13:00:00",
-  "monto": 451000000.0,
-  "moneda": "CLP",
-  "organismo": "I MUNICIPALIDAD DE LA REINA",
-  "unidad": "Secretaría de Planificación",
-  "region": "Región Metropolitana de Santiago",
-  "comuna": "La Reina",
-  "categorias": [
-   "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Software de sistema experto",
-     "categoria": "Tecnologías de la información, telecomunicaciones y radiodifusión / Software / Software de gestión",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "SERVICIO DE ANALÍTICA PARA EL SISTEMA DE VIDEOVIGILANCIA DE LA COMUNA DE LA REINA"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-12-15T13:01:00",
-   "apertura_economica": "2026-12-15T13:01:00",
-   "respuestas": "2026-11-27T18:00:00",
-   "estimada_adjudicacion": "2026-12-29T15:34:00",
-   "duracion": "48 meses",
-   "renovable": false,
-   "prohibiciones": "",
-   "extension_plazo": false,
-   "modalidad_pago": "pago a 30 días",
-   "estimacion": "presupuesto disponible",
-   "monto_nota": "",
-   "financiamiento": "",
-   "obras": false,
-   "reclamos_comprador": 219,
-   "contacto": "Nelson Merino",
-   "contacto_email": "",
-   "contacto_fono": ""
-  },
-  "visto": "2026-11-14",
-  "actualizado": "2026-11-14",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=2pKgFwNt1FszJQfX2%2fWzmo45S%2bzEzkd9u0IkOcNy273zXwxajaqD67yA4Cijk8HWO4Hu%2fpY5raGd8s49wRBEyd6CoXiMz67Ng666yU1HHMu0q7rdFbiFSlJqcYlZkMqlw%2fLP%2b%2fRgBjBES8Gyf2X4Nsupt2gUjQ7RFZ9Hj4K7mXrwBIcZaajGe01hx0lQYniJFvJNNa5LyIDSnNUKMN1bk4stjThjjU30Be1ikVOCuCS%2fhtj1HTPEKg9uOcziiD1LGC0KG4JTWvIoyNG%2bMy9mDaFiaxsVkYAC%2fTAZYJCLGYX1ESYjzSQ302tMGMB3DMcN"
- },
- {
-  "codigo": "5056-132-LR26",
-  "nombre": "Servicio integral de administración de plataforma digital y logística de distribución de productos",
-  "descripcion": "El objetivo de la presente licitación, es invitar a través de www.mercadopublico.cl a todos los proveedores del rubro a participar del Servicio integral de administración de plataforma digital y logística de distribución de productos para el Hospital Regional de Talca y bajo las especificaciones técnicas requeridas por la Institución con el fin de seleccionar la oferta más conveniente de acuerdo a los criterios de evaluación, satisfaciendo así la demanda de los usuarios.",
-  "estado": "Publicada",
-  "codigo_estado": "5",
-  "tipo": "LR",
-  "publicacion": "2026-11-13T16:39:17.197",
-  "cierre": "2026-12-14T17:01:00",
-  "monto": null,
-  "moneda": "CLP",
-  "organismo": "SERVICIO DE SALUD DEL MAULE HOSPITAL DE TALCA",
-  "unidad": "Servicios",
-  "region": "Región del Maule ",
-  "comuna": "",
-  "categorias": [
-   "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Metodologías y tecnologías para mejorar la producción y la fabricación / Gestión de cadena de suministro o abastecimiento"
-  ],
-  "requerimientos": {
-   "items": [
-    {
-     "producto": "Logística",
-     "categoria": "Servicios basados en ingeniería, ciencias sociales y tecnología de la información / Metodologías y tecnologías para mejorar la producción y la fabricación / Gestión de cadena de suministro o abastecimiento",
-     "cantidad": 1.0,
-     "unidad": "Unidad",
-     "detalle": "Servicio integral de administración de plataforma digital y logística de distribución de artículos. INDICAR VALOR TOTAL NETO y completar anexo económico"
-    }
-   ],
-   "items_total": 1,
-   "etapas": 1,
-   "toma_razon": false,
-   "visita_terreno": null,
-   "direccion_visita": "",
-   "entrega_antecedentes": null,
-   "soporte_fisico": null,
-   "direccion_entrega": "",
-   "apertura_tecnica": "2026-12-14T17:02:00",
-   "apertura_economica": "2026-12-14T17:02:00",
-   "respuestas": "2026-11-20T17:30:00",
-   "estimada_adjudicacion": "2027-01-29T17:30:00",
-   "duracion": "12 meses",
-   "renovable": false,
-   "prohibiciones": "Se deja constancia que le queda prohibido al adjudicatario el subcontratar por los servicios prestados.",
    "extension_plazo": false,
    "modalidad_pago": "pago a 30 días",
    "estimacion": "precio referencial",
    "monto_nota": "",
    "financiamiento": "",
    "obras": false,
-   "reclamos_comprador": 1318,
-   "contacto": "Jurídica",
+   "reclamos_comprador": 208,
+   "contacto": "Javier Pacheco",
    "contacto_email": "",
    "contacto_fono": ""
   },
-  "visto": "2026-11-14",
-  "actualizado": "2026-11-14",
-  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=RlKqjw04QO412xGsu33Dkjh4jEV8gO9PrTW1bJm6YG4194gPGk5Rnmjbo8XpyAk4GZ0IscbqIpSHAceepAxiDHD5fXCJG5Iq3lSjvOkTiwMhHg9U7OefnOhULDPgoqKY93AEBejjZL9saEaxNpVzJOc0da%2b3%2bICANpqB1V1k1nYy3DS4cTIsWMSyqusQ8rQ7XX8YKudEtgKxXCkLGIfxSCn32%2b5Xxyu7FetVYSAdTwRUcLMna9XNIOCLffKJyzWKhxynpLZxwly8f2Uo7hT5KaDnOQe34MfC519i72OJ8abhbsAs7XRXg8xehrnsHNqY"
+  "visto": "2026-11-15",
+  "actualizado": "2026-11-15",
+  "url_anexos": "https://www.mercadopublico.cl/Procurement/Modules/Attachment/ViewAttachment.aspx?enc=pQHlPh0wTR9Aezoei%2fvvIhvq%2bMn%2bc5ZHo9BBReL5RKTx0ooG1nFiBKvDlTuL5MwNObjSUmUQAgksYZ8cse3bQY7tKm12mIPfnP6SVPYgX1UCLX1qYkbFdj9jWLbW8kTByQceX1aPi4vVozCmnNcn%2fDn4beJZCR3LUGov1D%2fho26RgJS7%2f3%2f1on7IaCmzd0zsigd8E2qGbC98SjKFO2i2JJ0k5%2fV3FO3lyhByPczz6qbrWLxIMNJPpGcHF8eLUmMaDQ805OAPZaSROJo7jm6COJo46%2fwWNBSUYCZU%2bEu76HoK9F1ZwDUsy9nbgM50jemL"
  }
 ]
